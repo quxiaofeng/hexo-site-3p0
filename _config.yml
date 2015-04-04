@@ -65,6 +65,9 @@ pagination_dir: page
 
 # Disqus
 disqus_shortname: quxiaofenggithub
+# Duoshuo comment
+duoshuo: 
+  short_name: quxiaofeng
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
