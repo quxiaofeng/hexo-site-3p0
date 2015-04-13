@@ -138,7 +138,7 @@ Thanks PAM!
 https://www.youtube.com/watch?v=X9kQ5zumZww
 传统儿歌
 
-![images/Lesson_2_il_etait_une_bergere.pdf]()
+![](/images/Lesson_2_il_etait_une_bergere.png)
 
 **歌词**
 
@@ -316,7 +316,7 @@ https://www.youtube.com/watch?v=4KrBIhEfSBE
 https://www.youtube.com/watch?v=64kmPHOQJRg
 叙事民歌
 
-![images/Lesson_5_voila_le_bon_vent.pdf]()
+![](/images/Lesson_5_voila_le_bon_vent.png)
 
 > *Refrain*
 >  V'là l'bon vent, v'là l'joli vent
@@ -387,7 +387,7 @@ https://www.youtube.com/watch?v=g7mpEatLGks
 https://www.youtube.com/watch?v=LB-RUwDaz20
 摇篮曲
 
-![images/Lesson_7_fais_dodo_colas.pdf]()
+![](/images/Lesson_7_fais_dodo_colas.png)
 
 **歌词**
 
