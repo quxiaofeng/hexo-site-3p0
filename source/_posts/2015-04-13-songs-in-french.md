@@ -35,7 +35,7 @@ The music was created, before, by Joseph Kosma for the ballet "Le Rendez-Vous" i
 The poem was published, after the death of Jacques Prévert, in the book "Soleil de Nuit" in 1980.
 Thanks PAM!
 
-**独白**
+#### 独白 ####
  
 > Oh, je voudais tant que tu te souviennes
 > Des jours heureux où nous étions amis
@@ -67,7 +67,7 @@ Thanks PAM!
 > Et la chanson que tu chantais,
 > Toujours, toujours je l'entendrai.
  
- **歌词**
+####  歌词 ####
  
 > C'est une chanson qui nous ressemble,
 > Toi tu m'aimais, moi je t'aimais
@@ -89,7 +89,7 @@ Thanks PAM!
 > Et la mer efface sur le sable
 > Les pas des amants désunis
 
-**翻译**
+#### 翻译 ####
 
 > Oh! I would like as much as you remember
 > The happy days where we were friends.
@@ -140,7 +140,7 @@ https://www.youtube.com/watch?v=X9kQ5zumZww
 
 ![](/images/Lesson_2_il_etait_une_bergere.png)
 
-**歌词**
+#### 歌词 ####
 
 > Il était une bergère
 > Et ron et ron, petit patapon
@@ -208,7 +208,7 @@ https://www.youtube.com/watch?v=X9kQ5zumZww
 https://www.youtube.com/watch?v=-4kNeFGBAcw
 色彩教学歌
 
-**歌词**
+#### 歌词 ####
 
 > **Arc-en-ciel**
 >  © 2006 Alain Le Lait
@@ -253,7 +253,7 @@ https://www.youtube.com/watch?v=-4kNeFGBAcw
 >  o o o o o
 >  Cha la la la la
 
-**翻译**
+#### 翻译 ####
 
 > **Rainbow**
 > © 2006 Alain Le Lait
@@ -365,7 +365,7 @@ https://www.youtube.com/watch?v=64kmPHOQJRg
 https://www.youtube.com/watch?v=g7mpEatLGks
 浪漫歌剧
 
-**歌词**
+#### 歌词 ####
 > https://www.youtube.com/watch?v=VNy8MlyZzJo
 > 
 > Plaisir d'amour ne dure qu'un moment, 
@@ -389,7 +389,7 @@ https://www.youtube.com/watch?v=LB-RUwDaz20
 
 ![](/images/Lesson_7_fais_dodo_colas.png)
 
-**歌词**
+#### 歌词 ####
 
 > http://comptines.tv/fais_dodo_colas_mon_p_tit_frere
 > 
@@ -426,3 +426,7 @@ https://www.youtube.com/watch?v=LB-RUwDaz20
 > 
 > Fais dodo, Colas mon p'tit frère
 > Fais dodo, t'auras du lolo
+
+[**Youtube list**](https://www.youtube.com/playlist?list=PLBoCtEy2AC8O0lJ_c4haYp7oHboo_kXXy)
+
+[**百度云盘**](http://pan.baidu.com/s/1kTrEWdh)
