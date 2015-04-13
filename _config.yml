@@ -80,3 +80,12 @@ deploy:
   repo: 
     gitcafe: git@gitcafe.com:quxiaofeng/quxiaofeng.git,gitcafe-pages
     github: git@github.com:quxiaofeng/quxiaofeng.github.io.git,master
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Research: /research
+  Links: /links
+  About: /about
+
