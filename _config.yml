@@ -70,6 +70,8 @@ disqus_shortname: quxiaofenggithub
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
+plugins:
+  hexo-generator-feed
 ## Themes: http://hexo.io/themes/
 theme: icarus
 
@@ -81,6 +83,8 @@ deploy:
     gitcafe: git@gitcafe.com:quxiaofeng/quxiaofeng.git,gitcafe-pages
     github: git@github.com:quxiaofeng/quxiaofeng.github.io.git,master
 
+################### theme config #########################
+
 # Header
 menu:
   Home: /
@@ -89,3 +93,37 @@ menu:
   Links: /links
   About: /about
 
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- recent_posts
+- category
+- tags: false
+- tagcloud
+- archive
+thumbnail: true
+
+# Contacts
+contacts:
+  github: http://github.com/quxiaofeng
+  twitter: http://twitter.com/quxiaofeng
+  facebook: http://facebook.com/quxiaofeng
+  dribbble: http://dribbble.com/quxiaofeng
+  rss: /atom.xml
+
+# Links
+links:
+  Hexo: http://hexo.io
+
+# Miscellaneous
+google_analytics: UA-50831338-1
+favicon: /css/images/favicon.png
+twitter: http://twitter.com/quxiaofeng
+google_plus:
+fb_admins:
+fb_app_id:
