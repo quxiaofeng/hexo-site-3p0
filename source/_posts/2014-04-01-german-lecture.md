@@ -14,6 +14,8 @@ Based on a german intro course I took in February 2014.
 
 <!--more-->
 
+## Lecture One to Four
+
 ### Das Alphabet
 
 http://www.passwort-deutsch.de/lernen/band1/lektion1/aktivitaet06-01.htm

@@ -12,9 +12,9 @@ I have been insterested in [`hexo`](http://hexo.io/) for over a year. And finall
 
 The concerns that delayed my decision are as follows:
 
-#### 1. The [hexo](http://hexo.io/) site is generated in local. The site has to be uploaded after being generated.
+1. The [hexo](http://hexo.io/) site is generated in local. The site has to be uploaded after being generated.
 
-#### 2. The source and the public site are actually two different git repos.
+2. The source and the public site are actually two different git repos.
 
 The final kick is the astonishing slow and pretty theme [Phase](http://zespia.tw/blog/2012/12/07/hexo-theme-phase/). At first, I just want to try and test this theme. I migranted previous jekyll-style markdown files to a [Phase](http://zespia.tw/blog/2012/12/07/hexo-theme-phase/)-themed hexo site. Though the theme is slow in some PCs or browsers, the migrant process is pretty smooth. [The themes](https://github.com/tommy351/hexo/wiki/Themes) are actually abundent comparing with [jekyll themes](http://jekyllthemes.org/). Then, I continued the migrant and finished it.
 
@@ -26,17 +26,17 @@ This site is generated in a Ubuntu 14.04. All tools are installed with npm. The 
 
 I did a little fix to the [`cover` theme](https://github.com/daisygao/hexo-themes-cover).
 
-##### 1. The [duoshuo fix](https://github.com/quxiaofeng/hexo-themes-cover/commit/8e9ac9dd1748fad96af2ec260b6994fde0c438c7#diff-9f6b1a858766407dc868689e3495f0de).
+1. The [duoshuo fix](https://github.com/quxiaofeng/hexo-themes-cover/commit/8e9ac9dd1748fad96af2ec260b6994fde0c438c7#diff-9f6b1a858766407dc868689e3495f0de).
 
 I don't know why previous setting is not working. Therefore, I rewrite it as it is now.
 
-##### 2. The [addthis/jiathis fix](https://github.com/quxiaofeng/hexo-themes-cover/commit/8e9ac9dd1748fad96af2ec260b6994fde0c438c7#diff-9f6b1a858766407dc868689e3495f0de) 
+2. The [addthis/jiathis fix](https://github.com/quxiaofeng/hexo-themes-cover/commit/8e9ac9dd1748fad96af2ec260b6994fde0c438c7#diff-9f6b1a858766407dc868689e3495f0de) 
 
 In Gao's [`cover` theme](https://github.com/daisygao/hexo-themes-cover), the jiathis uid is not exposed in {% raw %}`_config.yml`{% endraw %}. Now it is in `theme.addthis.uid`.
 
 And also a page switch `page.share` is added. This `addthis` share can be disabled by setting `share: false`.
 
-##### 3. Add multiple icons for the site
+3. Add multiple icons for the site
 
 This idea is inspired by the [jekyll HMFAYSAL OMEGA theme](http://jekyllthemes.org/themes/hmfaysal-omega-theme/). Many icons are added to the site header file. It shows proper icons in different Apple devices.
 

@@ -11,7 +11,7 @@ author_title: 'PhD Candidate & EECS Engineer'
 avatar: css/images/avatar.png
 location: 'Hong Kong & Shenzhen, China'
 follow: https://github.com/quxiaofeng/
-language: en
+language: en-US
 timezone:
 
 # URL
@@ -64,9 +64,9 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-disqus_shortname: quxiaofenggithub
+# disqus_shortname: quxiaofenggithub
 # Duoshuo
-# duoshuo_shortname: quxiaofeng
+duoshuo_shortname: quxiaofeng
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
@@ -82,3 +82,50 @@ deploy:
   repo: 
     gitcafe: git@gitcafe.com:quxiaofeng/quxiaofeng.git,gitcafe-pages
     github: git@github.com:quxiaofeng/quxiaofeng.github.io.git,master
+
+# =============================================================================
+# NexT Theme configuration
+# =============================================================================
+
+# 多说帐号
+duoshuo_shortname: quxiaofeng
+
+# DISQUS 帐号 （如果已经设置 多说 帐号，此选项将被跳过）
+# disqus_shortname: quxiaofenggithub
+
+
+# 社交链接，将在侧栏中显示
+social:
+  GitHub: http://www.github.com/quxiaofeng
+  Twitter: http://www.twitter.com/quxiaofeng
+  Facebook: http://www.facebook.com/quxiaofeng
+  Weibo: http://www.weibo.com/quxiaofeng
+  DouBan: http://www.douban.com/people/gBlueBird
+  ZhiHu: http://www.zhihu.com/people/quxiaofeng
+  # 等等
+
+
+# Creative Commons 4.0 International License.
+# http://creativecommons.org/
+# Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+creative_commons: by-nc-sa
+
+
+# Google 站长工具验证，请选择 `HTML Meta` 验证方式
+# See: https://www.google.com/webmasters/
+# google_site_verification: VvyjvVXcJQa0QklHipu6pwm2PJGnnchIqX7s5JbbT_0
+
+
+# Google 分析 ID
+google_analytics: UA-50831338-1
+
+
+# 百度统计 ID，此 ID 是百度统计提供脚本中 hm.js? 后面那串字符，非百度统计帐号
+# baidu_analytics: 50c15455e37f70aea674ff4a663eef27
+
+# 站点起始时间
+since: 2011
+
+# =============================================================================
+# End NexT Theme configuration
+# =============================================================================
