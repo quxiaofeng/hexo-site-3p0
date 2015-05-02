@@ -36,7 +36,7 @@ mathjax: false
 # Teaching
 
 + Teaching Assistant, ENG2003 Information Technology, 2012 Fall (<a href="https://github.com/quxiaofeng/eng2003" target="_blank">Public Tutorials</a>; <a href="https://bitbucket.org/quxiaofeng/eng2003" target="_blank">Private Information</a>)
-+ Teaching Assistant, COMP435p Biometrics Authentication, Supervised by [Prof. David Zhang](http://www4.comp.polyu.edu.hk/~csdzhang/), 2012 Spring (<a href="https://github.com/quxiaofeng/COMP435p" target="_blank">Public Tutorials</a>; <a href="https://bitbucket.org/quxiaofeng/comp435p" target="_blank">Private Information</a>)
++ Teaching Assistant, COMP435p Biometrics Authentication, Supervised by [Prof. David Zhang](http://www4.comp.polyu.edu.hk/~csdzhang/), 2012 Spring (<a href="https://github.com/quxiaofeng/COMP435p" target="_blank">Public Tutorials</a>; <a href="https://bitbucket.org/quxiaofeng/comp435p" target="_blank">Private Information</a>); <a href="http://COMP435p.tk">A tutorial</a>
 + Teaching Assistant, COMP210 Discrete Structures, Supervised by <a href="http://www.cas.mcmaster.ca/~rzheng/">Dr. Rong Zheng</a>, 2011 Fall (<a href="https://github.com/quxiaofeng/comp210tut" target="_blank">Public Tutorials</a>)
 + Teaching Assistant, COMP102 Enterprise Information Technology, 2011 Spring
 + Teaching Assistant, COMP407 Computer Graphics, Supervised by [Prof. Jane You](http://www4.comp.polyu.edu.hk/~csyjia/profile_JaneYou.pdf), 2010 Fall

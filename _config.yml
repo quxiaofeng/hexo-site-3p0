@@ -8,7 +8,7 @@ subtitle:
 description: '多少恨，昨夜梦魂中。还似旧时游上苑，车如流水马如龙。花月正春风。'
 author: Xiaofeng QU
 author_title: 'PhD Candidate & EECS Engineer'
-avatar: css/images/avatar.png
+avatar: /avatar.png
 location: 'Hong Kong & Shenzhen, China'
 follow: https://github.com/quxiaofeng/
 language: en-US
@@ -124,7 +124,7 @@ google_analytics: UA-50831338-1
 # baidu_analytics: 50c15455e37f70aea674ff4a663eef27
 
 # 站点起始时间
-since: 2011
+since: 2012
 
 # =============================================================================
 # End NexT Theme configuration

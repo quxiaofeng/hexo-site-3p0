@@ -52,6 +52,20 @@ mathjax: false
 + [Mobile - Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
 + [VPN  - VpnCloud](https://www.ttincloud.com/)
 
+# People
+
++ [Prof. David Zhang](http://www4.comp.polyu.edu.hk/~csdzhang)
++ [Prof. Jane You](http://www4.comp.polyu.edu.hk/~csyjia)
++ [Dr. Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang)
++ [Dr. Ajay Kumar](http://www4.comp.polyu.edu.hk/~csajaykr)
++ [Dr. Wangmeng Zuo](http://homepage.hit.edu.cn/pages/wangmengzuo)
++ [Dr. Lin Zhang](http://sse.tongji.edu.cn/linzhang)
++ [Dr. Meng Yang](http://id.sciencenet.cn/u/mikemengyang)
++ [Dr. Pengfei Zhu](http://www4.comp.polyu.edu.hk/~cspzhu)
++ [Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
++ [Yan Ke](http://yanke23.tk/)
++ [Jun Xu](http://wangliuqing.tk/)
+
 # Free TK domains
 
 + [Palmprint Survey](http://www.palmprint.tk/)
@@ -65,4 +79,26 @@ mathjax: false
 + [Center for Optical Fiber Sensors of Shenzhen University](http://fibersensors.tk/)
 + [Projet Compromis](http://projetcompromis.tk/)
 + [Raising Kids in Hong Kong](http://www.raisingkidsinhk.tk)
+
+# Smart Hardware
+
++ [雷锋网](http://www.leiphone.com)
++ [极客公园](http://www.geekpark.net)
++ [动点科技](http://cn.technode.com)
++ [cnBeta](http://www.cnbeta.com)
++ [Engadget](http://www.engadget.com/)
++ [IT经理网](http://www.ctocio.com)
++ [51CTO](http://www.51cto.com/)
++ [爱极客实验室](http://www.igeeklab.com)
++ [速途网](http://www.sootoo.com/)
++ [ZEALER](http://www.zealer.com)
++ [FView](http://fview.cn)
++ [科技美学](http://v.qq.com/vplus/kejimeixue)
++ [docker中文](http://www.docker.org.cn/)
++ [Julia Documentation](http://docs.julialang.org/en/release-0.3/)
++ [scikit-learn Machine Learning in Python](http://scikit-learn.org/stable/index.html)
++ [Sense](https://sense.io/)
++ [开源中国](http://www.oschina.net/)
++ [Ruby China](https://ruby-china.org/)
++ [V2EX = way to explore](https://www.v2ex.com/)
 
