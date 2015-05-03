@@ -30,7 +30,7 @@ install:
 before_script:
 - git config --global user.name 'QU Xiaofeng'
 - git config --global user.email 'xiaofeng.qu.hk@ieee.org'
-# - git clone git://github.com/heroicyang/hexo-theme-modernist.git themes/modernist
+- git clone --depth 1 --branch quxiaofeng -- single-branch https://github.com/quxiaofeng/hexo-theme-icarus.git themes/icarus
 
 script:
 - hexo generate
