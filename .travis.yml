@@ -43,5 +43,5 @@ after_success:
 - cp -r ../public/* .
 - git add -A .
 - git commit -m 'Site updated'
-- git branch -m gh-pages
-- git push -q -u origin gh-pages
+- git branch -m master
+- git push -q -u origin master
