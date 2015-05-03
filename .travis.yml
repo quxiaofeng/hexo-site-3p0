@@ -8,8 +8,11 @@
 #     1. Generate github access token on https://github.com/settings/applications#personal-access-tokens
 #     2. Add an Environment Variable on https://travis-ci.org/{github username}/{repository name}/settings/env_vars
 #         Variable Name: DEPLOY_REPO
-#         Variable Value: https://{githb access token}@github.com/{github username}/{repository name}.git 
+#         Variable Value: https://{githb access token}@github.com/{github username}/{repository name}.git
 #         Example: DEPLOY_REPO=https://6b75cfe9836f56e6d21187622730889874476c23@github.com/jkeylu/test-hexo-on-travis-ci.git
+
+notifications:
+  email: false
 
 language: node_js
 
