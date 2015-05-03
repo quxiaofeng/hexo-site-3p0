@@ -98,6 +98,7 @@ mathjax: false
 + [Julia Documentation](http://docs.julialang.org/en/release-0.3/)
 + [scikit-learn Machine Learning in Python](http://scikit-learn.org/stable/index.html)
 + [Sense](https://sense.io/)
++ [GuruDigger](http://gurudigger.com/products)
 + [开源中国](http://www.oschina.net/)
 + [Ruby China](https://ruby-china.org/)
 + [V2EX = way to explore](https://www.v2ex.com/)
