@@ -9,11 +9,11 @@ mathjax: false
 
 # [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php) Links
 
-+ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php)    
-+ [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout)   
-+ [Research Portal](https://www40.polyu.edu.hk/rostudportal/tologin.do)   
++ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php)
++ [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout)
++ [Research Portal](https://www40.polyu.edu.hk/rostudportal/tologin.do)
 + [Sports Facilities Booking System](https://www40.polyu.edu.hk/saosport/)
-+ [Library](http://www.lib.polyu.edu.hk/)    
++ [Library](http://www.lib.polyu.edu.hk/)
 + [University Health Service Online Booking](https://uhsappt.polyu.edu.hk/)
 + [Financial Office](http://www.polyu.edu.hk/fo/FO_Web/index.php?page=5&subpage=stud04)
 + [EEPRS](http://www.engl.polyu.edu.hk/eeprs/)
@@ -24,19 +24,26 @@ mathjax: false
 + [PolyU Beamer Theme](http://quxiaofeng.me/articles/20140322-polyu-beamer-theme.html)
 + [PolyU Thesis Template](http://quxiaofeng.me/articles/20140323-polyu-thesis-template.html)
 
-## [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)  
+## [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
 
-+ [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/)     
-+ [Intranet](https://intranet.comp.polyu.edu.hk/)  
-+ [iPrint Printer Driver](http://sfps.comp.polyu.edu.hk/ipp)   
++ [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/)
++ [Intranet](https://intranet.comp.polyu.edu.hk/)
++ [iPrint Printer Driver](http://sfps.comp.polyu.edu.hk/ipp)
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin), Microsoft software for learning, teaching and research
 
-# Work and Study
+# Work and Study (in Cloud and Mobile?)
 
 + [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems) - Paper
++ [GitHub](https://github.com/quxiaofeng)
++ [BitBucket](http://bitbucket.org/quxiaofeng)
++ [Overleaf - formerly WriteLaTeX](https://www.overleaf.com/)
++ [ShareLaTeX](https://www.sharelatex.com/)
++ [Sense](https://sense.io/)
++ [Beaker](http://beakernotebook.com/)
++ [Julia Documentation](http://docs.julialang.org/en/release-0.3/)
++ [scikit-learn Machine Learning in Python](http://scikit-learn.org/stable/index.html)
++ [docker中文](http://www.docker.org.cn/)
 + [Duolingo](https://www.duolingo.com/) - Languages
-+ [GitHub](https://github.com/quxiaofeng) - for Public Code Repos
-+ [BitBucket](http://bitbucket.org/quxiaofeng) - for Private Code Repos
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/)
 
 # Life
@@ -98,13 +105,3 @@ mathjax: false
 + [开源中国](http://www.oschina.net/)
 + [Ruby China](https://ruby-china.org/)
 + [V2EX = way to explore](https://www.v2ex.com/)
-
-# Machine Learning
-
-+ [docker中文](http://www.docker.org.cn/)
-+ [Julia Documentation](http://docs.julialang.org/en/release-0.3/)
-+ [scikit-learn Machine Learning in Python](http://scikit-learn.org/stable/index.html)
-+ [Sense](https://sense.io/)
-
-
-
