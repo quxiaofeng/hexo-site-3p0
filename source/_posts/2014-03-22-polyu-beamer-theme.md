@@ -1,8 +1,8 @@
 ---
 layout: photo
 title: "PolyU Beamer Theme"
-description: 
-headline: 
+description:
+headline:
 category: latex
 tags: [latex, beamer, presentation, writing, PolyU]
 comments: true
