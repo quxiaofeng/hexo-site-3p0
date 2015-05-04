@@ -7,7 +7,10 @@ share: false
 mathjax: false
 ---
 
-> # Qu, Xiao Feng / 曲晓峰 (qǔ xiǎo fēng) / Eli
+> # Qu, Xiao Feng
+> # 曲晓峰
+> ## (qǔ xiǎo fēng)
+> ## Eli
 >
 > Ph.D. Candidate
 >
