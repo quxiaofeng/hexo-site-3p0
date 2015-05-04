@@ -79,7 +79,7 @@ theme: icarus
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: 
+  repo:
     gitcafe: git@gitcafe.com:quxiaofeng/quxiaofeng.git,gitcafe-pages
     github: git@github.com:quxiaofeng/quxiaofeng.github.io.git,master
 
