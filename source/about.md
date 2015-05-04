@@ -7,20 +7,22 @@ share: false
 mathjax: false
 ---
 
-# Qu, Xiao Feng / 曲晓峰 (qǔ xiǎo fēng) / Eli
-
+> # Qu, Xiao Feng / 曲晓峰 (qǔ xiǎo fēng) / Eli
+>
 > Ph.D. Candidate
+>
 > ---
+>
 > [Biometrics Research Centre (BRC)](http://www4.comp.polyu.edu.hk/~biometrics)
 > [Department of Computing](http://www.comp.polyu.edu.hk)
 > [The Hong Kong Polytechnic University](http://www.polyu.edu.hk)
 
 # Contact
 
->     Mailbox 64, PQ702,
->     Department of Computing,
->     The Hong Kong Polytechnic University,
->     Hung Hom, Kowloon, Hong Kong
+>    Mailbox 64, PQ702,
+>    Department of Computing,
+>    The Hong Kong Polytechnic University,
+>    Hung Hom, Kowloon, Hong Kong
 
 + Office: PQ702
 + E-mail: xiaofeng.qu.hk@ieee.org
@@ -37,15 +39,15 @@ mathjax: false
 
 # My Family
 
-+ My Wife [Jocleyn ZHU](http://www.jocelynzhu.tk)
+> My Wife [Jocleyn ZHU](http://www.jocelynzhu.tk)
 
 <figure><img src="{{ site.url }}/images/jocelynzhu-240x240.jpg" /></figure>
 
-+ My Son [Gavin QU](http://www.gavinqu.tk)
+> My Son [Gavin QU](http://www.gavinqu.tk)
 
 <figure><img src="{{ site.url }}/images/gavinqu-436x240.jpg" /></figure>
 
-+ My Daughter [Seven QU](http://www.sevenqu.tk)
+> My Daughter [Seven QU](http://www.sevenqu.tk)
 
 <figure><img src="{{ site.url }}/images/sevenqu-240x240.jpg" /></figure>
 
