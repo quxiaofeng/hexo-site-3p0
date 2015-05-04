@@ -39,19 +39,19 @@ mathjax: false
 
 + My Wife [Jocleyn ZHU](http://www.jocelynzhu.tk)
 
-<figure><a href="http://www.jocelynzhu.tk"><img src="{{ site.url }}/images/jocelynzhu-400x400.jpg"></a></figure>
+<figure><a href="http://www.jocelynzhu.tk"><img src="{{ site.url }}/images/jocelynzhu-240x240.jpg"></a></figure>
 
 + My Son [Gavin QU](http://www.gavinqu.tk)
 
-<figure><a href="http://www.gavinqu.tk"><img src="{{ site.url }}/images/gavinqu-600x331.jpg"></a></figure>
+<figure><a href="http://www.gavinqu.tk"><img src="{{ site.url }}/images/gavinqu-436x240.jpg"></a></figure>
 
 + My Daughter [Seven QU](http://www.sevenqu.tk)
 
-[![]({{ site.url }}/images/sevenqu-360x360.jpg)](http://www.sevenqu.tk)
+[![]({{ site.url }}/images/sevenqu-240x240.jpg)](http://www.sevenqu.tk)
 
 <a href="http://www.sevenqu.tk">
   <figure>
-    <img src="{{ site.url }}/images/sevenqu-360x360.jpg" />
+    <img src="{{ site.url }}/images/sevenqu-240x240.jpg" />
   </figure>
 </a>
 
