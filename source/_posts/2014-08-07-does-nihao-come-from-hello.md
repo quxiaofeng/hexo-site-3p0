@@ -4,6 +4,8 @@ tags: [english, chinese]
 category: language
 ---
 
+![](/images/nihao.jpg)
+
 “你好”是我们现在最常用的问候语，但它具体是什么意思却从来没有想过。
 
 <!--more-->
