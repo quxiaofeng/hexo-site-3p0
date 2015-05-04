@@ -56,7 +56,11 @@ mathjax: false
 
 # Wish List
 
-+ To read my douban list
++ To practice languages
++ To swim and exercise
++ To read through my douban list
 + To make my devices
-+ To buy a Mac and to write iOS Apps and rails
++ To buy a Mac and to write iOS Apps
 + To write books
++ To play with 3D printers
++ To hack clusters and cloud computing
