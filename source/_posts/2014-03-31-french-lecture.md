@@ -1,32 +1,11 @@
 ---
 layout: photo
 title: "Lecture Note for the French Lecture"
-description: 
-headline: 
+description:
+headline:
 category: language
 tags: [french, francais, note]
 photos:
-- http://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_de_la_R%C3%A9publique_fran%C3%A7aise.svg
-- http://upload.wikimedia.org/wikipedia/commons/5/50/New-Map-Francophone_World.PNG
-- http://upload.wikimedia.org/wikipedia/commons/3/3b/Knowledge_of_French_EU_map.svg
-- http://upload.wikimedia.org/wikipedia/commons/2/25/Outre-mer_en_sans_Terre_Adelie.png
-- http://upload.wikimedia.org/wikipedia/commons/6/6b/French_borders_from_985_to_1947.gif
-- http://upload.wikimedia.org/wikipedia/commons/8/81/France_departements_regions_narrow.jpg
-- http://upload.wikimedia.org/wikipedia/commons/9/91/France-Constituent-Lands.png
-- http://upload.wikimedia.org/wikipedia/commons/a/a7/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg
-- http://upload.wikimedia.org/wikipedia/commons/1/11/Versailles-Chateau-VueJardins1.jpg
-- http://upload.wikimedia.org/wikipedia/commons/e/ee/Mont_Saint-Michel_France.jpg
-- http://upload.wikimedia.org/wikipedia/commons/8/80/France_Loir-et-Cher_Chambord_Chateau_03.jpg
-- http://upload.wikimedia.org/wikipedia/commons/6/66/Facade_de_la_Cath%C3%A9drale_de_Reims_-_Parvis.jpg
-- http://upload.wikimedia.org/wikipedia/commons/f/f1/LE_PENSEUR_-_Museo_Rodin-_PARIS.jpg
-- http://upload.wikimedia.org/wikipedia/commons/0/07/Lascaux2.jpg
-- http://upload.wikimedia.org/wikipedia/commons/6/63/271_Maison_carr_e_NIM_1016.jpg
-- http://upload.wikimedia.org/wikipedia/commons/4/46/Louis_le_Grand%3B_Rigaud_Hyacinthe.jpg
-- http://upload.wikimedia.org/wikipedia/commons/4/4e/Prise_de_la_Bastille.jpg
-- http://upload.wikimedia.org/wikipedia/commons/5/52/Francois_Dubois_001.jpg
-- http://upload.wikimedia.org/wikipedia/commons/1/1a/Napoleon_in_1806.PNG
-- http://upload.wikimedia.org/wikipedia/commons/3/31/Claude_Monet_023.jpg
-- http://upload.wikimedia.org/wikipedia/commons/f/f5/Sainte_chapelle_-_Upper_level.jpg
 comments: true
 mathjax: true
 ---
