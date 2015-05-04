@@ -11,11 +11,11 @@ mathjax: false
 >
 > Ph.D. Candidate
 >
-> ---
->
 > [Biometrics Research Centre (BRC)](http://www4.comp.polyu.edu.hk/~biometrics)
 > [Department of Computing](http://www.comp.polyu.edu.hk)
 > [The Hong Kong Polytechnic University](http://www.polyu.edu.hk)
+
+---
 
 # Contact
 
