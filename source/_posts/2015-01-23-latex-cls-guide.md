@@ -3,12 +3,14 @@ date: 2015-01-23 02:27:05
 tags: [writing, PolyU]
 category: latex
 photos:
-  - /images/ctan_lion_350x350.png
+- /images/ctan_lion_350x350.png
 ---
 
 编写 LaTeX cls 文件的方法、步骤与注意事项。
 
 <!--more-->
+
+![](/images/ctan_lion_350x350.png)
 
 开发与测试使用的文件结构：
 

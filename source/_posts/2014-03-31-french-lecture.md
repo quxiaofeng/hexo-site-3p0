@@ -6,7 +6,7 @@ headline:
 category: language
 tags: [french, francais, note]
 photos:
-  - /images/Delacroix_-_La_liberte.jpg
+- /images/Delacroix_-_La_liberte.jpg
 comments: true
 mathjax: true
 ---
@@ -14,6 +14,8 @@ mathjax: true
 Based on a french intro course I took in February 2014.
 
 <!--more-->
+
+![](/images/Delacroix_-_La_liberte.jpg)
 
 Lecture Five
 ------------
