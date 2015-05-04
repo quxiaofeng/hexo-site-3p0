@@ -6,6 +6,7 @@ headline:
 category: language
 tags: [french, francais, note]
 photos:
+  - /images/Delacroix_-_La_liberte.jpg
 comments: true
 mathjax: true
 ---
