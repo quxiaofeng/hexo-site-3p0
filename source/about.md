@@ -39,27 +39,27 @@ mathjax: false
 
 + My Wife [Jocleyn ZHU](http://www.jocelynzhu.tk)
 
-<a href="http://www.jocelynzhu.tk">
-  <figure>
+<figure>
+  <a href="http://www.jocelynzhu.tk">
     <img src="{{ site.url }}/images/jocelynzhu-240x240.jpg" />
-  </figure>
-</a>
+  </a>
+</figure>
 
 + My Son [Gavin QU](http://www.gavinqu.tk)
 
-<a href="http://www.gavinqu.tk">
-  <figure>
+<figure>
+  <a href="http://www.gavinqu.tk">
     <img src="{{ site.url }}/images/gavinqu-436x240.jpg" />
-  </figure>
-</a>
+  </a>
+</figure>
 
 + My Daughter [Seven QU](http://www.sevenqu.tk)
 
-<a href="http://www.sevenqu.tk">
-  <figure>
+<figure>
+  <a href="http://www.sevenqu.tk">
     <img src="{{ site.url }}/images/sevenqu-240x240.jpg" />
-  </figure>
-</a>
+  </a>
+</figure>
 
 # Wish List
 
