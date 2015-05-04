@@ -76,10 +76,12 @@ mathjax: false
 
 # Smart Hardware
 
++ [虎嗅](http://www.huxiu.com/)
++ [cnBeta](http://www.cnbeta.com)
 + [雷锋网](http://www.leiphone.com)
 + [极客公园](http://www.geekpark.net)
++ [创业邦](http://www.cyzone.cn/)
 + [动点科技](http://cn.technode.com)
-+ [cnBeta](http://www.cnbeta.com)
 + [Engadget](http://www.engadget.com/)
 + [IT经理网](http://www.ctocio.com)
 + [51CTO](http://www.51cto.com/)
