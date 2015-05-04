@@ -39,31 +39,19 @@ mathjax: false
 
 + My Wife [Jocleyn ZHU](http://www.jocelynzhu.tk)
 
-<figure>
-  <a href="http://www.jocelynzhu.tk">
-    <img src="{{ site.url }}/images/jocelynzhu-240x240.jpg" />
-  </a>
-</figure>
+<figure><img src="{{ site.url }}/images/jocelynzhu-240x240.jpg" /></figure>
 
 + My Son [Gavin QU](http://www.gavinqu.tk)
 
-<figure>
-  <a href="http://www.gavinqu.tk">
-    <img src="{{ site.url }}/images/gavinqu-436x240.jpg" />
-  </a>
-</figure>
+<figure><img src="{{ site.url }}/images/gavinqu-436x240.jpg" /></figure>
 
 + My Daughter [Seven QU](http://www.sevenqu.tk)
 
-<figure>
-  <a href="http://www.sevenqu.tk">
-    <img src="{{ site.url }}/images/sevenqu-240x240.jpg" />
-  </a>
-</figure>
+<figure><img src="{{ site.url }}/images/sevenqu-240x240.jpg" /></figure>
 
 # Wish List
 
 + To read my douban list
 + To make my devices
-+ To buy a Mac and to write iOS Apps
++ To buy a Mac and to write iOS Apps and rails
 + To write books
