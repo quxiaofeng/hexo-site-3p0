@@ -7,30 +7,23 @@ share: false
 mathjax: false
 ---
 
-# Qu, Xiao Feng / 曲晓峰 (qǔ xiǎo fēng) 
+# Qu, Xiao Feng / 曲晓峰 (qǔ xiǎo fēng) / Eli
 
-##### Eli (occasionally)
-
-### Ph.D. Candidate
-
-### [Biometrics Research Centre (BRC)](http://www4.comp.polyu.edu.hk/~biometrics)
-### [Department of Computing](http://www.comp.polyu.edu.hk)
-### [The Hong Kong Polytechnic University](http://www.polyu.edu.hk)
-
-
-##### [Résumé](https://github.com/quxiaofeng/mycv/raw/master/cleancv.pdf) / [简历](https://github.com/quxiaofeng/mycv/raw/master/cleancv_cn.pdf)
+> Ph.D. Candidate
+> ---
+> [Biometrics Research Centre (BRC)](http://www4.comp.polyu.edu.hk/~biometrics)
+> [Department of Computing](http://www.comp.polyu.edu.hk)
+> [The Hong Kong Polytechnic University](http://www.polyu.edu.hk)
 
 # Contact
 
-{% raw %}
-    Mailbox 64, PQ702,
-    Department of Computing,
-    The Hong Kong Polytechnic University,
-    Hung Hom, Kowloon, Hong Kong
-{% endraw %}
+>     Mailbox 64, PQ702,
+>     Department of Computing,
+>     The Hong Kong Polytechnic University,
+>     Hung Hom, Kowloon, Hong Kong
 
 + Office: PQ702
-+ Email: xiaofeng.qu.hk@ieee.org
++ E-mail: xiaofeng.qu.hk@ieee.org
 + Tel: 852 2766 7902
 
 # Teaching
@@ -54,5 +47,11 @@ mathjax: false
 
 + My Daughter [Seven QU](http://www.sevenqu.tk)
 
-<figure><a href="http://www.sevenqu.tk"><img src="{{ site.url }}/images/sevenqu.jpg"></a></figure>
+[![]({{ site.url }}/images/sevenqu-360x360.jpg)](http://www.sevenqu.tk)
+
+<a href="http://www.sevenqu.tk">
+  <figure>
+    <img src="{{ site.url }}/images/sevenqu-360x360.jpg" />
+  </figure>
+</a>
 
