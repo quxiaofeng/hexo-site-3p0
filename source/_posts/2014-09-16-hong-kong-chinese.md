@@ -4,6 +4,8 @@ tags: [chinese, mandarin]
 category: language
 ---
 
+![](/images/hk_chinese_cover.jpg)
+
 ## 香港书面语的三个等级
 
 + A级 标准中文
