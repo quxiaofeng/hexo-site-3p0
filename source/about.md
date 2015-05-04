@@ -56,11 +56,12 @@ mathjax: false
 
 # Wish List
 
-+ To practice languages
-+ To swim and exercise
++ A travel to Japan with kids
++ To practice languages with kids
++ To swim and exercise with kids
 + To read through my douban list
 + To make my devices
 + To buy a Mac and to write iOS Apps
 + To write books
-+ To play with 3D printers
++ To play with 3D printers with kids
 + To hack clusters and cloud computing
