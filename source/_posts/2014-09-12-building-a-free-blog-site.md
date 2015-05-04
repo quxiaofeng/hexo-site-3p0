@@ -4,6 +4,7 @@ tags: [blog, website]
 category: life
 ---
 
+![](/images/hello_notebook.jpg)
 
 搭建个人网站需要几个步骤。
 
