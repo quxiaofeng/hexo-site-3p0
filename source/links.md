@@ -74,20 +74,6 @@ mathjax: false
 + [Yan Ke](http://yanke23.tk/)
 + [Jun Xu](http://wangliuqing.tk/)
 
-# Free TK domains
-
-+ [Palmprint Survey](http://www.palmprint.tk/)
-+ [Linear Palmprint System](http://www.linearpalmprint.tk/)
-+ [COMP435p](http://www.comp435p.tk)
-+ [csxfqu](http://www.csxfqu.tk)
-+ [Jocelyn](http://www.jocelynzhu.tk)
-+ [Gavin](http://www.gavinqu.tk)
-+ [Seven](http://www.sevenqu.tk)
-+ [Biometric System](http://www.biometricsystem.tk)
-+ [Center for Optical Fiber Sensors of Shenzhen University](http://fibersensors.tk/)
-+ [Projet Compromis](http://projetcompromis.tk/)
-+ [Raising Kids in Hong Kong](http://www.raisingkidsinhk.tk)
-
 # Smart Hardware
 
 + [雷锋网](http://www.leiphone.com)
