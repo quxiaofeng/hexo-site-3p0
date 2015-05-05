@@ -29,7 +29,7 @@ mathjax: false
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/)
 + [Intranet](https://intranet.comp.polyu.edu.hk/)
 + [iPrint Printer Driver](http://sfps.comp.polyu.edu.hk/ipp)
-+ [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin), Microsoft software for learning, teaching and research
++ [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin)
 
 # Work and Study (in Cloud and Mobile?)
 
@@ -37,13 +37,14 @@ mathjax: false
 + [GitHub](https://github.com/quxiaofeng)
 + [BitBucket](http://bitbucket.org/quxiaofeng)
 + [Coding](https://coding.net/)
-+ [Overleaf - formerly WriteLaTeX](https://www.overleaf.com/)
++ [Overleaf](https://www.overleaf.com/) - formerly WriteLaTeX
 + [ShareLaTeX](https://www.sharelatex.com/)
 + [Sense](https://sense.io/)
 + [Beaker](http://beakernotebook.com/)
 + [Julia Documentation](http://docs.julialang.org/en/release-0.3/)
-+ [scikit-learn Machine Learning in Python](http://scikit-learn.org/stable/index.html)
++ [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
 + [docker中文](http://www.docker.org.cn/)
++ [DockOne](http://dockerone.com/)
 + [Duolingo](https://www.duolingo.com/) - Languages
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/)
 
