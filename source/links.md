@@ -77,6 +77,8 @@ mathjax: false
 
 # Smart Hardware
 
++ [MIT Technology Review](http://www.technologyreview.com/)
++ [IEEE Spectrum](http://spectrum.ieee.org/)
 + [虎嗅](http://www.huxiu.com/)
 + [cnBeta](http://www.cnbeta.com)
 + [雷锋网](http://www.leiphone.com)
