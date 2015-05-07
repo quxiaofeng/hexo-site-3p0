@@ -53,7 +53,7 @@ using Blink
 域名列表 = [
   "http://www.dot.tk/" # Comma separated domain names
 ]
-域名列表 = sort(域名列表)
+shuffle!(域名列表)
 
 浏览器实例 = Blink.init()
 窗口实例 = Window(浏览器实例)
