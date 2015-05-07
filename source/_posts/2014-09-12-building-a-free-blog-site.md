@@ -37,6 +37,48 @@ category: life
 
 推荐该域名的原因是，免费的顶级域名，不是挂在其他网站下的子域名。维护要求只有每90天有25次点击。每周维持5次点击就可以，要求很简单。注册一次可以选择12个月，之后在**到期前15日内**可以再次续约域名。域名到期前会向注册帐号email地址发提醒email，完全不会错过。
 
+一个自动访问域名脚本
+
+```julia
+using Blink
+# Usage:
+#   julia> include("activateDomains.jl")
+#   or
+#   julia activateDomains.jl
+
+
+循环显示次数 = 20
+单次打开域名延时指数 =  0.3 # 0.5
+单次打开域名附加的随机时间权重 = 20
+窗口标题 = "激活域名"
+域名列表 = [
+  "http://www.dot.tk/" # Comma separated domain names
+]
+域名列表 = sort(域名列表)
+
+浏览器实例 = Blink.init()
+窗口实例 = Window(浏览器实例)
+title(窗口实例, 窗口标题)
+# body(窗口实例, "<h1>Hello World!</h1>")
+# position(窗口实例, 250, 50)
+size(窗口实例, 1024, 768)
+
+body(窗口实例, "<center><h1>Let's start</h1></center>")
+sleep(3)
+
+for i = 1:循环显示次数
+  for 域名 in 域名列表
+    body(窗口实例, "<center><h1>Opening $域名 ...</h1></center>")
+    sleep((length(域名) + 单次打开域名附加的随机时间权重 * rand()) * 单次打开域名延时指数)
+    loadurl(窗口实例, 域名)
+    sleep((length(域名) + 单次打开域名附加的随机时间权重 * rand()) * 单次打开域名延时指数)
+  end
+end
+
+title(窗口实例, 窗口标题)
+body(窗口实例, "<center><h1>Finished</h1></center>")
+```
+
 ### 2. 申请空间 ###
 
 到 [GitHub](http://www.github.com) 注册一个账号，并新建一个代码库(repo)。
