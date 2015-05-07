@@ -33,7 +33,7 @@ category: life
 
 ### 1. 申请域名 ###
 
-到 [http://www.dot.tk/](http://www.dot.tk/) 这个网站注册账号，并申请一个免费域名。
+到 [http://www.dot.tk/](http://www.dot.tk/) 这个网站注册账号，并申请一个免费域名。该网站支持`.tk`，`.ml`，`.ga`，`.cf`，`.gh`域名
 
 推荐该域名的原因是，免费的顶级域名，不是挂在其他网站下的子域名。维护要求只有每90天有25次点击。每周维持5次点击就可以，要求很简单。注册一次可以选择12个月，之后在**到期前15日内**可以再次续约域名。域名到期前会向注册帐号email地址发提醒email，完全不会错过。
 
@@ -45,7 +45,6 @@ using Blink
 #   julia> include("activateDomains.jl")
 #   or
 #   julia activateDomains.jl
-
 
 循环显示次数 = 20
 单次打开域名延时指数 =  0.3 # 0.5
@@ -59,9 +58,7 @@ using Blink
 浏览器实例 = Blink.init()
 窗口实例 = Window(浏览器实例)
 title(窗口实例, 窗口标题)
-# body(窗口实例, "<h1>Hello World!</h1>")
-# position(窗口实例, 250, 50)
-size(窗口实例, 1024, 768)
+size(窗口实例, 1000, 600)
 
 body(窗口实例, "<center><h1>Let's start</h1></center>")
 sleep(3)
