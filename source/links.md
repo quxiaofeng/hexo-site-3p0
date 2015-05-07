@@ -77,11 +77,12 @@ mathjax: false
 
 # Smart Hardware
 
++ [雷锋网](http://www.leiphone.com)
 + [MIT Technology Review](http://www.technologyreview.com/)
 + [IEEE Spectrum](http://spectrum.ieee.org/)
++ [爱范儿](http://www.ifanr.com/)
 + [虎嗅](http://www.huxiu.com/)
 + [cnBeta](http://www.cnbeta.com)
-+ [雷锋网](http://www.leiphone.com)
 + [极客公园](http://www.geekpark.net)
 + [创业邦](http://www.cyzone.cn/)
 + [动点科技](http://cn.technode.com)
