@@ -37,7 +37,7 @@ category: life
 
 推荐该域名注册网站的原因是，免费的顶级域名，不是挂在其他网站下的子域名。维护要求只有每 90 天有 25 次点击。每周维持 5 次点击就可以，要求很简单。注册一次可以选择 12 个月，之后在 **到期前15日内** 可以再次续约域名。域名到期前会向注册帐号 email 地址发提醒 email，完全不会错过。
 
-一个自动访问域名脚本
+一个基于 [Julia 语言](http://julialang.org/) 的自动激活域名脚本。 依赖 [Blink 包](https://github.com/one-more-minute/Blink.jl)（安装： `Pkg.add("Blink")`）。
 
 ```julia
 using Blink
@@ -46,9 +46,9 @@ using Blink
 #   or
 #   julia activateDomains.jl
 
-循环显示次数 = 5 # 每三个月 25 次
-单次打开域名延时指数 =  2.3 # 5
-单次打开域名附加的随机时间权重 = 20 # 5
+列表循环激活次数 = 5 # 每三个月 25 次
+单次打开域名的延时指数 =  2.3 # 5
+单次打开域名时附加的随机时间 = 20 # 5
 窗口标题 = "激活域名"
 域名列表 = [
   "http://www.dot.tk/" # Comma separated domain names
@@ -63,12 +63,12 @@ size(窗口实例, 1000, 600)
 body(窗口实例, "<center><h1>Let's start</h1></center>")
 sleep(3)
 
-for i = 1:循环显示次数
+for i = 1:列表循环激活次数
   for 域名 in 域名列表
     body(窗口实例, "<center><h1>Opening $域名 ...</h1></center>")
-    sleep((length(域名) + 单次打开域名附加的随机时间权重 * rand()) * 单次打开域名延时指数)
+    sleep((length(域名) + 单次打开域名时附加的随机时间 * rand()) * 单次打开域名的延时指数)
     loadurl(窗口实例, 域名)
-    sleep((length(域名) + 单次打开域名附加的随机时间权重 * rand()) * 单次打开域名延时指数)
+    sleep((length(域名) + 单次打开域名时附加的随机时间 * rand()) * 单次打开域名的延时指数)
   end
 end
 
