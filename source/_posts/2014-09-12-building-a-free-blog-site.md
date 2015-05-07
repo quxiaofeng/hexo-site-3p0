@@ -46,9 +46,9 @@ using Blink
 #   or
 #   julia activateDomains.jl
 
-循环显示次数 = 20
-单次打开域名延时指数 =  0.3 # 0.5
-单次打开域名附加的随机时间权重 = 20
+循环显示次数 = 20 # 每三个月 25 次
+单次打开域名延时指数 =  2.3 # 5
+单次打开域名附加的随机时间权重 = 20 # 5
 窗口标题 = "激活域名"
 域名列表 = [
   "http://www.dot.tk/" # Comma separated domain names
