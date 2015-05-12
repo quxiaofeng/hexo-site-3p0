@@ -7,46 +7,48 @@ share: false
 mathjax: false
 ---
 
-# [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php) Links
+# [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
 
-+ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php)
-+ [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout)
++ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php) - 理大校园地图 
++ [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout) - 校邮箱
 + [Research Portal](https://www40.polyu.edu.hk/rostudportal/tologin.do)
-+ [Sports Facilities Booking System](https://www40.polyu.edu.hk/saosport/)
-+ [Library](http://www.lib.polyu.edu.hk/)
-+ [University Health Service Online Booking](https://uhsappt.polyu.edu.hk/)
++ [Sports Facilities Booking System](https://www40.polyu.edu.hk/saosport/) - 预定运动设施
++ [Library](http://www.lib.polyu.edu.hk/) - 图书馆
++ [University Health Service Online Booking](https://uhsappt.polyu.edu.hk/) - 校医院
 + [Financial Office](http://www.polyu.edu.hk/fo/FO_Web/index.php?page=5&subpage=stud04)
 + [EEPRS](http://www.engl.polyu.edu.hk/eeprs/)
-+ [Corpus of Research Articles](http://rcpce.engl.polyu.edu.hk/RACorpus/default.htm)
-+ [ELC Booking System for WAP](http://booking.elc.polyu.edu.hk/)
++ [Corpus of Research Articles](http://rcpce.engl.polyu.edu.hk/RACorpus/default.htm) - 学术英语词汇搭配
++ [ELC Booking System for WAP](http://booking.elc.polyu.edu.hk/) - 论文审校
 + [ELC e-Learning](http://elearn.elc.polyu.edu.hk/)
 + [Blackboard](https://learn.polyu.edu.hk/)
-+ [PolyU Beamer Theme](http://quxiaofeng.me/articles/20140322-polyu-beamer-theme.html)
-+ [PolyU Thesis Template](http://quxiaofeng.me/articles/20140323-polyu-thesis-template.html)
++ [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_beamer_theme) - 理大 Beamer 模板 
++ [PolyU Thesis Template](https://github.com/quxiaofeng/PolyU_thesis_template) - 理大毕业论文 LaTeX 模板
 
 ## [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
 
-+ [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/)
-+ [Intranet](https://intranet.comp.polyu.edu.hk/)
-+ [iPrint Printer Driver](http://sfps.comp.polyu.edu.hk/ipp)
-+ [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin)
++ [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/) - 学系邮箱
++ [Intranet](https://intranet.comp.polyu.edu.hk/) - 学系内网
++ [iPrint Printer Driver](http://sfps.comp.polyu.edu.hk/ipp) - 学系内打印机
++ [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
 # Work and Study (in Cloud and Mobile?)
 
-+ [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems) - Paper
-+ [GitHub](https://github.com/quxiaofeng)
-+ [BitBucket](http://bitbucket.org/quxiaofeng)
-+ [Coding](https://coding.net/)
-+ [Overleaf](https://www.overleaf.com/) - formerly WriteLaTeX
-+ [ShareLaTeX](https://www.sharelatex.com/)
-+ [Sense](https://sense.io/)
-+ [Beaker](http://beakernotebook.com/)
-+ [Julia Documentation](http://docs.julialang.org/en/release-0.3/)
++ [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems) - Journal
++ [GitHub](https://github.com/quxiaofeng) - Repos
++ [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
++ [Coding](https://coding.net/) - Cloud coding
++ [计蒜客](http://nanti.jisuanke.com/) - Online Judge
++ [Overleaf](https://www.overleaf.com/) (formerly WriteLaTeX) - Writing
++ [ShareLaTeX](https://www.sharelatex.com/) - Writing
++ [Lucid Chart](https://www.lucidchart.com/) - Drawing
++ [Sense](https://sense.io/) - Cloud Data Coding
++ [Beaker](http://beakernotebook.com/) - Cloud Data Coding 
++ [Julia Documentation](http://docs.julialang.org/en/release-0.3/) - A Language to Rule Them All
 + [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
 + [docker中文](http://www.docker.org.cn/)
 + [DockOne](http://dockerone.com/)
-+ [Duolingo](https://www.duolingo.com/) - Languages
-+ [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/)
++ [Duolingo](https://www.duolingo.com/) - European Languages
++ [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 
 # Life
 
