@@ -71,7 +71,7 @@ Follow [*this guide*](http://www.immd.gov.hk/eng/services/visas/extension_of_sta
 
 [广东省公安厅逗留签注延期办理相关规定](http://crj.gdga.gov.cn/bszn/ndjmwlgat/201407/t20140708_28525.htm)
 
-![](/images/gd-police-sz-agency.png)
+![](/images/gd-police-sz-agency.jpg)
 
 > 地址：深圳市罗湖区南湖路 1001 号广东省公安厅深圳出入境签证办事处综合楼三楼 （[腾讯地图](http://map.qq.com/#pano=10041055140706113941000&heading=236&pitch=6&zoom=2)）
 > 咨询电话： 0755-82329899
