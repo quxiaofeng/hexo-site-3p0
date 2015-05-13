@@ -9,7 +9,7 @@ mathjax: false
 
 # [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
 
-+ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php) - 理大校园地图 
++ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php) - 理大校园地图
 + [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout) - 校邮箱
 + [Research Portal](https://www40.polyu.edu.hk/rostudportal/tologin.do)
 + [Sports Facilities Booking System](https://www40.polyu.edu.hk/saosport/) - 预定运动设施
@@ -21,7 +21,7 @@ mathjax: false
 + [ELC Booking System for WAP](http://booking.elc.polyu.edu.hk/) - 论文审校
 + [ELC e-Learning](http://elearn.elc.polyu.edu.hk/)
 + [Blackboard](https://learn.polyu.edu.hk/)
-+ [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_beamer_theme) - 理大 Beamer 模板 
++ [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_beamer_theme) - 理大 Beamer 模板
 + [PolyU Thesis Template](https://github.com/quxiaofeng/PolyU_thesis_template) - 理大毕业论文 LaTeX 模板
 
 ## [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
@@ -49,6 +49,7 @@ mathjax: false
 + [DockOne](http://dockerone.com/)
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
++ [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 
 # Life
 
