@@ -42,14 +42,18 @@ mathjax: false
 + [ShareLaTeX](https://www.sharelatex.com/) - Writing
 + [Lucid Chart](https://www.lucidchart.com/) - Drawing
 + [Sense](https://sense.io/) - Cloud Data Coding
-+ [Beaker](http://beakernotebook.com/) - Cloud Data Coding 
++ [Beaker](http://beakernotebook.com/) - Cloud Data Coding
 + [Julia Documentation](http://docs.julialang.org/en/release-0.3/) - A Language to Rule Them All
 + [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
 + [docker中文](http://www.docker.org.cn/)
 + [DockOne](http://dockerone.com/)
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
+
+# Deep Learning
+
 + [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
++ [Keras](http://keras.io/)
 
 # Life
 
