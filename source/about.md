@@ -54,15 +54,15 @@ mathjax: false
 
 <figure><img src="{{ site.url }}/images/sevenqu-240x240.jpg" /></figure>
 
-# Wish List
+# A Wish List
 
-+ To write posts for family sites
++ To write posts for family sites: [Jocelyn](http://www.jocelynzhu.tk), [Gavin](http://www.gavinqu.tk), and [Seven](http://www.sevenqu.tk).
 + A travel to Japan with kids
 + To practice languages with kids
 + To swim and exercise with kids
 + To read through my douban list
 + To make my devices
 + To buy a Mac and to write iOS Apps
-+ To write books
++ To write books: [Machine Learning with Julia](http://machinelearningwithjulia.ml), [How to Design a Biometrics](http://biometricsystem.tk) and [Deep Computing with Keras](http://deepcomputingwithkeras.ml).
 + To play with 3D printers with kids
 + To hack clusters and cloud computing

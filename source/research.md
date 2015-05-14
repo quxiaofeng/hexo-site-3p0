@@ -81,3 +81,12 @@ Projects
 + Door Knob Ergonomic Hand Biometric System (DKS/EHB)
 + CBS (Prepared)
 + RING (Planning)
+
+State of the Art
+-----------
+
+### Finger
+
++ [FVC-onGoing](https://biolab.csr.unibo.it/FVCOnGoing/UI/Form/Home.aspx)
+  + [FVC2006](http://bias.csr.unibo.it/fvc2006/) - [2.155%](http://bias.csr.unibo.it/fvc2006/results/Open_resultsAvg.asp)
+  + [ICB2013](https://biolab.csr.unibo.it/fvcongoing/UI/Form/ICB2013STFV.aspx) - 1.698%

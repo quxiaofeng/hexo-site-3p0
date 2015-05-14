@@ -55,6 +55,7 @@ mathjax: false
 + [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 + [Keras](http://keras.io/)
 + [Theano Installation](http://deeplearning.net/software/theano/install.html#install)
++ [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.php)
 
 # Life
 
