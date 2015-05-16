@@ -13,7 +13,7 @@ mathjax: false
 Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHomeIndex.shtml)
 -------
 
-#### 1. 门把形握姿人手图像采集装置及握姿人手图像识别系统
+### 1. 门把形握姿人手图像采集装置及握姿人手图像识别系统
 
 + 已授权
 + 专利号： ZL 201420166090.7
@@ -22,12 +22,12 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 + Code Name: DKS/EHB
 + [Download](/docs/ZL201420166090.7.pdf)
 
-#### <a href="http://www.google.com/patents/CN203786745U?cl=en" target="_blank">A Door Knob Hand Image Capturing Device and A Hand Image Recognition System</a>
+### <a href="http://www.google.com/patents/CN203786745U?cl=en" target="_blank">A Door Knob Hand Image Capturing Device and A Hand Image Recognition System</a>
 
 + Grant
 + China Patent CN203786745 (U)
 
-#### 2. [一种人体掌纹图像采集装置及处理方法](http://www.linescanpalmprint.ml/docs/CN102521584B.pdf)
+### 2. [一种人体掌纹图像采集装置及处理方法](http://www.linescanpalmprint.ml/docs/CN102521584B.pdf)
 
 + 已授权
 + 专利号： ZL 20110362063.8
@@ -35,31 +35,31 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 + 公开号： CN102521584A / CN102521584B
 + Code Name: LPS
 
-#### <a href="http://www.google.com/patents/CN102521584B?cl=en" target="_blank">A Human Palmprint Image Collection Apparatus and A Processing Method</a>
+### <a href="http://www.google.com/patents/CN102521584B?cl=en" target="_blank">A Human Palmprint Image Collection Apparatus and A Processing Method</a>
 
 + Grant
 + China Patent CN102521584 (A) / CN102521584 (B)
 
-#### 3. 圆筒内外壁加工精度在线成像检测装置及在线成像检测方法
+### 3. 圆筒内外壁加工精度在线成像检测装置及在线成像检测方法
 
 + 已授权
 + 专利号： ZL 200610155870.1
 + 申请号： CN200610155870
 + 公开号： CN101101197A / CN100498211C
 
-#### <a href="http://www.google.com/patents/CN100498211C?cl=en" target="_blank">On-line Imaging Detection Device and Method for Cylindrical Internal and External Wall Machining</a>
+### <a href="http://www.google.com/patents/CN100498211C?cl=en" target="_blank">On-line Imaging Detection Device and Method for Cylindrical Internal and External Wall Machining</a>
 
 + Grant
 + China Patent CN101101197 (A) / CN100498211 (C)
 
-#### 4. 圆筒内外壁加工精度在线成像检测装置
+### 4. 圆筒内外壁加工精度在线成像检测装置
 
 + 已授权
 + 专利号： ZL 200620168791.X
 + 申请号： CN200620168791
 + 公开号： CN201034557Y
 
-#### <a href="https://www.google.com/patents/CN201034557Y?cl=en" target="_blank">Cylinder Inside and Outside Wall Machine Precision On-line Image-forming Testing Apparatus</a>
+### <a href="https://www.google.com/patents/CN201034557Y?cl=en" target="_blank">Cylinder Inside and Outside Wall Machine Precision On-line Image-forming Testing Apparatus</a>
 
 + Grant
 + China Patent CN201034557 (Y)
@@ -82,8 +82,18 @@ Projects
 + CBS (Prepared)
 + RING (Planning)
 
-Websites
---------
+People
+---------
 
-+ [Security Biometrics](http://www.securitybiometrics.ml)
-+ [Medical Biometrics](http://www.medicalbiometrics.ml)
++ [Prof. David Zhang](http://www4.comp.polyu.edu.hk/~csdzhang)
++ [Prof. Jane You](http://www4.comp.polyu.edu.hk/~csyjia)
++ [Dr. Lei Zhang (PolyU)](http://www4.comp.polyu.edu.hk/~cslzhang)
++ [Dr. Ajay Kumar](http://www4.comp.polyu.edu.hk/~csajaykr)
++ [Dr. Wangmeng Zuo](http://homepage.hit.edu.cn/pages/wangmengzuo)
++ [Dr. Lin Zhang](http://sse.tongji.edu.cn/linzhang)
++ [Dr. Meng Yang](http://id.sciencenet.cn/u/mikemengyang)
++ [Dr. Pengfei Zhu](http://www4.comp.polyu.edu.hk/~cspzhu)
++ [Dr. Lei Zhang (CQU)](http://www.leizhang.tk)
++ [Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
++ [Yan Ke](http://yanke23.tk/)
++ [Jun Xu](http://wangliuqing.tk/)

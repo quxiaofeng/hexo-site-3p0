@@ -7,7 +7,8 @@ share: false
 mathjax: false
 ---
 
-# [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
+[PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
+----------------------------------------------------
 
 + [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php) - 理大校园地图
 + [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout) - 校邮箱
@@ -24,14 +25,29 @@ mathjax: false
 + [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_beamer_theme) - 理大 Beamer 模板
 + [PolyU Thesis Template](https://github.com/quxiaofeng/PolyU_thesis_template) - 理大毕业论文 LaTeX 模板
 
-## [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
+### [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
 
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/) - 学系邮箱
 + [Intranet](https://intranet.comp.polyu.edu.hk/) - 学系内网
 + [iPrint Printer Driver](http://sfps.comp.polyu.edu.hk/ipp) - 学系内打印机
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
-# Work and Study (in Cloud and Mobile?)
+Life
+------------------------------
+
++ [Weather - Observatory](http://www.hko.gov.hk/wxinfo/currwx/fndc.htm)
++ [Bank - HangSeng](https://e-banking.hangseng.com)
++ [Bank - BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
++ [Bank - Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
++ [Bank - PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)
++ [Bank - 招商银行](https://www.cmbchina.com/)
++ [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
++ [Bank - 中国银行外汇牌价](http://www.boc.cn/sourcedb/whpj/)
++ [Mobile - Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
++ [VPN  - VpnCloud](https://www.ttincloud.com/)
+
+Work and Study
+--------------------------------------
 
 + [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems) - Journal
 + [GitHub](https://github.com/quxiaofeng) - Repos
@@ -50,41 +66,14 @@ mathjax: false
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 
-# Deep Learning
+### Deep Learning
 
 + [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 + [Keras](http://keras.io/)
 + [Theano Installation](http://deeplearning.net/software/theano/install.html#install)
 + [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.php)
 
-# Life
-
-+ [Weather - Observatory](http://www.hko.gov.hk/wxinfo/currwx/fndc.htm)
-+ [Bank - HangSeng](https://e-banking.hangseng.com)
-+ [Bank - BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
-+ [Bank - Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
-+ [Bank - PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)
-+ [Bank - 招商银行](https://www.cmbchina.com/)
-+ [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
-+ [Bank - 中国银行外汇牌价](http://www.boc.cn/sourcedb/whpj/)
-+ [Mobile - Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
-+ [VPN  - VpnCloud](https://www.ttincloud.com/)
-
-# People
-
-+ [Prof. David Zhang](http://www4.comp.polyu.edu.hk/~csdzhang)
-+ [Prof. Jane You](http://www4.comp.polyu.edu.hk/~csyjia)
-+ [Dr. Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang)
-+ [Dr. Ajay Kumar](http://www4.comp.polyu.edu.hk/~csajaykr)
-+ [Dr. Wangmeng Zuo](http://homepage.hit.edu.cn/pages/wangmengzuo)
-+ [Dr. Lin Zhang](http://sse.tongji.edu.cn/linzhang)
-+ [Dr. Meng Yang](http://id.sciencenet.cn/u/mikemengyang)
-+ [Dr. Pengfei Zhu](http://www4.comp.polyu.edu.hk/~cspzhu)
-+ [Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
-+ [Yan Ke](http://yanke23.tk/)
-+ [Jun Xu](http://wangliuqing.tk/)
-
-# Smart Hardware
+### Smart Hardware
 
 + [雷锋网](http://www.leiphone.com)
 + [MIT Technology Review](http://www.technologyreview.com/)
@@ -108,3 +97,8 @@ mathjax: false
 + [开源中国](http://www.oschina.net/)
 + [Ruby China](https://ruby-china.org/)
 + [V2EX = way to explore](https://www.v2ex.com/)
+
+### Websites
+
++ [Security Biometrics](http://www.securitybiometrics.ml)
++ [Medical Biometrics](http://www.medicalbiometrics.ml)
