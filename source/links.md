@@ -101,5 +101,7 @@ Work and Study
 ### Websites
 
 + [Security Biometrics](http://www.securitybiometrics.ml)
-+ [Medical Biometrics](http://www.medicalbiometrics.ml)
 + [Functions of Machine Learning](http://www.functions.ml)
++ [Machine Learning with Julia](http://www.machinelearningwithjulia.ml)
++ [How to Design a Biometrics](http://www.biometricsystem.tk)
++ [Deep Computing with Keras](http://www.deepcomputingwithkeras.ml)
