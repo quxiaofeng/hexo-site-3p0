@@ -78,7 +78,7 @@ Projects
 + Palmprint Capturing Device with A Moving Line Scan Camera
 + Palmprint Capturing Device Using A Linear CCD Sensor and A Folded Optical Path
 + Line Scan Palmprint System (LPS: [www.linescanpalmprint.ml](http://www.linescanpalmprint.ml))
-+ Door Knob Ergonomic Hand Biometric System (DKS/EHB)
++ Door Knob Ergonomic Hand Biometric System (DKS/EHB: [www.doorknob.ml](http://www.doorknob.ml))
 + CBS (Prepared)
 + RING (Planning)
 
