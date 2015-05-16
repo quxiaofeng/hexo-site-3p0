@@ -102,6 +102,4 @@ Work and Study
 
 + [Security Biometrics](http://www.securitybiometrics.ml)
 + [Medical Biometrics](http://www.medicalbiometrics.ml)
-+ [Ergonomic Biometrics](http://www.ergonomicbiometrics.ml)
 + [Functions of Machine Learning](http://www.functions.ml)
-+ [Deep Computing with Keras](http://www.deepcomputingwithkeras.ml)
