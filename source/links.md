@@ -50,6 +50,7 @@ Work and Study
 --------------------------------------
 
 + [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems) - Journal
++ [![](images/vegas-cvpr-2016.png)](http://www.pamitc.org/cvpr16/dates.php)
 + [GitHub](https://github.com/quxiaofeng) - Repos
 + [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
 + [Coding](https://coding.net/) - Cloud coding
