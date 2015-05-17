@@ -42,15 +42,15 @@ mathjax: false
 
 # My Family
 
-> My Wife [Jocleyn ZHU](http://www.jocelynzhu.tk)
+> My Wife [Jocleyn](http://www.jocelynzhu.tk)
 
 <figure><img src="{{ site.url }}/images/jocelynzhu-240x240.jpg" /></figure>
 
-> My Son [Gavin QU](http://www.gavinqu.tk)
+> My Son [Gavin](http://www.gavinqu.tk)
 
 <figure><img src="{{ site.url }}/images/gavinqu-436x240.jpg" /></figure>
 
-> My Daughter [Seven QU](http://www.sevenqu.tk)
+> My Daughter [Seven](http://www.sevenqu.tk)
 
 <figure><img src="{{ site.url }}/images/sevenqu-240x240.jpg" /></figure>
 
