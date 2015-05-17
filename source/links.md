@@ -50,8 +50,10 @@ Work and Study
 --------------------------------------
 
 + [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems) - Journal
-+ [![](/images/vegas-cvpr-2016.png) CVPR 2016](http://www.pamitc.org/cvpr16/dates.php) - Nov. 6th, 2015
-+ [![](/images/phoenix-icip-2016.png) ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
++ ![](/images/vegas-cvpr-2016.png)
++ [CVPR 2016](http://www.pamitc.org/cvpr16/dates.php) - Nov. 6th, 2015
++ ![](/images/phoenix-icip-2016.png)
++ [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
 + [ICCV 2016](https://www.waset.org/conference/2016/01/zurich/ICCV) - July 12, 2015
 + [GitHub](https://github.com/quxiaofeng) - Repos
 + [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
