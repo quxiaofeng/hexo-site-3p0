@@ -66,6 +66,7 @@ Work and Study
 + [Beaker](http://beakernotebook.com/) - Cloud Data Coding
 + [Julia Documentation](http://docs.julialang.org/en/release-0.3/) - A Language to Rule Them All
 + [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
++ [Talking Machines - human conversation about machine learning](http://www.thetalkingmachines.com/)
 + [docker中文](http://www.docker.org.cn/)
 + [DockOne](http://dockerone.com/)
 + [Duolingo](https://www.duolingo.com/) - European Languages
