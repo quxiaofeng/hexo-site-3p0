@@ -95,5 +95,5 @@ People
 + [Dr. Pengfei Zhu](http://www4.comp.polyu.edu.hk/~cspzhu)
 + [Dr. Lei Zhang (CQU)](http://www.leizhang.tk)
 + [Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
-+ [Yan Ke](http://yanke23.tk/)
++ [Ke Yan](http://yanke23.tk/)
 + [Jun Xu](http://wangliuqing.tk/)
