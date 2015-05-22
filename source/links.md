@@ -49,10 +49,12 @@ Life
 Work and Study
 --------------------------------------
 
-+ [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems) - Journal
++ [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems)
++ [IEEE Trans. on PAMI](https://mc.manuscriptcentral.com/tpami-cs)
++ [ICCV 2016](https://www.waset.org/conference/2016/01/zurich/ICCV) - July 12, 2015
 + [CVPR 2016](http://www.pamitc.org/cvpr16/dates.php) - Nov. 6th, 2015
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
-+ [ICCV 2016](https://www.waset.org/conference/2016/01/zurich/ICCV) - July 12, 2015
++ [ICML 2016](http://icml.cc/2016) - February 15, 2016 
 + [GitHub](https://github.com/quxiaofeng) - Repos
 + [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
 + [Coding](https://coding.net/) - Cloud coding
