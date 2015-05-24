@@ -42,8 +42,7 @@ Refactor according to [the matlab style guide](http://www.quxiaofeng.me/articles
 当前完成的函数
 -------
 
-<pre>
-<code class="matlab">
+<pre><code class="matlab">
 function [ debug_state ] = isdebugging( debug_state )
 % isdebugging Check debug status to determine if it is debugging.
 %    debug_state = isdebugging(debug_state) parse a general debug
@@ -117,5 +116,4 @@ else
 end
 
 end
-</code>
-</pre>
+</code></pre>
