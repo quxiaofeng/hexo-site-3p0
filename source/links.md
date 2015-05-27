@@ -106,10 +106,11 @@ Work and Study
 
 ### Websites
 
-+ [Security Biometrics](http://www.securitybiometrics.ml)
-+ [Functions of Machine Learning](http://www.functions.ml)
-+ [Machine Learning Methods](http://www.methods.ml)
-+ [Optimizations](http://www.optimizations.ml)
-+ [Machine Learning with Julia](http://www.machinelearningwithjulia.ml)
-+ [How to Design a Biometrics](http://www.biometricsystem.tk)
-+ [Deep Computing with Keras](http://www.deepcomputingwithkeras.ml)
++ [Security Biometrics](http://www.quxiaofeng.me/securitybiometrics)
++ [Functions of Machine Learning](www.quxiaofeng.me/functions.ml)
++ [Machine Learning Methods](www.quxiaofeng.me/methods.ml)
++ [Optimizations](http://www.quxiaofeng.me/optimization)
++ [Machine Learning with Julia](http://www.quxiaofeng.me/MachineLearningWithJulia.jl)
++ [How to Design a Biometrics](http://www.quxiaofeng.me/how-to-build-a-biometric-system)
++ [Deep Computing with Keras](http://www.quxiaofeng.me/deepcomputingwithkeras.ml)
++ [Keras](http://www.quxiaofeng.me/keras)
