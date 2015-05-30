@@ -77,9 +77,9 @@ Follow [*this guide*](http://www.immd.gov.hk/eng/services/visas/extension_of_sta
 
 ![](/images/shenzhen-agency.jpg)
 
-> 地址：深圳市罗湖区南湖路 1001 号广东省公安厅深圳出入境签证办事处综合楼<del>三楼</del>一楼 （[腾讯地图街景](http://map.qq.com/#pano=10041055140706113941000&heading=236&pitch=6&zoom=2)）
-> 咨询电话： 0755-<del>8232 9899</del>2231 8412
-> 投诉电话： 0755-<del>8232 7700</del>2231 8726
+> 地址：深圳市罗湖区南湖路 1001 号广东省公安厅深圳出入境签证办事处综合楼 <del>三楼</del> 一楼 （[腾讯地图街景](http://map.qq.com/#pano=10041055140706113941000&heading=236&pitch=6&zoom=2)）
+> 咨询电话： 0755 - <del>8232 9899</del> 2231 8412
+> 投诉电话： 0755 - <del>8232 7700</del> 2231 8726
 > 受理时间：星期一至<del>星期六</del>星期五 9:00-12:00 14:00-17:00
 > 办证期限：换领证件 <del>15</del> 10 个工作日；续办签注 <del>10</del> 7 个工作日。
 > 收费标准（人民币）
