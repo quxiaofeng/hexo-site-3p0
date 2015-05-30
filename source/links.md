@@ -111,6 +111,6 @@ Work and Study
 + [Machine Learning Methods](http://www.quxiaofeng.me/methods.ml)
 + [Optimizations](http://www.quxiaofeng.me/optimization)
 + [Machine Learning with Julia](http://www.quxiaofeng.me/MachineLearningWithJulia.jl)
-+ [How to Design a Biometrics](http://www.quxiaofeng.me/how-to-build-a-biometric-system)
++ [How to Design a Biometrics](http://www.quxiaofeng.me/how-to-design-a-biometric-system)
 + [Deep Computing with Keras](http://www.quxiaofeng.me/deepcomputingwithkeras.ml)
 + [Keras](http://www.quxiaofeng.me/keras)
