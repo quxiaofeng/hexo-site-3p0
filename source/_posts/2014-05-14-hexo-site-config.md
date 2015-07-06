@@ -1,3 +1,4 @@
+---
 title: Hexo Generated Blog 
 date: 2014-05-14 02:43:54
 tags: [blog, website, jekyll, hexo]

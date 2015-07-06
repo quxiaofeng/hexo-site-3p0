@@ -1,10 +1,10 @@
+---
 title: “你好”是什么意思？
 date: 2014-08-07 22:35:46
 tags: [english, chinese]
 category: language
+banner: /images/nihao.jpg
 ---
-
-![](/images/nihao.jpg)
 
 “你好”是我们现在最常用的问候语，但它具体是什么意思却从来没有想过。
 

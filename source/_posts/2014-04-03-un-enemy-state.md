@@ -7,9 +7,8 @@ category: life
 tags: [note, politics]
 comments: true
 date: 2014-04-03 02:35:51
+banner: /images/500px-Emblem_of_the_United_Nations.svg.png
 ---
-
-![](/images/500px-Emblem_of_the_United_Nations.svg.png)
 
 Collected information from UN website related to the East China Sea dispute.
 
