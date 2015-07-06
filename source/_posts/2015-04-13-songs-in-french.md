@@ -3,8 +3,7 @@ title: 快樂唱歌學法語
 date: 2015-04-13 19:24:17
 tags: [course, PolyU, french, music]
 category: language
-photos:
-- /images/Lesson_2_il_etait_une_bergere.png
+banner: /images/Lesson_2_il_etait_une_bergere.png
 ---
 刚报了个班，"快樂唱歌學法語—日常用語篇"（Lets Sing a Happy French Song - for Daily Living）。感觉挺有效的。原本已经"很熟"的基础语法和简单单词，说不出来，但唱的就容易点。两个老师，协同上课，一个是专注语言，一个专注歌唱。一方面纠正语音，另一方面学习唱歌技巧，挺有意思的。
 
