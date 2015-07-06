@@ -9,9 +9,9 @@ comments: true
 mathjax: false
 date: 2014-03-22 16:05:03
 photos:
-- http://i.imgur.com/NlTejiH.jpg
-- http://i.imgur.com/RwKwlNG.jpg
-- http://i.imgur.com/0zqAyWG.png
+- http://i.imgur.com/j1Nl1FR.png
+- http://i.imgur.com/4OGjxSA.jpg
+- http://i.imgur.com/n9luJJI.jpg
 ---
 
 A polyu Beamer template
