@@ -71,6 +71,7 @@ Work and Study
 + [DockOne](http://dockerone.com/)
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
++ [Quantitative Economics](http://quant-econ.net/)
 
 ### Deep Learning
 
