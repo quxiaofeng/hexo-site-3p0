@@ -8,6 +8,8 @@ tags: [python, c, c++, note]
 date: 2014-02-28 19:27:07
 comments: true
 mathjax: false
+photos:
+- http://i.imgur.com/EsDsYsI.png
 ---
 A simple ctypes example interfacing a windows dll to python.
 

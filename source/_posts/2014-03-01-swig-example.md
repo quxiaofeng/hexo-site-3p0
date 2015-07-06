@@ -8,6 +8,8 @@ tags: [coding, python, c, c++]
 comments: true
 mathjax: false
 date: 2014-03-01 17:58:51
+photos:
+- http://i.imgur.com/rPhlR7E.png
 ---
 
 ## [SWIG](http://www.swig.org)

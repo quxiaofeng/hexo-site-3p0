@@ -3,7 +3,8 @@ title: LaTeX cls 文件编写指南
 date: 2015-01-23 02:27:05
 tags: [writing, PolyU]
 category: latex
-banner: /images/ctan_lion_350x350.png
+photos:
+- /images/ctan_lion_350x350.png
 ---
 
 编写 LaTeX cls 文件的方法、步骤与注意事项。

@@ -7,13 +7,13 @@ category: life
 tags: [psychology, note]
 date: 2014-03-14 16:37:22
 comments: true
+photos:
+- http://i.imgur.com/RcC3eLZ.jpg
 ---
 
 前一阵看了这本[大象在屋里](http://book.douban.com/subject/25842106/)，很受启发。拿回去给Jocelyn看，也是爱不释手。一周就看完了。转过来，在知乎上有看到这样一篇文章[爸爸被审判](http://zhuanlan.zhihu.com/lswlsw/19627805#comment-53566939)，也很有共鸣。这里总结一下我自己有关幼儿成长、亲子交互和夫妻沟通的观点。
 
 <!--more-->
-
-![](http://i.imgur.com/RcC3eLZ.jpg)
 
 [大象在屋里](http://book.douban.com/subject/25842106/)这本书里第一个案例是讲一个孩子带刀上学的故事。其中的家庭沟通模式就类似知乎里面[爸爸被审判](http://zhuanlan.zhihu.com/lswlsw/19627805#comment-53566939)的那个虚构案例。爸爸忙于工作不在家，妈妈把精力全投注在儿子身上，儿子压力山大，在学校表现异常，与老师同学关系不融洽，曾经带刀上学。表面问题是儿子的学习成绩不好，不愿意上学，实际是家里的压力层层转移到了孩子一个人身上。后来的处理方法是父母转移重心，多享受二人世界，给儿子自己承担责任，成长的空间。
 

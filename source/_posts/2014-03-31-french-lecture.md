@@ -1,5 +1,5 @@
 ---
-layout: photo
+layout: post
 title: "Lecture Note for the French Lecture"
 description:
 headline:
@@ -7,13 +7,13 @@ category: language
 tags: [french, francais, note]
 comments: true
 mathjax: true
+photos:
+- /images/Delacroix_-_La_liberte.jpg
 ---
 
 Based on a french intro course I took in February 2014.
 
 <!--more-->
-
-![](/images/Delacroix_-_La_liberte.jpg)
 
 Lecture Five
 ------------

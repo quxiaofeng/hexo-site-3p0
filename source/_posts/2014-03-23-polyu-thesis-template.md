@@ -7,6 +7,8 @@ category: latex
 tags: [latex, thesis, PolyU, writing]
 comments: true
 date: 2014-03-23 16:06:04
+photos:
+- http://i.imgur.com/6Q2xecY.png
 ---
 
 A polyu Thesis template

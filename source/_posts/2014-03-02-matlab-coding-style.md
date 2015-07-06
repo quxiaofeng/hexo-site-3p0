@@ -7,6 +7,8 @@ category: coding
 tags: [matlab, coding]
 comments: true
 date: 2014-03-02 02:34:39
+photos:
+- http://i.stack.imgur.com/CpCOr.jpg
 ---
 
 A formal, informative and elegant coding style for matlab codes.

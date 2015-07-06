@@ -8,16 +8,9 @@ tags: [life, psychology]
 comments: true
 mathjax: false
 date: 2014-03-06 08:46:30
+photos:
+- http://i.imgur.com/8qBvm31.jpg
 ---
-
-<figure>
-  <img src="http://i.imgur.com/8qBvm31.jpg">
-  <figurecaption>
-  An example of Zentangle
-  </figurecaption>
-</figure>
-
-<!--more-->
 
 ## Zentangle
 
@@ -27,6 +20,15 @@ date: 2014-03-06 08:46:30
 4. No eraser.
 5. Focus your attention in a special way.
 6. Unknown outcomes.
+
+<!--more-->
+
+<figure>
+  <img src="http://i.imgur.com/8qBvm31.jpg">
+  <figurecaption>
+  An example of Zentangle
+  </figurecaption>
+</figure>
 
 ## Zentangle Websites
 

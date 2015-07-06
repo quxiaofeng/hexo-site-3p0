@@ -2,7 +2,8 @@ title: 零基础免费个人网站搭建手册
 date: 2014-09-12 14:45:00
 tags: [blog, website]
 category: life
-banner: /images/hello_notebook.jpg
+photos:
+- /images/hello_notebook.jpg
 ---
 
 搭建个人网站需要几个步骤。

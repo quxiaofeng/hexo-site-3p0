@@ -3,7 +3,8 @@ title: 《港式中文与标准中文的比较》读书笔记
 date: 2014-09-16 11:17:08
 tags: [chinese, mandarin]
 category: language
-banner: /images/hk_chinese_cover.jpg 
+photos:
+- /images/hk_chinese_cover.jpg 
 ---
 
 ## 香港书面语的三个等级

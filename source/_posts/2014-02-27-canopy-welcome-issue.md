@@ -8,6 +8,8 @@ tags: [note, python, canopy]
 comments: true
 mathjax: false
 date: 2014-02-27 15:28:32
+photos:
+- http://i.imgur.com/uBRhLVa.jpg
 ---
 
 The Issue
