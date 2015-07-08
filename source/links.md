@@ -71,7 +71,7 @@ Work and Study
 + [DockOne](http://dockerone.com/)
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
-+ [Quantitative Economics](http://quant-econ.net/)
++ [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
 
 ### Deep Learning
 
@@ -79,6 +79,7 @@ Work and Study
 + [Keras](http://keras.io/)
 + [Theano Installation](http://deeplearning.net/software/theano/install.html#install)
 + [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.php)
++ [Deep Learning News](http://news.startup.ml/)
 
 ### Smart Hardware
 
