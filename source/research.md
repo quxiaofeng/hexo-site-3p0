@@ -5,7 +5,6 @@ permalink: /research/index.html
 comments: false
 share: false
 mathjax: false
-hidedate: true
 ---
 
 [Google Scholar Profile](http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en)
