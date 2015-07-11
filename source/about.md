@@ -5,6 +5,7 @@ title: About
 comments: false
 share: false
 mathjax: false
+hidedate: true
 ---
 
 > # QU, Xiao Feng
