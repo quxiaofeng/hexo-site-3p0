@@ -13,6 +13,7 @@ location: 'Hong Kong & Shenzhen, China'
 follow: https://github.com/quxiaofeng/
 language: en-US
 timezone:
+since: 2012 # 站点起始时间 The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -123,8 +124,6 @@ google_analytics: UA-50831338-1
 # 百度统计 ID，此 ID 是百度统计提供脚本中 hm.js? 后面那串字符，非百度统计帐号
 # baidu_analytics: 50c15455e37f70aea674ff4a663eef27
 
-# 站点起始时间
-since: 2012
 
 # =============================================================================
 # End NexT Theme configuration
