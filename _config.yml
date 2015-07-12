@@ -74,7 +74,7 @@ duoshuo_shortname: quxiaofeng
 plugins:
   hexo-generator-feed
 ## Themes: http://hexo.io/themes/
-theme: icarus
+theme: landscape # Keep compatibility between icarus and next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
