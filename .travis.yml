@@ -34,6 +34,8 @@ before_script:
 - git config --global user.name 'QU Xiaofeng'
 - git config --global user.email 'xiaofeng.qu.hk@ieee.org'
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-icarus.git themes/icarus
+- git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-next.git themes/next
+
 
 script:
 - hexo generate
