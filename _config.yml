@@ -13,7 +13,7 @@ location: 'Hong Kong & Shenzhen, China'
 follow: https://github.com/quxiaofeng/
 language: en-US
 timezone:
-since: 2015 # 站点起始时间 The start year showing in your copyright section.
+since: 2012 # 站点起始时间 The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
