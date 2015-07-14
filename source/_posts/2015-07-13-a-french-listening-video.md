@@ -9,6 +9,8 @@ photos:
 
 [YouTube link](https://www.youtube.com/watch?v=K0eXpHUi6MA)
 
+[百度云盘(在线播放)](http://pan.baidu.com/s/1mgiUovI)
+
 In this lesson, you will improve your listening comprehension skills from a French conversation about getting to the airport. Visit us at Frenchpod101.com, where you will find French lesson notes and many more fantastic lessons and learning resources! Leave us a message while you are there!
 
 <!--more-->
