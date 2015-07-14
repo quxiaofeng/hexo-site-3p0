@@ -13,7 +13,7 @@ In this lesson, you will improve your listening comprehension skills from a Fren
 
 <!--more-->
 
-## transcription
+## transcript
 
 + Une femme demande a un homme dans un office de tourisme comment aller a l'aeroport.
 + A woman is asking a man in a visitor center how to get to the airport.
