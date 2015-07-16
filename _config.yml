@@ -6,7 +6,7 @@
 title: Xiaofeng QU
 subtitle:
 description: '多少恨，昨夜梦魂中。还似旧时游上苑，车如流水马如龙。花月正春风。'
-author: Xiaofeng QU
+author: 'Xiaofeng QU'
 author_title: 'PhD Candidate & EECS Engineer'
 avatar: /images/avatar.png
 location: 'Hong Kong & Shenzhen, China'
@@ -17,8 +17,8 @@ since: 2012 # 站点起始时间 The start year showing in your copyright sectio
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.quxiaofeng.me
-root: /
+url: 'http://www.quxiaofeng.me'
+root: '/'
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -45,7 +45,8 @@ future: true
 highlight:
   enable: true
   line_number: true
-  tab_replace:
+  auto_detect: true
+  tab_replace: ''
 
 # Category & Tag
 default_category: uncategorized
