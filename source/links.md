@@ -109,9 +109,9 @@ Work and Study
 
 ### Websites
 
-+ [Optimizations](http://www.quxiaofeng.me/optimization)
-+ [Machine Learning with Julia](http://www.quxiaofeng.me/MachineLearningWithJulia.jl)
-+ [How to Design a Biometrics](http://www.quxiaofeng.me/how-to-design-a-biometric-system)
-+ [Security Biometrics](http://www.quxiaofeng.me/securitybiometrics)
-+ [Machine Learning Methods](http://www.quxiaofeng.me/methods.ml)
-+ [Functions of Machine Learning](http://www.quxiaofeng.me/functions.ml)
++ [Optimizations - 优化方法](http://www.quxiaofeng.me/optimization)
++ [Machine Learning with Julia - 用 Julia 搞机器学习](http://www.quxiaofeng.me/MachineLearningWithJulia.jl)
++ [How to Design a Biometrics - 如何设计生物特征识别系统](http://www.quxiaofeng.me/how-to-design-a-biometric-system)
++ [Security Biometrics - 人体生物特征识别](http://www.quxiaofeng.me/securitybiometrics)
++ [Machine Learning Methods - 机器学习的领域与问题](http://www.quxiaofeng.me/methods.ml)
++ [Functions of Machine Learning - 机器学习工具](http://www.quxiaofeng.me/functions.ml)
