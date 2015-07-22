@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: /about/
 title: About
 comments: false
 share: false

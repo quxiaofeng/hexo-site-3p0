@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/index.html
+permalink: /research/
 comments: false
 share: false
 mathjax: false
