@@ -51,6 +51,7 @@ Work and Study
 --------------------------------------
 
 + [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems)
++ [IEEE Trans. on IM](http://tim.allentrack.net/cgi-bin/main.plex)
 + [IEEE Trans. on PAMI](https://mc.manuscriptcentral.com/tpami-cs)
 + [CVPR 2016](http://www.pamitc.org/cvpr16/dates.php) - Nov. 6th, 2015
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
