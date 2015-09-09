@@ -51,12 +51,9 @@ Work and Study
 --------------------------------------
 
 + [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems)
-+ [IEEE Trans. on IM](http://tim.allentrack.net/cgi-bin/main.plex)
-+ [IEEE Trans. on PAMI](https://mc.manuscriptcentral.com/tpami-cs)
 + [CVPR 2016](http://www.pamitc.org/cvpr16/dates.php) - Nov. 6th, 2015
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
 + [ICML 2016](http://icml.cc/2016) - February 15, 2016
-+ [ICCV 2017](#)
 + [GitHub](https://github.com/quxiaofeng) - Repos
 + [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
 + [Coding](https://coding.net/) - Cloud coding
@@ -110,12 +107,12 @@ Work and Study
 
 ### Websites
 
-+ [Optimizations - 优化方法 - http://optimizations.ml](http://www.quxiaofeng.me/optimization)
++ [Optimizations - 优化方法 - optimizations.ml](http://www.quxiaofeng.me/optimization)
 + [Machine Learning with Julia - 用 Julia 搞机器学习](http://www.quxiaofeng.me/MachineLearningWithJulia.jl)
 + [How to Design a Biometrics - 如何设计生物特征识别系统](http://www.quxiaofeng.me/how-to-design-a-biometric-system)
 + [Security Biometrics - 人体生物特征识别](http://www.quxiaofeng.me/securitybiometrics)
 + [Machine Learning Methods - 机器学习的领域与问题](http://www.quxiaofeng.me/methods.ml)
 + [Functions of Machine Learning - 机器学习工具](http://www.quxiaofeng.me/functions.ml)
-+ [Line Scan Palmprint System - 线扫掌纹识别系统 - http://linescanpalmprint.ml](http://www.linescanpalmprint.ml)
-+ [Door Knob Hand Recognition System - 门把手识别系统 - http://dkhrs.ml](http://www.dkhrs.ml)
++ [Line Scan Palmprint System - 线扫掌纹识别系统 - linescanpalmprint.ml](http://www.linescanpalmprint.ml)
++ [Door Knob Hand Recognition System - 门把手识别系统 - dkhrs.ml](http://www.dkhrs.ml)
 
