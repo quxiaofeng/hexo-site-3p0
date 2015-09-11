@@ -64,6 +64,6 @@ hidedate: true
 + To read through my douban list
 + To make my devices
 + To buy a Mac and to write iOS Apps
-+ To write books: [Machine Learning with Julia - 用 Julia 搞机器学习](http://www.quxiaofeng.me/MachineLearningWithJulia.jl), [How to Design a Biometrics- 如何设计生物特征识别系统](http://www.quxiaofeng.me/how-to-design-a-biometric-system) and [Optimizations.ml - 优化方法](http://www.quxiaofeng.me/optimization).
++ To write books: [Machine Learning with Julia - 用 Julia 搞机器学习](http://www.zhuyingtai.ml), [How to Design a Biometrics- 如何设计生物特征识别系统](http://www.quxiaofeng.me/how-to-design-a-biometric-system), and [Optimizations.ml - 优化方法](http://www.optimizations.ml).
 + To play with 3D printers with kids
 + To hack clusters and cloud computing
