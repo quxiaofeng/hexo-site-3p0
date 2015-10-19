@@ -57,18 +57,20 @@ Work and Study
 + [GitHub](https://github.com/quxiaofeng) - Repos
 + [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
 + [Coding](https://coding.net/) - Cloud coding
++ [EDX](https://courses.edx.org/)
 + [计蒜客](http://nanti.jisuanke.com/) - Online Judge
 + [Overleaf](https://www.overleaf.com/) (formerly WriteLaTeX) - Writing
 + [ShareLaTeX](https://www.sharelatex.com/) - Writing
 + [Lucid Chart](https://www.lucidchart.com/) - Drawing
 + [Sense](https://sense.io/) - Cloud Data Coding
 + [Beaker](http://beakernotebook.com/) - Cloud Data Coding
-+ [Julia Documentation](http://docs.julialang.org/en/release-0.3/) - A Language to Rule Them All
++ [Julia Documentation](http://docs.julialang.org/en/latest/) - A Language to Rule Them All
 + [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
 + [Talking Machines - human conversation about machine learning](http://www.thetalkingmachines.com/)
 + [docker中文](http://www.docker.org.cn/)
 + [DockOne](http://dockerone.com/)
 + [Duolingo](https://www.duolingo.com/) - European Languages
++ [Lingua.ly](https://webapp.lingua.ly/)
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 + [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
 
