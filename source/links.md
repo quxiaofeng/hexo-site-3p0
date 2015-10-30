@@ -57,14 +57,15 @@ Work and Study
 + [GitHub](https://github.com/quxiaofeng) - Repos
 + [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
 + [Coding.net](https://coding.net/) - Cloud coding
-+ [Sense.io](https://sense.io/) - Cloud Data Coding
++ [Sense.io](https://sense.io/) - Cloud Data Analysis
++ [Beaker](http://beakernotebook.com/) - Cloud Data Analysis
++ [DataJoy](https://www.getdatajoy.com/) - Cloud Data Analysis
 + [EDX](https://courses.edx.org/)
 + [计蒜客](http://nanti.jisuanke.com/) - Online Judge
 + [Overleaf](https://www.overleaf.com/) (formerly WriteLaTeX) - Writing
 + [ShareLaTeX](https://www.sharelatex.com/) - Writing
 + [Lucid Chart](https://www.lucidchart.com/) - Drawing
-+ [Gliffy](https://www.gliffy.com)
-+ [Beaker](http://beakernotebook.com/) - Cloud Data Coding
++ [Gliffy](https://www.gliffy.com) - Drawing
 + [Julia Documentation](http://docs.julialang.org/en/latest/) - A Language to Rule Them All
 + [Julia 中文](http://julia-cn.readthedocs.org/zh_CN/latest/)
 + [Julia 超算云编程](http://www.ijuco.com/)
@@ -76,6 +77,7 @@ Work and Study
 + [Lingua.ly](https://webapp.lingua.ly/)
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 + [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
++ [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别。
 
 ### Deep Learning
 
