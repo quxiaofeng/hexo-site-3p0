@@ -77,7 +77,8 @@ Work and Study
 + [Lingua.ly](https://webapp.lingua.ly/)
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 + [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
-+ [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别。
++ [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别
++ [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 
 ### Deep Learning
 
