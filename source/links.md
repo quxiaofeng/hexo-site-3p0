@@ -63,20 +63,20 @@ Work
 
 #### Writing
 
-+ [Overleaf](http://www.overleaf.com/) (formerly WriteLaTeX)
++ [Overleaf](http://www.overleaf.com/)
 + [ShareLaTeX](http://www.sharelatex.com/)
 
 #### Drawing
 
-+ [Lucid Chart](http://www.lucidchart.com/) - Drawing
-+ [Gliffy](http://www.gliffy.com) - Drawing
++ [Lucid Chart](http://www.lucidchart.com/)
++ [Gliffy](http://www.gliffy.com)
 
 #### Data Analysis
 
-+ [Sense.io](http://sense.io/) - Cloud Data Analysis
-+ [Beaker](http://beakernotebook.com/) - Cloud Data Analysis
-+ [DataJoy](http://www.getdatajoy.com/) - Cloud Data Analysis
-+ [Coding.net](http://coding.net/) - Cloud coding
++ [Sense.io](http://sense.io/)
++ [Beaker](http://beakernotebook.com/)
++ [DataJoy](http://www.getdatajoy.com/)
++ [Coding.net](http://coding.net/)
  
 #### References
 
@@ -86,14 +86,15 @@ Work
 
 #### Version Control
 
-+ [GitHub](https://github.com/quxiaofeng) - Repos
-+ [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
++ [GitHub](https://github.com/quxiaofeng)
++ [BitBucket](http://bitbucket.org/quxiaofeng)
 
 ### Deep Learning
 
 + [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 + [Keras](http://keras.io/)
 + [Theano Installation](http://deeplearning.net/software/theano/install.html#install)
++ [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
 + [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.php)
 + [Deep Learning News](http://news.startup.ml/)
 
@@ -107,12 +108,11 @@ Work
 
 + [EDX](https://courses.edx.org/) - MOOC
 + [计蒜客](http://nanti.jisuanke.com/) - Online Judge
-+ [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
 + [Talking Machines - human conversation about machine learning](http://www.thetalkingmachines.com/)
 + [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
 + [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别
 + [Build Your Own Lisp](http://www.buildyourownlisp.com/)
-
++ [Toptal Engineering Blog](http://www.toptal.com/blog)
 
 ### Docker
 
