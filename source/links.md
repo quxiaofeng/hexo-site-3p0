@@ -47,38 +47,45 @@ Life
 + [Mobile - Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
 + [VPN  - VpnCloud](https://www.ttincloud.com/)
 
-Work and Study
+Work
 --------------------------------------
+
+### Academy
 
 + [IEEE Trans. on SMC: Systems](http://mc.manuscriptcentral.com/systems)
 + [CVPR 2016](http://www.pamitc.org/cvpr16/dates.php) - Nov. 6th, 2015
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
 + [ICML 2016](http://icml.cc/2016) - February 15, 2016
+
+### Cloud Work Flow 
+
+#### Writing
+
++ [Overleaf](http://www.overleaf.com/) (formerly WriteLaTeX)
++ [ShareLaTeX](http://www.sharelatex.com/)
+
+#### Drawing
+
++ [Lucid Chart](http://www.lucidchart.com/) - Drawing
++ [Gliffy](http://www.gliffy.com) - Drawing
+
+#### Data Analysis
+
++ [Sense.io](http://sense.io/) - Cloud Data Analysis
++ [Beaker](http://beakernotebook.com/) - Cloud Data Analysis
++ [DataJoy](http://www.getdatajoy.com/) - Cloud Data Analysis
++ [Coding.net](http://coding.net/) - Cloud coding
+ 
+#### References
+
++ [Mendeley](http://www.mendeley.com/)
++ [arXiv](http://arxiv.org/)
++ [GitXiv](http://gitxiv.com/)
+
+#### Version Control
+
 + [GitHub](https://github.com/quxiaofeng) - Repos
 + [BitBucket](http://bitbucket.org/quxiaofeng)  - Repos
-+ [Coding.net](https://coding.net/) - Cloud coding
-+ [Sense.io](https://sense.io/) - Cloud Data Analysis
-+ [Beaker](http://beakernotebook.com/) - Cloud Data Analysis
-+ [DataJoy](https://www.getdatajoy.com/) - Cloud Data Analysis
-+ [EDX](https://courses.edx.org/)
-+ [计蒜客](http://nanti.jisuanke.com/) - Online Judge
-+ [Overleaf](https://www.overleaf.com/) (formerly WriteLaTeX) - Writing
-+ [ShareLaTeX](https://www.sharelatex.com/) - Writing
-+ [Lucid Chart](https://www.lucidchart.com/) - Drawing
-+ [Gliffy](https://www.gliffy.com) - Drawing
-+ [Julia Documentation](http://docs.julialang.org/en/latest/) - A Language to Rule Them All
-+ [Julia 中文](http://julia-cn.readthedocs.org/zh_CN/latest/)
-+ [Julia 超算云编程](http://www.ijuco.com/)
-+ [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
-+ [Talking Machines - human conversation about machine learning](http://www.thetalkingmachines.com/)
-+ [docker中文](http://www.docker.org.cn/)
-+ [DockOne](http://dockerone.com/)
-+ [Duolingo](https://www.duolingo.com/) - European Languages
-+ [Lingua.ly](https://webapp.lingua.ly/)
-+ [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
-+ [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
-+ [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别
-+ [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 
 ### Deep Learning
 
@@ -87,6 +94,35 @@ Work and Study
 + [Theano Installation](http://deeplearning.net/software/theano/install.html#install)
 + [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.php)
 + [Deep Learning News](http://news.startup.ml/)
+
+### Julia
+
++ [Julia Documentation](http://docs.julialang.org/en/latest/) - A Language to Rule Them All
++ [Julia 中文](http://julia-cn.readthedocs.org/zh_CN/latest/)
++ [Julia 超算云编程](http://www.ijuco.com/)
+
+### Other Resources on Coding and Pattern Recognition
+
++ [EDX](https://courses.edx.org/) - MOOC
++ [计蒜客](http://nanti.jisuanke.com/) - Online Judge
++ [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
++ [Talking Machines - human conversation about machine learning](http://www.thetalkingmachines.com/)
++ [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
++ [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别
++ [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+
+
+### Docker
+
++ [DaoCloud.io](https://www.daocloud.io/)
++ [docker中文](http://www.docker.org.cn/)
++ [DockOne](http://dockerone.com/)
+ 
+### Language
+
++ [Duolingo](https://www.duolingo.com/) - European Languages
++ [Lingua.ly](https://webapp.lingua.ly/)
++ [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 
 ### Smart Hardware
 
