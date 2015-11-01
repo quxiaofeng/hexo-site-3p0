@@ -97,6 +97,7 @@ Work
 + [scikit-learn](http://scikit-learn.org/stable/index.html) -  Machine Learning in Python
 + [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.php)
 + [Deep Learning News](http://news.startup.ml/)
++ [Multimedia Laboratory - The Chinese University of Hong Kong | 香港中文大学](http://mmlab.ie.cuhk.edu.hk/project_deep_learning.html)
 
 ### Julia
 
