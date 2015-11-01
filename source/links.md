@@ -99,6 +99,10 @@ Work
 + [Deep Learning News](http://news.startup.ml/)
 + [Multimedia Laboratory - The Chinese University of Hong Kong | 香港中文大学](http://mmlab.ie.cuhk.edu.hk/project_deep_learning.html)
 + [Distributed (Deep) Machine Learning Common](http://dmlc.ml/)
++ [CS224d: Deep Learning for Natural Language Processing | Stanford](http://cs224d.stanford.edu/)
++ [Professor Yoshua Bengio](https://www.quora.com/profile/Yoshua-Bengio)
++ [Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville](http://goodfeli.github.io/dlbook/)
++ [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
 
 ### Julia
 
