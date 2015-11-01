@@ -108,6 +108,7 @@ Work
 
 + [EDX](https://courses.edx.org/) - MOOC
 + [计蒜客](http://nanti.jisuanke.com/) - Online Judge
++ [豆瓣阅读](http://read.douban.com/reader/ebooks)
 + [Talking Machines - human conversation about machine learning](http://www.thetalkingmachines.com/)
 + [Quantitative Economics](http://quant-econ.net/) - Python and Julia cheat sheets
 + [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别
