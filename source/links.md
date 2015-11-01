@@ -98,6 +98,7 @@ Work
 + [Julien Mairal](http://lear.inrialpes.fr/people/mairal/index.php)
 + [Deep Learning News](http://news.startup.ml/)
 + [Multimedia Laboratory - The Chinese University of Hong Kong | 香港中文大学](http://mmlab.ie.cuhk.edu.hk/project_deep_learning.html)
++ [Distributed (Deep) Machine Learning Common](http://dmlc.ml/)
 
 ### Julia
 
