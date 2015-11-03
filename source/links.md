@@ -132,6 +132,8 @@ Work
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Lingua.ly](https://webapp.lingua.ly/)
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
++ [Forvo](http://forvo.com/)
++ [SWI](http://www.swissinfo.ch/)
 
 ### Smart Hardware
 
