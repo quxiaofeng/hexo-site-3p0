@@ -20,6 +20,7 @@ hidedate: true
 + [Financial Office](http://www.polyu.edu.hk/fo/FO_Web/index.php?page=5&subpage=stud04)
 + [EEPRS](http://www.engl.polyu.edu.hk/eeprs/)
 + [Corpus of Research Articles](http://rcpce.engl.polyu.edu.hk/RACorpus/default.htm) - 学术英语词汇搭配
++ [FAQs about Academic Writing for Engineering](https://osawec.elc.cityu.edu.hk/)
 + [ELC Booking System for WAP](http://booking.elc.polyu.edu.hk/) - 论文审校
 + [ELC e-Learning](http://elearn.elc.polyu.edu.hk/)
 + [Blackboard](https://learn.polyu.edu.hk/)
