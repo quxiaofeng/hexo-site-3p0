@@ -57,7 +57,7 @@ Work
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
-+ [ICML 2016](http://icml.cc/2016) - February 15, 2016
++ [ICML 2016](http://icml.cc/2016) - February 5, 2016
 + [CVPR](http://www.pamitc.org/cvpr16/dates.php)
 
 ### Cloud Work Flow 
