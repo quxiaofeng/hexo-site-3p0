@@ -18,9 +18,7 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 ### <a href="http://www.google.com/patents/CN203786745U?cl=en" target="_blank">A Door Knob Hand Image Capturing Device and A Hand Image Recognition System</a>
 
 + 已授权 (Granted)
-+ 专利号： ZL 201420166090.7 ([Download](/docs/ZL201420166090.7.pdf))
-+ 申请号： CN201420166090
-+ 公开号： CN203786745U
++ 专利号： [ZL 201420166090.7](/docs/ZL201420166090.7.pdf)
 + China Patent CN203786745 (U)
 + Code Name: DKHRS
 
@@ -29,8 +27,6 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 
 + 已授权 (Granted)
 + 专利号： ZL 20110362063.8
-+ 申请号： CN201110362063
-+ 公开号： CN102521584A / CN102521584B
 + China Patent CN102521584 (A) / CN102521584 (B)
 + Code Name: LPS
 
@@ -39,8 +35,6 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 
 + 已授权 (Granted)
 + 专利号： ZL 200610155870.1
-+ 申请号： CN200610155870
-+ 公开号： CN101101197A / CN100498211C
 + China Patent CN101101197 (A) / CN100498211 (C)
 
 ### 4. 圆筒内外壁加工精度在线成像检测装置
@@ -48,21 +42,18 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 
 + 已授权 (Granted)
 + 专利号： ZL 200620168791.X
-+ 申请号： CN200620168791
-+ 公开号： CN201034557Y
 + China Patent CN201034557 (Y)
 
 
 Projects
 -------
 
-+ Palmprint Recognition Device Based on Ti DM642 DSP
-+ 3D Palmprint Reconstructing Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM
-+ Multi-channel Ordor Sensing Board with USB Interface Based on CY7C68013A
-+ High Resolution Fingerprints Capturing Device
-+ Multi-view Human Face Captuirng Device
-+ Spectrum Alternating Face Capturing Device
-+ Human Hand Back Skin Texture Capturing Device
++ Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and Zhenhua Guo
++ 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
++ Multi-channel Ordor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
++ High Resolution Fingerprints Capturing Device, with Feng Liu
++ Multi-view Human Face Captuirng Device, with Meng Yang
++ Human Hand Back Skin Texture Capturing Device, with Jin Xie
 + Palmprint Capturing Device with A Moving Line Scan Camera
 + Palmprint Capturing Device Using A Linear CCD Sensor and A Folded Optical Path
 + Line Scan Palmprint System (LPS: [www.linescanpalmprint.ml](http://www.linescanpalmprint.ml))
