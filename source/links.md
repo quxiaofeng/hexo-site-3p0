@@ -83,6 +83,7 @@ Work
 #### References
 
 + [Mendeley](http://www.mendeley.com/)
++ [SciRate](https://scirate.com/)
 + [arXiv](http://arxiv.org/)
 + [GitXiv](http://gitxiv.com/)
 
@@ -93,6 +94,7 @@ Work
 
 ### Deep Learning
 
++ [TensorFlow](http://www.tensorflow.org/)
 + [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 + [Keras](http://keras.io/)
 + [Theano Installation](http://deeplearning.net/software/theano/install.html#install)
