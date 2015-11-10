@@ -54,6 +54,7 @@ Work
 ### Academy
 
 + [IEEE Transactions on Systems, Man and Cybernetics: Systems](http://mc.manuscriptcentral.com/systems)
++ [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
