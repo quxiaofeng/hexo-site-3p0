@@ -67,11 +67,14 @@ Work
 
 + [Overleaf](http://www.overleaf.com/)
 + [ShareLaTeX](http://www.sharelatex.com/)
++ [Linggle](http://linggle.com/)
++ [Acronymify](http://acronymify.com/)
 
 #### Drawing
 
 + [Lucid Chart](http://www.lucidchart.com/)
 + [Gliffy](http://www.gliffy.com)
++ [JPG/PNG to EPS](http://www.tlhiv.org/rast2vec/)
 
 #### Data Analysis
 
@@ -86,6 +89,10 @@ Work
 + [SciRate](https://scirate.com/)
 + [arXiv](http://arxiv.org/)
 + [GitXiv](http://gitxiv.com/)
++ [SemanticScholar](https://www.semanticscholar.org/)
++ [dblp](http://dblp.uni-trier.de/db/)
++ [CiteThisForMe](https://www.citethisforme.com/zh)
++ [Sci-Hub](http://www.sci-hub.io/)
 
 #### Version Control
 
