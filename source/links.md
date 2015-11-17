@@ -41,7 +41,7 @@ Life
 + [Bank - HangSeng](https://e-banking.hangseng.com)
 + [Bank - BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
 + [Bank - Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
-+ [Bank - PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)
++ [Bank - PPS](https://www.ppshk.com/hkt/revamp2/Chinese/InternetPPSLogon.html)
 + [Bank - 招商银行](https://www.cmbchina.com/)
 + [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
 + [Bank - 中国银行外汇牌价](http://www.boc.cn/sourcedb/whpj/)
