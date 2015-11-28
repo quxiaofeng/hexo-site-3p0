@@ -98,6 +98,13 @@ Work
 
 + [GitHub](https://github.com/quxiaofeng)
 + [BitBucket](http://bitbucket.org/quxiaofeng)
++ [GitCafe](http://www.gitcafe.com)
+
+#### Management
+
++ [RescueTime](https://www.rescuetime.com/dashboard)
++ [Fengche](https://fengche.co/)
++ [滴答清单](https://dida365.com/)
 
 ### Deep Learning
 
