@@ -93,6 +93,9 @@ Work
 + [dblp](http://dblp.uni-trier.de/db/)
 + [CiteThisForMe](https://www.citethisforme.com/zh)
 + [Sci-Hub](http://www.sci-hub.io/)
++ [AMiner](https://aminer.org/)
++ [IEEE](http://ieeexplore.ieee.org/)
++ [ScienceDirect](http://www.sciencedirect.com/)
 
 #### Version Control
 
@@ -121,6 +124,7 @@ Work
 + [Professor Yoshua Bengio](https://www.quora.com/profile/Yoshua-Bengio)
 + [Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville](http://goodfeli.github.io/dlbook/)
 + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
++ [Learning and Optimization Group Courses](http://bcmi.sjtu.edu.cn/log/courses.html)
 
 ### Julia
 
