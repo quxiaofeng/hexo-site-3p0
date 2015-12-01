@@ -59,7 +59,7 @@ Work
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
 + [ICML 2016](http://icml.cc/2016) - February 5, 2016
-+ [CVPR](http://www.pamitc.org/cvpr16/dates.php)
++ [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
 
 ### Cloud Work Flow 
 
@@ -96,6 +96,7 @@ Work
 + [AMiner](https://aminer.org/)
 + [IEEE](http://ieeexplore.ieee.org/)
 + [ScienceDirect](http://www.sciencedirect.com/)
++ [Derivative Calculator](http://www.derivative-calculator.net/)
 
 #### Version Control
 
@@ -125,6 +126,7 @@ Work
 + [Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville](http://goodfeli.github.io/dlbook/)
 + [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/)
 + [Learning and Optimization Group Courses](http://bcmi.sjtu.edu.cn/log/courses.html)
++ [徐亦达博士的机器学习课程](http://www-staff.it.uts.edu.au/~ydxu/statistics.htm)
 
 ### Julia
 
@@ -143,6 +145,7 @@ Work
 + [OpenPR](http://www.openpr.org.cn/), Open Pattern Recognition Project 开源模式识别
 + [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 + [Toptal Engineering Blog](http://www.toptal.com/blog)
++ [1945 年后的美国小说](http://open.163.com/special/theamericannovelsince1945/)
 
 ### Docker
 
