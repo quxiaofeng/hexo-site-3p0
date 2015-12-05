@@ -160,6 +160,12 @@ Work
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 + [Forvo](http://forvo.com/)
 + [SWI](http://www.swissinfo.ch/)
++ [Le Figaro](http://www.lefigaro.fr/)
++ [Le Monde](http://www.lemonde.rf/)
++ [Suddeutsche Zeitung](http://www.sueddeutsche.de/)
++ [FAZ](http://www.faz.net/)
++ [Die Welt](http://www.welt.de/)
++ [Spiegel](http://www.spiegel.de/)
 
 ### Smart Hardware
 
