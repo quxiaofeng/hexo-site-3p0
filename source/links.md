@@ -159,13 +159,15 @@ Work
 + [Lingua.ly](https://webapp.lingua.ly/)
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 + [Forvo](http://forvo.com/)
-+ [SWI](http://www.swissinfo.ch/)
-+ [Le Figaro](http://www.lefigaro.fr/)
-+ [Le Monde](http://www.lemonde.rf/)
++ [SWI](http://www.swissinfo.ch/) - 瑞士资讯
++ [Le Figaro](http://www.lefigaro.fr/) - 法国费加罗报
++ [Le Monde](http://www.lemonde.rf/) - 法国世界报
 + [Suddeutsche Zeitung](http://www.sueddeutsche.de/)
-+ [FAZ](http://www.faz.net/)
-+ [Die Welt](http://www.welt.de/)
-+ [Spiegel](http://www.spiegel.de/)
++ [Die Zeit](http://www.zeit.de/) - 德国时代周报
++ [FAZ](http://www.faz.net/) - 德国法兰克福汇报
++ [Die Welt](http://www.welt.de/) - 德国世界报
++ [Spiegel](http://www.spiegel.de/) - 德国明镜周刊
++ [讀賣新聞（よみうりしんぶん）](http://www.yomiuri.co.jp/) - 读卖新闻
 
 ### Smart Hardware
 
