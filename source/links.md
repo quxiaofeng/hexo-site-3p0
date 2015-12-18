@@ -169,6 +169,7 @@ Work
 + [SWI](http://www.swissinfo.ch/) - 瑞士资讯
 + [Le Figaro](http://www.lefigaro.fr/) - 法国费加罗报
 + [Le Monde](http://www.lemonde.rf/) - 法国世界报
++ [Vidéo de CCTV Français](http://fr.cntv.cn/live/) - 中国中央电视台法语频道
 + [Suddeutsche Zeitung](http://www.sueddeutsche.de/)
 + [Die Zeit](http://www.zeit.de/) - 德国时代周报
 + [FAZ](http://www.faz.net/) - 德国法兰克福汇报
