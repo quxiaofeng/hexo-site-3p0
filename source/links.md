@@ -55,11 +55,16 @@ Work
 
 + [IEEE Transactions on Systems, Man and Cybernetics: Systems](http://mc.manuscriptcentral.com/systems)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
++ [International Journal of Computer Vision - special issue on Looking at People](http://VISI.edmgr.com) - February, 15th, 2016 - [CFP](http://gesture.chalearn.org/special-issue-ijcv)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
 + [ICML 2016](http://icml.cc/2016) - February 5, 2016
++ [IEEE PIMRC 2016](http://www.ieee-pimrc.org/cfp.html) - March 18th, 2016
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
++ [NIPS 2015](https://nips.cc/)
++ [ICCV 2015](http://pamitc.org/iccv15/)
++ [CVPR 2016](http://www.pamitc.org/cvpr16/)
 
 ### Cloud Work Flow 
 
