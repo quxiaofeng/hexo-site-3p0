@@ -56,7 +56,7 @@ Work
 + [IEEE Transactions on Systems, Man and Cybernetics: Systems](http://mc.manuscriptcentral.com/systems)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
 + [International Journal of Computer Vision - __special issue on Looking at People__](http://VISI.edmgr.com) - February, 15th, 2016 - [CFP](http://gesture.chalearn.org/special-issue-ijcv)
-+ [IEEE Transactions on Signal and Information Processing over Networks - special issue on INFERENCE AND LEARNING OVER NETWORKS](http://www.signalprocessingsociety.org/uploads/special_issues_deadlines/inference_learning.pdf)
++ [ACM Transactions on Computer-Human Interaction (TOCHI) - __Special Issue on End User Development for the Internet of Things__](http://tochi.acm.org/end-user-development-for-the-internet-of-things/) - March 22, 2016
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [IEEE Transactions on Affective Computing](http://www.signalprocessingsociety.org/uploads/special_issues_deadlines/tac_general_cfp_color.pdf)
@@ -72,22 +72,23 @@ Work
 
 #### Writing
 
-+ [Overleaf](http://www.overleaf.com/)
++ [Overleaf](http://www.overleaf.com/) - Pro (IEEE Member)
 + [ShareLaTeX](http://www.sharelatex.com/)
 + [Linggle](http://linggle.com/)
 + [Acronymify](http://acronymify.com/)
 
-#### Drawing
+#### Drawing - 画图
 
-+ [Lucid Chart](http://www.lucidchart.com/)
++ [Lucid Chart](http://www.lucidchart.com/) - PDF/PNG, Pro (EDU)
++ [ProcessOn](https://www.processon.com/) - SVG, then Inkscape
 + [Gliffy](http://www.gliffy.com)
 + [JPG/PNG to EPS](http://www.tlhiv.org/rast2vec/)
 
 #### Data Analysis
 
++ [DataJoy](http://www.getdatajoy.com/) - Pro (Paid)
 + [Sense.io](http://sense.io/)
 + [Beaker](http://beakernotebook.com/)
-+ [DataJoy](http://www.getdatajoy.com/)
 + [Coding.net](http://coding.net/)
  
 #### References
@@ -99,7 +100,6 @@ Work
 + [SemanticScholar](https://www.semanticscholar.org/)
 + [dblp](http://dblp.uni-trier.de/db/)
 + [CiteThisForMe](https://www.citethisforme.com/zh)
-+ [Sci-Hub](http://www.sci-hub.io/)
 + [AMiner](https://aminer.org/)
 + [IEEE](http://ieeexplore.ieee.org/)
 + [ScienceDirect](http://www.sciencedirect.com/)
@@ -107,13 +107,13 @@ Work
 
 #### Version Control
 
-+ [GitHub](https://github.com/quxiaofeng)
++ [GitHub](https://github.com/quxiaofeng) - EDU
 + [BitBucket](http://bitbucket.org/quxiaofeng)
 + [GitCafe](http://www.gitcafe.com)
 
 #### Management
 
-+ [RescueTime](https://www.rescuetime.com/dashboard)
++ [RescueTime](https://www.rescuetime.com/dashboard) - Pro (Paid)
 + [Fengche](https://fengche.co/)
 + [滴答清单](https://dida365.com/)
 
