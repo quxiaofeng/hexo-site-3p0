@@ -55,14 +55,14 @@ Work
 
 + [IEEE Transactions on Systems, Man and Cybernetics: Systems](http://mc.manuscriptcentral.com/systems)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
-+ [International Journal of Computer Vision - __special issue on Looking at People__](http://VISI.edmgr.com) - February, 15th, 2016 - [CFP](http://gesture.chalearn.org/special-issue-ijcv)
++ [International Journal of Computer Vision - __special issue on Looking at People__](http://VISI.edmgr.com) - February 15, 2016 - [CFP](http://gesture.chalearn.org/special-issue-ijcv)
++ [IEEE IoT Journal - __special issue on Big Security Challenges in Big Data Era__](https://mc.manuscriptcentral.com/iot) - February 15, 2016 - [CFP](http://iot-journal.weebly.com/uploads/1/8/8/0/18809834/ieee_iot_journal_si_big_security_cfp.pdf)
 + [ACM Transactions on Computer-Human Interaction (TOCHI) - __Special Issue on End User Development for the Internet of Things__](http://tochi.acm.org/end-user-development-for-the-internet-of-things/) - March 22, 2016
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
-+ [IEEE Transactions on Affective Computing](http://www.signalprocessingsociety.org/uploads/special_issues_deadlines/tac_general_cfp_color.pdf)
 + [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
 + [ICML 2016](http://icml.cc/2016) - February 5, 2016
-+ [IEEE PIMRC 2016](http://www.ieee-pimrc.org/cfp.html) - March 18th, 2016
++ [IEEE PIMRC 2016](http://www.ieee-pimrc.org/cfp.html) - March 18, 2016
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
 + [NIPS 2015](https://nips.cc/)
 + [ICCV 2015](http://pamitc.org/iccv15/)
@@ -86,7 +86,7 @@ Work
 
 #### Data Analysis
 
-+ [DataJoy](http://www.getdatajoy.com/) - Pro (Paid)
++ [get DataJoy](http://www.getdatajoy.com/)
 + [Sense.io](http://sense.io/)
 + [Beaker](http://beakernotebook.com/)
 + [Coding.net](http://coding.net/)
