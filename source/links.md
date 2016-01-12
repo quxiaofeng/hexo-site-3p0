@@ -53,10 +53,9 @@ Work
 
 ### Academy
 
-+ [IEEE Transactions on Systems, Man and Cybernetics: Systems](http://mc.manuscriptcentral.com/systems)
++ [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263) - [__special issue on Looking at People__](http://VISI.edmgr.com) - February 15, 2016 - [CFP](http://gesture.chalearn.org/special-issue-ijcv)
-+ [IEEE IoT Journal - __special issue on Big Security Challenges in Big Data Era__](http://mc.manuscriptcentral.com/iot) - February 15, 2016 - [CFP](http://iot-journal.weebly.com/uploads/1/8/8/0/18809834/ieee_iot_journal_si_big_security_cfp.pdf)
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/) - [__Special Issue on End User Development for the Internet of Things__](http://tochi.acm.org/end-user-development-for-the-internet-of-things/) - March 22, 2016
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
