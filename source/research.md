@@ -52,7 +52,7 @@ Projects
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
 + Multi-channel Ordor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
 + High Resolution Fingerprints Capturing Device, with Feng Liu
-+ Human Hand Back Skin Texture Capturing Device, with Jin Xie
++ [Hand Back System](http://www.handback.ml), with Jin Xie
 + Line Scan Palmprint System (LPS: [www.linescanpalmprint.ml](http://www.linescanpalmprint.ml))
 + Door Knob Hand Recognition System (DKHRS: [www.doorknob.ml](http://www.doorknob.ml))
 + CBS (Prepared)
