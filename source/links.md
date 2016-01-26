@@ -59,7 +59,7 @@ Work
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/) - [__Special Issue on End User Development for the Internet of Things__](http://tochi.acm.org/end-user-development-for-the-internet-of-things/) - March 22, 2016
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
-+ [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - January 25, 2016
++ [ICIP 2016](http://www.ieeeicip2016.org/CallForPapers.asp) - <del>January 25, 2016</del> - February 1, 2016
 + [ICML 2016](http://icml.cc/2016) - February 5, 2016
 + [IEEE PIMRC 2016](http://www.ieee-pimrc.org/cfp.html) - March 18, 2016
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
