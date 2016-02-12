@@ -21,14 +21,16 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 + 专利号： [ZL 201420166090.7](/docs/ZL201420166090.7.pdf)
 + China Patent CN203786745 (U)
 + Code Name: DKHRS
++ [http://www.doorknob.ml](http://www.doorknob.ml)
 
-### 2. [一种人体掌纹图像采集装置及处理方法](http://www.linescanpalmprint.ml/docs/CN102521584B.pdf)
+### 2. 一种人体掌纹图像采集装置及处理方法
 ### <a href="http://www.google.com/patents/CN102521584B?cl=en" target="_blank">A Human Palmprint Image Collection Apparatus and A Processing Method</a>
 
 + 已授权 (Granted)
-+ 专利号： ZL 20110362063.8
++ 专利号： [ZL 20110362063.8](http://www.linescanpalmprint.ml/docs/CN102521584B.pdf)
 + China Patent CN102521584 (A) / CN102521584 (B)
 + Code Name: LPS
++ [http://www.linescanpalmprint.ml](http://www.linescanpalmprint.ml)
 
 ### 3. 圆筒内外壁加工精度在线成像检测装置及在线成像检测方法
 ### <a href="http://www.google.com/patents/CN100498211C?cl=en" target="_blank">On-line Imaging Detection Device and Method for Cylindrical Internal and External Wall Machining</a>
@@ -50,13 +52,14 @@ Projects
 
 + Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and Zhenhua Guo
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
-+ Multi-channel Ordor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
++ Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
 + High Resolution Fingerprints Capturing Device, with Feng Liu
-+ [Hand Back System](http://www.handback.ml), with Jin Xie
++ [Hand Back Project](http://www.handback.ml), with Jin Xie
 + Line Scan Palmprint System (LPS: [www.linescanpalmprint.ml](http://www.linescanpalmprint.ml))
 + Door Knob Hand Recognition System (DKHRS: [www.doorknob.ml](http://www.doorknob.ml))
-+ CBS (Prepared)
-+ RING (Planning)
++ **CBS**: Cancellable ([Def](http://www.scholarpedia.org/article/Cancelable_biometrics), [App](http://perso.telecom-paristech.fr/~chollet/Biblio/Articles/Domaines/BIOMET/ratha.pdf), [Study 1](http://www.comp.hkbu.edu.hk/~ycfeng/project/Cancelable%20biometrics%20and%20annotations%20on%20biohash.pdf), [Study 2](http://www.sciencedirect.com/science/article/pii/S1877050912000737)), disposable, and short-time Biometric System (Prepared)
++ RING (Brain storming)
++ Stick (Brain storming)
 
 Reviewer for
 ---------
