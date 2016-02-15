@@ -140,6 +140,7 @@ Work
 + [Julia 中文](http://julia-cn.readthedocs.org/zh_CN/latest/)
 + [Julia 超算云编程](http://www.ijuco.com/)
 + [Julia.org.cn](http://julia.org.cn/)
++ [Int8](http://int8.io)
 
 ### Other Resources on Coding and Pattern Recognition
 
