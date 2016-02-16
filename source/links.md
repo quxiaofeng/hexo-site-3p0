@@ -55,8 +55,8 @@ Work
 
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
-+ [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263) - [__special issue on Looking at People__](http://VISI.edmgr.com) - February 15, 2016 - [CFP](http://gesture.chalearn.org/special-issue-ijcv)
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/) - [__Special Issue on End User Development for the Internet of Things__](http://tochi.acm.org/end-user-development-for-the-internet-of-things/) - March 22, 2016
++ [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [IEEE PIMRC 2016](http://www.ieee-pimrc.org/cfp.html) - March 18, 2016
