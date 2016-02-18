@@ -32,3 +32,8 @@ Collected information from UN website related to the East China Sea dispute.
 --
 
 ### ["The World and Japan" Database Project - Agreement between Japan and the United States of America Concerning the Ryukyu Islands and the Daito Islands](http://www.ioc.u-tokyo.ac.jp/~worldjpn/documents/texts/docs/19710617.T1E.html)
+
+
+---
+
+[日本战犯的侵华罪刑自供 The Confessions of the Japanese War Criminals](http://61.135.203.68/rbzf/index.htm)

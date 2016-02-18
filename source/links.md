@@ -178,6 +178,8 @@ Work
 + [Die Welt](http://www.welt.de/) - 德国世界报
 + [Spiegel](http://www.spiegel.de/) - 德国明镜周刊
 + [讀賣新聞（よみうりしんぶん）](http://www.yomiuri.co.jp/) - 读卖新闻
++ [日本防卫省统合幕僚监部](http://www.mod.go.jp/js/) - 日本周边舰艇
++ [AMTI](http://amti.csis.org/) - 南沙群岛
 
 ### Smart Hardware
 
@@ -203,6 +205,9 @@ Work
 + [开源中国](http://www.oschina.net/)
 + [Ruby China](https://ruby-china.org/)
 + [V2EX = way to explore](https://www.v2ex.com/)
++ [电子制造 工作狂人](http://www.researchmfg.com/)
++ [Body Visualizer](http://bodyvisualizer.com/male.html)
++ [Lens calculator 镜头计算器](http://www.vision-doctor.co.uk/optical-calculations/calulation-working-distance.html)
 
 ### Websites
 
