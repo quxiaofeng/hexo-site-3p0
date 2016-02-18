@@ -178,7 +178,7 @@ Work
 + [Die Welt](http://www.welt.de/) - 德国世界报
 + [Spiegel](http://www.spiegel.de/) - 德国明镜周刊
 + [讀賣新聞（よみうりしんぶん）](http://www.yomiuri.co.jp/) - 读卖新闻
-+ [日本防卫省统合幕僚监部](http://www.mod.go.jp/js/) - 日本周边舰艇
++ [日本防卫省统合幕僚监部](http://www.mod.go.jp/js/update.htm) - 日本周边舰艇
 + [AMTI](http://amti.csis.org/) - 南沙群岛
 
 ### Smart Hardware
