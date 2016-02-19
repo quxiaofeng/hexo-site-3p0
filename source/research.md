@@ -85,7 +85,7 @@ People
 + [Dr. Ajay Kumar](http://www4.comp.polyu.edu.hk/~csajaykr)
 + [Dr. Wangmeng Zuo](http://homepage.hit.edu.cn/pages/wangmengzuo)
 + [Dr. Lin Zhang](http://sse.tongji.edu.cn/linzhang)
-+ [Dr. Meng Yang](http://www.yangmeng.org.cn/)
++ [Dr. Meng Yang](http://csse.szu.edu.cn/staff/yangm/)
 + [Dr. Pengfei Zhu](http://www4.comp.polyu.edu.hk/~cspzhu)
 + [Dr. Lei Zhang (CQU)](http://www.leizhang.tk)
 + [Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
