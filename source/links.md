@@ -166,6 +166,7 @@ Work
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Lingua.ly](https://webapp.lingua.ly/)
 + [Sing until Fluent](http://sing.untilfluent.com/french/)
++ [朝鲜语音标](http://www.kawa.net/works/ajax/romanize/hangul-e.html)
 + [Web Vocabulary Profilers](http://www.lextutor.ca/vp/eng/) - Vocabulary analysis
 + [Forvo](http://forvo.com/)
 + [SWI](http://www.swissinfo.ch/) - 瑞士资讯
