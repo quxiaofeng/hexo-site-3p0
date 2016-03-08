@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test-Driven Machine Learning
+title: Mastering Julia
 date: 2016-03-08 22:54:58
 tags: [julia, tdd, machine learning]
 category: coding
@@ -9,7 +9,7 @@ headline:
 comments: true
 mathjax: true
 photos:
-- /images/test-driven-machine-learning.jpg
+- /images/mastering-julia.jpg
 ---
 
 [Mastering Julia](http://site.ebrary.com/lib/polyu/reader.action?docID=11080912) by [Malcolm Sherrington](https://skillsmatter.com/legacy_profile/malcolm-sherrington)
