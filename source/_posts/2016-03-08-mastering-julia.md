@@ -21,7 +21,7 @@ photos:
 + Chapter 1: The Julia Environment
    + Introduction
    + Getting started
-   +  A quick look at some Julia
+   + A quick look at some Julia
    + What makes Julia special
    + Summary
 + Chapter 2: Developing in Julia
