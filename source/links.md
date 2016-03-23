@@ -55,7 +55,7 @@ Work
 
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems) - [Special Issue on Large Scale Video Analytics for Enhanced Security: Algorithms and Systems](http://www.ieeesmc.org/images/publications/smc-systems/2016SpecialIssueonVisualSurveillance.pdf) - June 30, 2016
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/) - [Special Issue on End User Development for the Internet of Things](http://tochi.acm.org/end-user-development-for-the-internet-of-things/) - March 22, 2016
-+ [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
++ [Pattern Recognition](http://ees.elsevier.com/pr/default.asp) - [Special Issue on Ubiquitous Biometrics](http://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-ubiquitous-biometrics/) - July 15, 2016
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
