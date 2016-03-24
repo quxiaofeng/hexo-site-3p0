@@ -22,8 +22,10 @@ Projects
 + RING (Brain storming)
 + Stick (Brain storming)
 
-[Google Scholar Profile](http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en)
---------------
+## Publications ##
+
++ [Google Scholar Profile](http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en)
++ [Mendeley Profile](https://www.mendeley.com/profiles/xiaofeng-qu1/)
 
 Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHomeIndex.shtml)
 -------
