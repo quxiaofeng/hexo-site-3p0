@@ -22,7 +22,7 @@ Projects
 + RING (Brain storming)
 + Stick (Brain storming)
 
-## Publications ##
+## Academic Publications ##
 
 + [Google Scholar Profile](http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en)
 + [Mendeley Profile](https://www.mendeley.com/profiles/xiaofeng-qu1/)
