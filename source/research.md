@@ -8,6 +8,20 @@ mathjax: false
 hidedate: true
 ---
 
+Projects
+-------
+
++ Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and Zhenhua Guo
++ 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
++ Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
++ High Resolution Fingerprints Capturing Device, with Feng Liu
++ [Hand Back Project](http://www.handback.ml), with Jin Xie
++ **Line Scan Palmprint System** (LPS: [www.linescanpalmprint.ml](http://www.linescanpalmprint.ml))
++ **Door Knob Hand Recognition System** (DKHRS: [www.doorknob.ml](http://www.doorknob.ml))
++ CBS: Cancellable ([Def](http://www.scholarpedia.org/article/Cancelable_biometrics), [App](http://perso.telecom-paristech.fr/~chollet/Biblio/Articles/Domaines/BIOMET/ratha.pdf), [Study 1](http://www.comp.hkbu.edu.hk/~ycfeng/project/Cancelable%20biometrics%20and%20annotations%20on%20biohash.pdf), [Study 2](http://www.sciencedirect.com/science/article/pii/S1877050912000737)), disposable, and short-time Biometric System (Prepared)
++ RING (Brain storming)
++ Stick (Brain storming)
+
 [Google Scholar Profile](http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en)
 --------------
 
@@ -46,20 +60,6 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 + 专利号： ZL 200620168791.X
 + China Patent CN201034557 (Y)
 
-
-Projects
--------
-
-+ Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and Zhenhua Guo
-+ 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
-+ Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
-+ High Resolution Fingerprints Capturing Device, with Feng Liu
-+ [Hand Back Project](http://www.handback.ml), with Jin Xie
-+ Line Scan Palmprint System (LPS: [www.linescanpalmprint.ml](http://www.linescanpalmprint.ml))
-+ Door Knob Hand Recognition System (DKHRS: [www.doorknob.ml](http://www.doorknob.ml))
-+ **CBS**: Cancellable ([Def](http://www.scholarpedia.org/article/Cancelable_biometrics), [App](http://perso.telecom-paristech.fr/~chollet/Biblio/Articles/Domaines/BIOMET/ratha.pdf), [Study 1](http://www.comp.hkbu.edu.hk/~ycfeng/project/Cancelable%20biometrics%20and%20annotations%20on%20biohash.pdf), [Study 2](http://www.sciencedirect.com/science/article/pii/S1877050912000737)), disposable, and short-time Biometric System (Prepared)
-+ RING (Brain storming)
-+ Stick (Brain storming)
 
 Reviewer for
 ---------
