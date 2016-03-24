@@ -15,8 +15,8 @@ hidedate: true
 + Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
 + High Resolution Fingerprints Capturing Device, with Feng Liu
 + [Hand Back Project](http://www.handback.ml), with Jin Xie
-+ **Line Scan Palmprint System (newly published)** (LPS: [www.linescanpalmprint.ml](http://www.linescanpalmprint.ml))
-+ **Door Knob Hand Recognition System (newly published)** (DKHRS: [www.doorknob.ml](http://www.doorknob.ml))
++ **Line Scan Palmprint System ([newly published][SMCA-LPS])** (LPS website: [linescanpalmprint.ml](http://www.linescanpalmprint.ml))
++ **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS])** (DKHRS website: [doorknob.ml](http://www.doorknob.ml))
 + CBS: Cancellable ([Def](http://www.scholarpedia.org/article/Cancelable_biometrics), [App](http://perso.telecom-paristech.fr/~chollet/Biblio/Articles/Domaines/BIOMET/ratha.pdf), [Study 1](http://www.comp.hkbu.edu.hk/~ycfeng/project/Cancelable%20biometrics%20and%20annotations%20on%20biohash.pdf), [Study 2](http://www.sciencedirect.com/science/article/pii/S1877050912000737)), disposable, and short-time Biometric System (Prepared)
 + RING (Brain storming)
 + Stick (Brain storming)
@@ -68,11 +68,11 @@ hidedate: true
 
 ## Co-authors ##
 
-+ [Prof. David Zhang](http://www4.comp.polyu.edu.hk/~csdzhang)
++ [Prof. David Zhang][csdzhang]
 + [Prof. Jane You](http://www4.comp.polyu.edu.hk/~csyjia)
 + [Prof. Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang)
-+ [Prof. Guangming Lu](http://www.hitsz.edu.cn/body/shizi/detailen.php?strID=396)
-+ [Dr. Zhenhua Guo](http://zhguo.global-optimization.com/)
++ [Prof. Guangming Lu][csgmlu]
++ [Dr. Zhenhua Guo][cszhguo]
 + Dr. Jin Xie
 
 ## Friends ##
@@ -86,3 +86,12 @@ hidedate: true
 + [Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
 + [Ke Yan](http://yanke23.tk/)
 + [Jun Xu](http://www4.comp.polyu.edu.hk/~csjunxu/)
+
+
+
+[SMCA-LPS]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7390297
+[csxfqu]: http://www.quxiaofeng.me/about
+[csdzhang]: http://www4.comp.polyu.edu.hk/~csdzhang/
+[csgmlu]: http://www.hitsz.edu.cn/body/shizi/detailen.php?strID=396
+[cszhguo]: http://www.sz.tsinghua.edu.cn/publish/sz/139/2012/20120420104947649501973/20120420104947649501973_.html
+[SMCA-DKHRS]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7433472
