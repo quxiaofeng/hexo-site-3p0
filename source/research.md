@@ -10,10 +10,10 @@ hidedate: true
 
 ## Projects ##
 
-+ Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and Zhenhua Guo
++ Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and [Zhenhua Guo][cszhguo]
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
-+ Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with Dongmin Guo
-+ High Resolution Fingerprints Capturing Device, with Feng Liu
++ Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with [Dongmin Guo][csdmguo]
++ High Resolution Fingerprints Capturing Device, with [Feng Liu](csfliu)
 + [Hand Back Project](http://www.handback.ml), with Jin Xie
 + **Line Scan Palmprint System ([newly published][SMCA-LPS])** (LPS website: [linescanpalmprint.ml](http://www.linescanpalmprint.ml))
 + **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS])** (DKHRS website: [doorknob.ml](http://www.doorknob.ml))
@@ -94,4 +94,6 @@ hidedate: true
 [csdzhang]: http://www4.comp.polyu.edu.hk/~csdzhang/
 [csgmlu]: http://www.hitsz.edu.cn/body/shizi/detailen.php?strID=396
 [cszhguo]: http://www.sz.tsinghua.edu.cn/publish/sz/139/2012/20120420104947649501973/20120420104947649501973_.html
+[csdmguo]: https://sites.google.com/site/guodongmin/
 [SMCA-DKHRS]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7433472
+[csfliu]: http://www.scholat.com/liufeng
