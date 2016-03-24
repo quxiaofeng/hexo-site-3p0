@@ -8,8 +8,7 @@ mathjax: false
 hidedate: true
 ---
 
-Projects
--------
+## Projects ##
 
 + Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and Zhenhua Guo
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
@@ -27,8 +26,7 @@ Projects
 + [Google Scholar Profile](http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en)
 + [Mendeley Profile](https://www.mendeley.com/profiles/xiaofeng-qu1/)
 
-Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHomeIndex.shtml)
--------
+## Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHomeIndex.shtml) ##
 
 ### 1. 门把形握姿人手图像采集装置及握姿人手图像识别系统
 ### <a href="http://www.google.com/patents/CN203786745U?cl=en" target="_blank">A Door Knob Hand Image Capturing Device and A Hand Image Recognition System</a>
@@ -62,16 +60,13 @@ Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHo
 + 专利号： ZL 200620168791.X
 + China Patent CN201034557 (Y)
 
-
-Reviewer for
----------
+## Reviewer for ##
 
 + [IEEE Transactions on Systems, Man and Cybernetics: Systems](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
 + [IEEE Sensors Journal](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
 + [International Journal of Image and Graphics](http://www.worldscientific.com/worldscinet/ijig)
 
-Co-authors
----------
+## Co-authors ##
 
 + [Prof. David Zhang](http://www4.comp.polyu.edu.hk/~csdzhang)
 + [Prof. Jane You](http://www4.comp.polyu.edu.hk/~csyjia)
@@ -80,9 +75,7 @@ Co-authors
 + [Dr. Zhenhua Guo](http://zhguo.global-optimization.com/)
 + Dr. Jin Xie
 
-
-People
----------
+## Friends ##
 
 + [Dr. Ajay Kumar](http://www4.comp.polyu.edu.hk/~csajaykr)
 + [Dr. Wangmeng Zuo](http://homepage.hit.edu.cn/pages/wangmengzuo)
