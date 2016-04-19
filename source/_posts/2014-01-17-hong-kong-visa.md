@@ -22,7 +22,7 @@ Extension of Stay for Student and dependent / 学生和受养人签注延期
 
 1.  Fill out, print and sign the RC/19 form ([*RO Download Link*](http://www.polyu.edu.hk/ro/forms/FormRC19.doc)). 填写、打印、签署 RC/19 表格( [*RO 下载链接*](http://www.polyu.edu.hk/ro/forms/FormRC19.doc) )。
 2.  Pay HK$ 30.00 (one testimonial copy) with the printed RC/19 form (in order to show your purpose) in Cashier Office at VA205 ([*check office hours*](http://www.polyu.edu.hk/fo/FO_Web/index.php?page=9)) in the Shaw Amenities Building. And get the receipt. 带着表格（表明目的）去出邵逸夫楼的 VA205 出纳办公室（[*查看办公时间*](http://www.polyu.edu.hk/fo/FO_Web/index.php?page=9)）付 30 港币，并取得收据。
-3.  Take the receipt, your HK ID card and [Two-way Permit](http://en.wikipedia.org/wiki/Two-way_Permit) to Research Office ([*check office hours and the office location*](http://www.polyu.edu.hk/ro/newROContact_stud.html)). 带着收据、香港身份证和往来港澳通行证去 RO 申请办理证明信([*查看办公地址和时间*](http://www.polyu.edu.hk/ro/newROContact_stud.html))。
+3.  Take the receipt, your HK ID card and [Two-way Permit](http://en.wikipedia.org/wiki/Two-way_Permit) to Research Office ([*check office hours and the office location*](http://www.polyu.edu.hk/ro/en/contact-us.html)). 带着收据、香港身份证和往来港澳通行证去 RO 申请办理证明信([*查看办公地址和时间*](http://www.polyu.edu.hk/ro/en/contact-us.html))。
 4.  Wait at most SEVEN working days for the call then fetch the Testimonial Letter. 等最多七个工作日，会接到电话通知去取证明信。
 
 ### HK Visa Label (in person) / 申请新香港签注
