@@ -40,10 +40,11 @@ Follow [*this guide*](http://www.immd.gov.hk/eng/services/visas/extension_of_sta
 - Two-way Permit and copies of **all important pages**
   + HK visa label page
   + China Mainland visa label page
-  + Last page with a photo <del>(maybe two pages, if you are using two permits)</del>
+  + Last page with the photo <del>(maybe two pages, if you are using two permits)</del>
   + <del>Last exit and entry page</del>
+  + Latest landing slip
 - Testimonial letter from RO
-- Bank monthly statement (print out the electronic statement)
+- <del>Bank monthly statement (print out the electronic statement)</del>
 
 ##### Dependent / 受养人 (according to [*the same page*](http://www.immd.gov.hk/eng/services/visas/extension_of_stay.html#mainland&secondTab) )
 
