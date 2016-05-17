@@ -28,8 +28,8 @@ hidedate: true
 
 ## Patents / [专利](http://www.pss-system.gov.cn/sipopublicsearch/search/searchHomeIndex.shtml) ##
 
-### 1. 门把形握姿人手图像采集装置及握姿人手图像识别系统
-### <a href="http://www.google.com/patents/CN203786745U?cl=en" target="_blank">A Door Knob Hand Image Capturing Device and A Hand Image Recognition System</a>
+##### 1. 门把形握姿人手图像采集装置及握姿人手图像识别系统
+##### <a href="http://www.google.com/patents/CN203786745U?cl=en" target="_blank">A Door Knob Hand Image Capturing Device and A Hand Image Recognition System</a>
 
 + 已授权 (Granted)
 + 专利号： [ZL 201420166090.7](/docs/ZL201420166090.7.pdf)
@@ -37,8 +37,8 @@ hidedate: true
 + Code Name: DKHRS
 + [http://www.doorknob.ml](http://www.doorknob.ml)
 
-### 2. 一种人体掌纹图像采集装置及处理方法
-### <a href="http://www.google.com/patents/CN102521584B?cl=en" target="_blank">A Human Palmprint Image Collection Apparatus and A Processing Method</a>
+##### 2. 一种人体掌纹图像采集装置及处理方法
+##### <a href="http://www.google.com/patents/CN102521584B?cl=en" target="_blank">A Human Palmprint Image Collection Apparatus and A Processing Method</a>
 
 + 已授权 (Granted)
 + 专利号： [ZL 20110362063.8](http://www.linescanpalmprint.ml/docs/CN102521584B.pdf)
@@ -46,15 +46,15 @@ hidedate: true
 + Code Name: LPS
 + [http://www.linescanpalmprint.ml](http://www.linescanpalmprint.ml)
 
-### 3. 圆筒内外壁加工精度在线成像检测装置及在线成像检测方法
-### <a href="http://www.google.com/patents/CN100498211C?cl=en" target="_blank">On-line Imaging Detection Device and Method for Cylindrical Internal and External Wall Machining</a>
+##### 3. 圆筒内外壁加工精度在线成像检测装置及在线成像检测方法
+##### <a href="http://www.google.com/patents/CN100498211C?cl=en" target="_blank">On-line Imaging Detection Device and Method for Cylindrical Internal and External Wall Machining</a>
 
 + 已授权 (Granted)
 + 专利号： ZL 200610155870.1
 + China Patent CN101101197 (A) / CN100498211 (C)
 
-### 4. 圆筒内外壁加工精度在线成像检测装置
-### <a href="https://www.google.com/patents/CN201034557Y?cl=en" target="_blank">Cylinder Inside and Outside Wall Machine Precision On-line Image-forming Testing Apparatus</a>
+##### 4. 圆筒内外壁加工精度在线成像检测装置
+##### <a href="https://www.google.com/patents/CN201034557Y?cl=en" target="_blank">Cylinder Inside and Outside Wall Machine Precision On-line Image-forming Testing Apparatus</a>
 
 + 已授权 (Granted)
 + 专利号： ZL 200620168791.X
