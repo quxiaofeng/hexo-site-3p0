@@ -54,18 +54,17 @@ Work
 ### Academy
 
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems) - [Special Issue on Large Scale Video Analytics for Enhanced Security: Algorithms and Systems](http://www.ieeesmc.org/images/publications/smc-systems/2016SpecialIssueonVisualSurveillance.pdf) - June 30, 2016
-+ [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/) - [Special Issue on End User Development for the Internet of Things](http://tochi.acm.org/end-user-development-for-the-internet-of-things/) - March 22, 2016
++ [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp) - [Special Issue on Ubiquitous Biometrics](http://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-ubiquitous-biometrics/) - July 15, 2016
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
-+ [IEEE PIMRC 2016](http://www.ieee-pimrc.org/cfp.html) - March 18, 2016
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
 + [NIPS](https://nips.cc/)
 + [ICCV](http://pamitc.org/iccv15/)
 + [CVPR](http://www.pamitc.org/cvpr16/)
 + [ICIP](http://www.ieeeicip2016.org/CallForPapers.asp)
-+ [ICML](http://icml.cc/2016)
++ [ICML](http://icml.cc/2017)
 
 ### Cloud Work Flow 
 
@@ -86,7 +85,6 @@ Work
 #### Data Analysis
 
 + [get DataJoy](http://www.getdatajoy.com/)
-+ [Sense.io](http://sense.io/)
 + [Beaker](http://beakernotebook.com/)
 + [Coding.net](http://coding.net/)
  
