@@ -31,7 +31,7 @@ hidedate: true
 
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/) - 学系邮箱
 + [Intranet](https://intranet.comp.polyu.edu.hk/) - 学系内网
-+ [Printer Driver](http://sfps.comp.polyu.edu.hk/ipp) - 学系内打印机
++ [Printer Driver](\\sfprint.msds.comp.polyu.edu.hk) - 学系内打印机
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
 Life
