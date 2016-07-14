@@ -58,7 +58,8 @@ Work
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
 
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp) 
-  - [Special Issue on Ubiquitous Biometrics](http://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-ubiquitous-biometrics/) - July 15, 2016
+  - [Special Issue on Ubiquitous Biometrics](http://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-ubiquitous-biometrics/)
+  - July 15, 2016
 
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
 
