@@ -54,29 +54,18 @@ Work
 ### Academy
 
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
-
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
-
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp) 
   - [Special Issue on Ubiquitous Biometrics](http://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-ubiquitous-biometrics/)
   - July 15, 2016
-
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
-
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
-
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
-
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
-
 + [NIPS](https://nips.cc/)
-
 + [ICCV](http://pamitc.org/iccv15/)
-
 + [CVPR](http://www.pamitc.org/cvpr16/)
-
 + [ICIP](http://www.ieeeicip2016.org/CallForPapers.asp)
-
 + [ICML](http://icml.cc/2017)
 
 ### Cloud Work Flow 
@@ -97,7 +86,8 @@ Work
 
 #### Data Analysis
 
-+ [get DataJoy](http://www.getdatajoy.com/)
++ [Algorithmia](https://algorithmia.com/)
++ [DataJoy](http://www.getdatajoy.com/)
 + [Beaker](http://beakernotebook.com/)
 + [Coding.net](http://coding.net/)
  
