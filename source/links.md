@@ -86,10 +86,11 @@ Work
 
 #### Data Analysis
 
-+ [Algorithmia](https://algorithmia.com/)
++ [青云 QINGCLOUD](http://www.qingcloud.com/)
 + [DataJoy](http://www.getdatajoy.com/)
 + [Beaker](http://beakernotebook.com/)
 + [Coding.net](http://coding.net/)
++ [Algorithmia](https://algorithmia.com/)
  
 #### References
 
