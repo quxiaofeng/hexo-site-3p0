@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>_2016-08-01-how-magic-leap-works</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* Markdown.css */
+/* Authors: Kevin Burke: http://kev.inburke.com/, modified by Evan Wondrasek  */
+/* https://bitbucket.org/kevinburke/markdowncss */
+
+body{
+    margin: 0 auto;
+    font-family: Georgia, Palatino, serif;
+    color: #444444;
+    line-height: 1;
+    max-width: 960px;
+    padding: 5px;
+}
+h1, h2, h3, h4 {
+    color: #111111;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, p {
+    margin-bottom: 16px;
+    padding: 0;
+}
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 22px;
+    margin: 20px 0 6px;
+}
+h3 {
+    font-size: 21px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px;
+}
+a {
+    color: #0099ff;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+a:hover {
+    text-decoration: none;
+    color: #ff6600;
+}
+a:visited {
+    color: purple;
+}
+ul, ol {
+    padding: 0;
+    margin: 0;
+}
+li {
+    line-height: 24px;
+    margin-left: 44px;
+}
+li ul, li ul {
+    margin-left: 24px;
+}
+p, ul, ol {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 540px;
+}
+pre {
+    padding: 0px 24px;
+    max-width: 800px;
+    white-space: pre-wrap;
+}
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    line-height: 1.5;
+    font-size: 13px;
+}
+aside {
+    display: block;
+    float: right;
+    width: 390px;
+}
+blockquote {
+    border-left:.5em solid #eee;
+    padding: 0 2em;
+    margin-left:0;
+    max-width: 476px;
+}
+blockquote  cite {
+    font-size:14px;
+    line-height:20px;
+    color:#bfbfbf;
+}
+blockquote cite:before {
+    content: '\2014 \00A0';
+}
+
+blockquote p {  
+    color: #666;
+    max-width: 460px;
+}
+hr {
+    width: 540px;
+    text-align: left;
+    margin: 0 auto 0 0;
+    color: #999;
+}
+
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle;
+}
+button, input {
+  line-height: normal;
+  *overflow: visible;
+}
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  cursor: pointer;
+  -webkit-appearance: button;
+}
+input[type=checkbox], input[type=radio] {
+  cursor: pointer;
+}
+/* override default chrome & firefox settings */
+input:not([type="image"]), textarea {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+label,
+input,
+select,
+textarea {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: normal;
+  margin-bottom: 18px;
+}
+input[type=checkbox], input[type=radio] {
+  cursor: pointer;
+  margin-bottom: 0;
+}
+input[type=text],
+input[type=password],
+textarea,
+select {
+  display: inline-block;
+  width: 210px;
+  padding: 4px;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+  height: 18px;
+  color: #808080;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+select, input[type=file] {
+  height: 27px;
+  line-height: 27px;
+}
+textarea {
+  height: auto;
+}
+
+/* grey out placeholders */
+:-moz-placeholder {
+  color: #bfbfbf;
+}
+::-webkit-input-placeholder {
+  color: #bfbfbf;
+}
+
+input[type=text],
+input[type=password],
+select,
+textarea {
+  -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+  -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+  transition: border linear 0.2s, box-shadow linear 0.2s;
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+input[type=text]:focus, input[type=password]:focus, textarea:focus {
+  outline: none;
+  border-color: rgba(82, 168, 236, 0.8);
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+  -moz-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 8px rgba(82, 168, 236, 0.6);
+}
+
+/* buttons */
+button {
+  display: inline-block;
+  padding: 4px 14px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  background-color: #0064cd;
+  background-repeat: repeat-x;
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#049cdb), to(#0064cd));
+  background-image: -moz-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -ms-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #049cdb), color-stop(100%, #0064cd));
+  background-image: -webkit-linear-gradient(top, #049cdb, #0064cd);
+  background-image: -o-linear-gradient(top, #049cdb, #0064cd);
+  background-image: linear-gradient(top, #049cdb, #0064cd);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  border: 1px solid #004b9a;
+  border-bottom-color: #003f81;
+  -webkit-transition: 0.1s linear all;
+  -moz-transition: 0.1s linear all;
+  transition: 0.1s linear all;
+  border-color: #0064cd #0064cd #003f81;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+}
+button:hover {
+  color: #fff;
+  background-position: 0 -15px;
+  text-decoration: none;
+}
+button:active {
+  -webkit-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.15), 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+/* CSS stylesheet is based on Kevin Burke's Markdown.css project (http://kevinburke.bitbucket.org/markdowncss) */
+</style>
+<style type="text/css">
+.highlight  { background: #ffffff; }
+.highlight .c { color: #999988; font-style: italic } /* Comment */
+.highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight .k { font-weight: bold } /* Keyword */
+.highlight .o { font-weight: bold } /* Operator */
+.highlight .cm { color: #999988; font-style: italic } /* Comment.Multiline */
+.highlight .cp { color: #999999; font-weight: bold } /* Comment.Preproc */
+.highlight .c1 { color: #999988; font-style: italic } /* Comment.Single */
+.highlight .cs { color: #999999; font-weight: bold; font-style: italic } /* Comment.Special */
+.highlight .gd { color: #000000; background-color: #ffdddd } /* Generic.Deleted */
+.highlight .gd .x { color: #000000; background-color: #ffaaaa } /* Generic.Deleted.Specific */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gr { color: #aa0000 } /* Generic.Error */
+.highlight .gh { color: #999999 } /* Generic.Heading */
+.highlight .gi { color: #000000; background-color: #ddffdd } /* Generic.Inserted */
+.highlight .gi .x { color: #000000; background-color: #aaffaa } /* Generic.Inserted.Specific */
+.highlight .go { color: #888888 } /* Generic.Output */
+.highlight .gp { color: #555555 } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #aaaaaa } /* Generic.Subheading */
+.highlight .gt { color: #aa0000 } /* Generic.Traceback */
+.highlight .kc { font-weight: bold } /* Keyword.Constant */
+.highlight .kd { font-weight: bold } /* Keyword.Declaration */
+.highlight .kp { font-weight: bold } /* Keyword.Pseudo */
+.highlight .kr { font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #445588; font-weight: bold } /* Keyword.Type */
+.highlight .m { color: #009999 } /* Literal.Number */
+.highlight .s { color: #d14 } /* Literal.String */
+.highlight .na { color: #008080 } /* Name.Attribute */
+.highlight .nb { color: #0086B3 } /* Name.Builtin */
+.highlight .nc { color: #445588; font-weight: bold } /* Name.Class */
+.highlight .no { color: #008080 } /* Name.Constant */
+.highlight .ni { color: #800080 } /* Name.Entity */
+.highlight .ne { color: #990000; font-weight: bold } /* Name.Exception */
+.highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
+.highlight .nn { color: #555555 } /* Name.Namespace */
+.highlight .nt { color: #000080 } /* Name.Tag */
+.highlight .nv { color: #008080 } /* Name.Variable */
+.highlight .ow { font-weight: bold } /* Operator.Word */
+.highlight .w { color: #bbbbbb } /* Text.Whitespace */
+.highlight .mf { color: #009999 } /* Literal.Number.Float */
+.highlight .mh { color: #009999 } /* Literal.Number.Hex */
+.highlight .mi { color: #009999 } /* Literal.Number.Integer */
+.highlight .mo { color: #009999 } /* Literal.Number.Oct */
+.highlight .sb { color: #d14 } /* Literal.String.Backtick */
+.highlight .sc { color: #d14 } /* Literal.String.Char */
+.highlight .sd { color: #d14 } /* Literal.String.Doc */
+.highlight .s2 { color: #d14 } /* Literal.String.Double */
+.highlight .se { color: #d14 } /* Literal.String.Escape */
+.highlight .sh { color: #d14 } /* Literal.String.Heredoc */
+.highlight .si { color: #d14 } /* Literal.String.Interpol */
+.highlight .sx { color: #d14 } /* Literal.String.Other */
+.highlight .sr { color: #009926 } /* Literal.String.Regex */
+.highlight .s1 { color: #d14 } /* Literal.String.Single */
+.highlight .ss { color: #990073 } /* Literal.String.Symbol */
+.highlight .bp { color: #999999 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #008080 } /* Name.Variable.Class */
+.highlight .vg { color: #008080 } /* Name.Variable.Global */
+.highlight .vi { color: #008080 } /* Name.Variable.Instance */
+.highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+.pl-c {
+    color: #969896;
+}
+
+.pl-c1,.pl-mdh,.pl-mm,.pl-mp,.pl-mr,.pl-s1 .pl-v,.pl-s3,.pl-sc,.pl-sv {
+    color: #0086b3;
+}
+
+.pl-e,.pl-en {
+    color: #795da3;
+}
+
+.pl-s1 .pl-s2,.pl-smi,.pl-smp,.pl-stj,.pl-vo,.pl-vpf {
+    color: #333;
+}
+
+.pl-ent {
+    color: #63a35c;
+}
+
+.pl-k,.pl-s,.pl-st {
+    color: #a71d5d;
+}
+
+.pl-pds,.pl-s1,.pl-s1 .pl-pse .pl-s2,.pl-sr,.pl-sr .pl-cce,.pl-sr .pl-sra,.pl-sr .pl-sre,.pl-src,.pl-v {
+    color: #df5000;
+}
+
+.pl-id {
+    color: #b52a1d;
+}
+
+.pl-ii {
+    background-color: #b52a1d;
+    color: #f8f8f8;
+}
+
+.pl-sr .pl-cce {
+    color: #63a35c;
+    font-weight: bold;
+}
+
+.pl-ml {
+    color: #693a17;
+}
+
+.pl-mh,.pl-mh .pl-en,.pl-ms {
+    color: #1d3e81;
+    font-weight: bold;
+}
+
+.pl-mq {
+    color: #008080;
+}
+
+.pl-mi {
+    color: #333;
+    font-style: italic;
+}
+
+.pl-mb {
+    color: #333;
+    font-weight: bold;
+}
+
+.pl-md,.pl-mdhf {
+    background-color: #ffecec;
+    color: #bd2c00;
+}
+
+.pl-mdht,.pl-mi1 {
+    background-color: #eaffea;
+    color: #55a532;
+}
+
+.pl-mdr {
+    color: #795da3;
+    font-weight: bold;
+}
+
+.pl-mo {
+    color: #1d3e81;
+}
+.task-list {
+padding-left:10px;
+margin-bottom:0;
+}
+
+.task-list li {
+    margin-left: 20px;
+}
+
+.task-list-item {
+list-style-type:none;
+padding-left:10px;
+}
+
+.task-list-item label {
+font-weight:400;
+}
+
+.task-list-item.enabled label {
+cursor:pointer;
+}
+
+.task-list-item+.task-list-item {
+margin-top:3px;
+}
+
+.task-list-item-checkbox {
+display:inline-block;
+margin-left:-20px;
+margin-right:3px;
+vertical-align:1px;
+}
+</style>
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js">
+</script>
+</head>
+<body>
+<h1 id="magic-leap-gpu">Magic Leap 工作原理 - 从视野到 GPU</h1>
+<p>2016 年 8 月 1 日  翻译：<a href="http://www.quxiaofeng.me/about">曲晓峰</a> 原作：<a href="http://gpuofthebrain.com">Jono MacDougall</a><br>原文链接： <a href="http://gpuofthebrain.com/blog/2016/7/22/how-magic-leap-will-work">http://gpuofthebrain.com/blog/2016/7/22/how-magic-leap-will-work</a></p>
+<p>Magic Leap 一直对他们的技术的工作细节保密。我们现在仅仅知道他们的系统是一个全新的系统，并且远超一切消费者熟知的现存竞争对手。这也难怪 Magic Leap 想要为自己的革命性的系统保密。众多的企业都在伺机窥探，想要了解究竟是什么技术，让人们如此的兴奋。这种技术，就是 Apple 想要拥有的，那种潜在的革命性的带有真正创新意味的“新事物”；也是微软在 Hololens 上想要努力实现，却又远未实现的；又是受 Google Glass 启发，却又明显领先几代的。这个技术到底是什么，它究竟是如何工作的？我调查了在 Magic Leap 工作的人所做的演讲、专利、工作申请和他们的背景，试图寻找这个问题的答案。</p>
+<h2 id="-">总体来说</h2>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/5792a11b893fc095221e96af/1469227494129/?format=300w" alt=""></p>
+<p><em>这是常规大小眼镜。但相机又往哪放呢？注：这可不是 Magic Leap 的产品。</em></p>
+<p>在谈论细节之前，我们先总体上谈谈这是个什么技术。简单说，Magic Leap 在做一个设备，这个设备能把物体投影到人的视场，而且真实得远超我们现在所见的其它类似设备。Magic Leap 的设备由两部分组成：一副眼镜和一个便携的口袋式投影/计算模块。这模块是差不多手机大小的没屏幕的长方体。这个便携式计算模块通过数据线连接眼镜。眼镜与普通眼镜有着类似的尺寸和结构，也许稍胖一点点。体积小是该产品的一个重要特征。体积小意味着该产品可以在社交场合里佩戴使用，也许有可能会像智能手机一样地便携易用，随处可用。</p>
+<h2 id="-">便携式投影计算模块</h2>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/5792b2a4e3df286ad2ba5555/1469231797379/?format=750w" alt=""></p>
+<p><em>如图所示，一个与 Magic Leap 便携模块大小类似的充电宝。</em></p>
+<p>Magic Leap 最吸引突出的是能把一大部分必须的硬件设备从眼镜本体上拆除，放在另外一个独立的模块中。Hololens，刚好相反，其显著地削减了头戴设备中各个组件的尺寸，但也只能做到现在的程度。那便携模块里面都有些什么呢？可能有如下部分：</p>
+<ul>
+<li><p>电池</p>
+<p>这块电池的容量大约相当于现在的智能手机，也许还得再多点。如果要替代智能手机，那更得是相当牛的一块大电池。估摸着差不多至少得 5000 毫安时。</p>
+</li><li><p>CPU/GPU</p>
+<p>肯定要用最新一代的移动 CPU。估计会用高通的。幸运的是，他们应该用不到高端图形处理，因为混合现实（Mixed Reality MR）只需要渲染局部，不需要渲染整个场景。这样就避免了虚拟现实（Virtual Reality VR）所需的高强度图形处理。</p>
+</li><li><p>内存</p>
+<p>跟智能手机差不多，估计 3 - 4 GB。</p>
+</li><li><p>定制的 <a href="https://zh.wikipedia.org/wiki/%E5%8D%B3%E6%97%B6%E5%AE%9A%E4%BD%8D%E4%B8%8E%E5%9C%B0%E5%9B%BE%E6%9E%84%E5%BB%BA">SLAM</a> 芯片</p>
+<p>这个是把虚拟物体摆放到真实世界所必需的。他们可能会自己流片，或者采用 <a href="http://www.movidius.com/">Movidius</a> 或其它类似的芯片。</p>
+</li><li><p>4G/Wifi/蓝牙</p>
+</li><li><p>SIM 卡</p>
+</li><li><p>GPS 芯片</p>
+</li><li><p>相机</p>
+<p>眼镜上肯定要有一堆相机，但便携模块也不一定就没有。头戴设备上的 SLAM 相机跟普通数码相机是不同的。眼镜的体积有限，可能容不下一个高功耗的相机，只能放进便携模块。这样设计的好处是可以减轻他人对隐私侵犯的担忧，没有便携模块只有眼镜的话，没法拍照。</p>
+</li><li><p>激光投影仪</p>
+<p>这是该设备最主要的创新。把投影系统从眼镜上拿走，挪到便携模块上，使得产品的体积显著缩小。投影的光由便携模块生成，然后通过光纤传导到头戴设备。后面我们会详细分析一下其工作原理。</p>
+</li></ul>
+<h2 id="-">眼镜</h2>
+<p>当我们尽可能把所有东西都塞进便携模块之后，眼镜上剩下啥了？眼镜上得安装如下组件：</p>
+<ul>
+<li><p><a href="https://zh.wikipedia.org/wiki/%E6%83%AF%E6%80%A7%E6%B5%8B%E9%87%8F%E5%8D%95%E5%85%83">惯性测量单元</a></p>
+<p>就是常见的加速度传感器、陀螺仪和指南针。</p>
+</li><li><p>耳机</p>
+<p>也许会用 Google Glass 上的那种骨传导耳机。这要看他们的设计思路是不是要与身体相协调。骨传导的优势是你既能听见耳机播放的音乐，同时听到其他的声音。</p>
+</li><li><p>麦克风</p>
+</li><li><p>光学部分</p>
+</li><li><p>相机</p>
+<p>光学部分和相机是最有趣的组件，我们详细分析一下。</p>
+</li></ul>
+<h2 id="-">光学部分</h2>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/579390036b8f5b356ab19410/1469288474980/?format=750w" alt=""></p>
+<p>根据专利文献，Magic Leap 使用的光学设备比 Hololens 和 Google Glass 使用的传统投影系统小很多。如上图所示，光源是与头戴设备的主体分离的，这就是为什么我们可以推测光源在便携模块中。其次，该设备的镜片系统也非常小。示意图所以虽然明显不是等比例绘制，但也一定表示相关元件的大致尺寸。我们唯一真正看到的元件是镜片。比较图中上侧的 5、6、7、8 元件和镜片的宽度，我们不难看出相对大小。</p>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/579392f4d482e99199cbc945/1469289231867/?format=750w" alt=""></p>
+<p>这说明什么？他们怎么能把光学部分缩小这么多，同时还号称能实现光场显示、高分辨率和惊人的视野？答案包括两部分：光纤扫描显示与光子光场芯片。</p>
+<h3 id="-">光纤扫描显示</h3>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/5794e7ca6b8f5b356ab807bb/1469376460140/?format=500w" alt=""></p>
+<p>光纤扫描显示是从未在消费电子产品中使用过的全新的显示系统。我们只能通过其 <a href="https://patentscope.wipo.int/search/docservicepdf_pct/id00000025732444/APBDY/WO2014113506.pdf">2013 年的专利申请文件</a>进行了解。这份专利申请文件有些日子了，所以关于系统性能的一些细节可能已经不准确了，但基本概念应该还是一样的。该系统使用一组致动光纤来扫描输出远大于其数值孔径的图像。这就像老式的显像管电视。只不过不是扫描输出电子到荧幕来激发荧光粉发光，而是直接扫描输出光。扫描是通过压电致动器来实现的。扫描频率保持在大约几十 kHz。但实际图像刷新率并没有那么高。因为需要多次扫描（专利里面举例如 250 次）才生成一整幅图像。这完全改变了我们对于分辨率的概念。这个技术的图像分辨率取决于光纤的扫描频率，光纤可以汇聚的最小光斑尺寸（这决定了像素大小），生成一幅图像所需的扫描次数和刷新帧率。考虑到专利申请之后，他们对于该技术的进一步优化，其分辨率应该远超现有的消费电子产品。</p>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/5794e4d5d2b857dd70a0a5a6/1469375805073/?format=750w" alt=""></p>
+<p><em>一组光纤扫描单元紧密排列为一束来增加显示的尺寸。每根光纤扫描单元的宽度为 1 mm。</em></p>
+<p>除了分辨率和帧率，一个宽广的视场（Field of View FOV）同样也是显示逼真的全息图像的关键。关于这一块，专利的背景信息部分有一段很有趣的描述。</p>
+<blockquote>
+<p>头戴显示器（Head Mounted Display HMD）的视场可以由微型显示器的图像尺寸和观察光路共同决定。人类的视觉系统的视场，水平大约 200°，垂直大约 130°。但大多数头戴显示器仅仅提供了 40° 左右的视场。…… 大约 50 - 60 弧秒的弧度分辨率代表着 20/20 的视力表分辨率（译者注：视力测试标准中正常人眼较高的成绩，参见 <a href="https://en.wikipedia.org/wiki/Visual_acuity">WIKI</a>）。而弧度分辨率，是由微型显示器的像素密度决定的。为了匹配一般人的视觉系统，头戴显示器应在水平 40°、垂直 40° 的视场内提供 20/20 视力表分辨率。以 50 弧秒计算，相当于八百万像素（8 Mpx）。如果把视场拓展到水平 120°、垂直 80°，则需要五千万像素（50 Mpx）。</p>
+</blockquote>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/5794e79b6b8f5b356ab80692/1469376420159/?format=500w" alt=""></p>
+<p>这里谈到了两件事。第一，消费级显示器的分辨率远远小于大视场所需。这就是为什么 Hololens 想要增大视场的话如此的艰难。第二，这显示出 Magic Leap 的野心。他们想提供一个水平 120°、垂直 80°的视场。这个视场比 Oculus Rift 的视场还大，同时分辨率也远超。他们有没有实现呢？现在还很难说，但至少专利里面已经提到了一些技术参数，同时不要忘了这些还是三年前的数据。他们很有可能已经改进提高了这个技术。</p>
+<p>像素间距是从一个像素中心到相邻像素中心的距离。它限制了图像的分辨率。传统的微型显示器，例如 Hololens 所用的，其像素间距在 4 - 5 微米。像素间距限制了这些显示器的分辨率，也因此限制了生成的视场。专利申请文件表明，扫描式光纤显示器能够生成 0.6 微米的像素间距，提升了一个数量级。</p>
+<p>那究竟能达到什么分辨率？专利里有一段提到一个 4375 x 2300 分辨率，但我觉得还不止。这是在描述基本方法时举的一个例子，后面还讨论了多核光纤对于性能的提升。我认为其分辨率会远远高于该分辨率。这对于宽广的视场是至关重要的。</p>
+<p>最后专利提到 120° 视场的这句特别值得注意：</p>
+<blockquote>
+<p>以上所述技术可以用来制造具有宽广视野的头戴式或其他近眼显示方式的超高分辨率显示器。</p>
+</blockquote>
+<p>我认为这充分验证了，其视场将至少大于 40°，接近其宣称的 120° 也并不是不可思议的。要我下注的话，我赌 90°。</p>
+<h3 id="-">光子光场芯片</h3>
+<p>第一次听说 Rony Abovitz 给他的镜片起名叫“光子光场芯片”，我都郁闷了。别总给这些早就有的东西起一些不着调的名字了。就叫它 Rony 镜片就好了。但随着我逐渐加深理解，它还真不是一个简单的镜片。它究竟是干什么的，为什么它比其他镜片更有意思？我们先来了解一下衍射光学元件。</p>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/5794e9dc2e69cf39f3b30b70/1469376998982/?format=500w" alt=""></p>
+<p><em>一个衍射光学元件的例子</em></p>
+<p>可以把衍射光学元件（Diffractive Optical Elements DOEs）想成是一组非常细的镜片。他们可以用来整形，分光，匀化、扩散。Magic Leap 使用带有圆形镜片的线性衍射光栅来分光，并生成特定焦距的光束。就是说，它把光导入你的眼中，并让这些光就好像是从一个正确的焦平面发射出来的一样。一般人说，说起来容易做起来难，这个说起来都难。至少我找到的<a href="http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PG01&amp;p=1&amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&amp;r=1&amp;f=G&amp;l=50&amp;s1=%2220150016777%22.PGNR.&amp;OS=DN/20150016777&amp;RS=DN/20150016777">专利文件</a>是这么写的。</p>
+<p>为了生成光场，Magic Leap 使用两个分立的元件配置了一个光子芯片。一个元件（原理图中的 6）提取投影光，并将其插入第二个元件（原理图中的 1），第二个元件将光导入人眼。</p>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/57951f55cd0f6810d12d4c79/1469390694748/?format=500w" alt=""></p>
+<p>这两个元件都是使用 DOEs 来完成工作。DOEs 的主要问题在于，他们经过精心调试只能用来进行一个特定工作。他们不能工作于不同的波长，不能实时改变到不同的焦点。为了解决这个问题，Magic Leap 堆叠了一组针对不同波长和焦平面优化的 DOEs，作为一个大镜片组来用。这些 DOEs 都非常的薄，跟光的波长在一个尺度，所以加在一起也不会让设备变得太厚。这就是为什么这个光学系统被称为芯片。Magic Leap 能够开关 DOEs 的不同层。这样，他们可以改变光到达人眼所使用的路径。这就是他们如何改变图像的焦点，来形成一个真实的光场。就像专利里面说的：</p>
+<blockquote>
+<p>例如，当打开一组 DOEs 里面的第一个的时候，对于一个从正面看进来的观察者，可以产生一个光学观察距离 1 米的像。一组里面的第二个 DOE 打开时，可以生成一个光学观察距离 1.25 米的像。</p>
+</blockquote>
+<p>你可能觉得这个技术很局限，尤其是当你需要一大堆层来产生各种不同焦点的像的时候，但还真不是那么回事。不同的 DOEs 的组合可以产生不同的输出。并不是一个 DOE 对应一个焦平面，而是一个 DOEs 组合对应一个焦平面。</p>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/5795228e2e69cf39f3b4b572/1469391511698/?format=750w" alt=""></p>
+<p><em>改变 DOEs 组中的激活层，就会改变从光子光场芯片射出的光。他们很有可能有比图中多得多的层，但具体多少层就天知道了。</em></p>
+<p>最终，我们明白了 Magic Leap 怎么实现其过去宣称的用光来制造暗了。我们分别使用一个外侧的 DOE 和一个内侧的 DOE 就可以像主动降噪耳机一样抵消外界的光。专利里面是这样说的：</p>
+<blockquote>
+<p>这可以用来抵消类似于背景光或真实世界光的平面光波导，在某种程度上类似于主动降噪耳机。</p>
+</blockquote>
+<p>那，为什么这是一个芯片？呃，一个典型的电子芯片基于某种条件改变电子的流向。Magic Leap 的光子光场芯片基于某些参数改变光子的通路。我觉得也算是一种芯片了。</p>
+<p>我们还缺什么？我们有了光子光场芯片，有了高分辨率投影，但如何构造一幅图像。这个是靠组合。图像是分层绘制的，以便让不同的部件投影到不同的焦距的子图像上。就是说，每一帧都是通过多次扫描来构建的，每一个焦平面都是分别绘制的。</p>
+<h2 id="-">相机</h2>
+<p>Magic Leap 试图在相机上实现三个功能。第一个，最明显的，一个生成日常图像的相机。这是他们所使用的最容易理解的相机技术，他们也许就是用一个智能手机市场上最新的类似传感器。这个相机是放在眼镜上还是便携模块上，仍不可知，但总要有一个能拍照片的。</p>
+<p>其他两个功能很有意思。Magic leap 反复提到其设备具有理解周围世界的能力。在<a href="https://www.youtube.com/watch?v=bmHSIEx69TQ&amp;feature=youtu.be&amp;t=20m47s">一个采访</a>里面，提到该设备能识别物体，例如刀和叉子。要想做到这个，他们需要一组相机。我们可以看看这方面做的不错的 Hololens。Hololens 有一组四个环境感知相机和一个深度相机。从 Magic Leap 的专利文档中我们能得到进一步确认。</p>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/57966bb1e58c62692ef08bdc/1469475770787/?format=750w" alt=""></p>
+<p><em>原理图上显示的是眼镜左右镜腿上的两个元件。上面是左边镜腿的，下面是右边镜腿的。</em></p>
+<p>由以上原理图，我们可以发现两个向外的相机，叫做“world camera”。专利的文字描述暗示可能不止两台相机，原文所述为“一个或多个面向外侧或提供世界视角的相机（每侧）”。暂时，还不知道具体会有多少个相机，也不知道 Magic Leap 会把这些元件做得有多小。但我们知道的是，这些要放在眼镜上，而且对于 SLAM 非常重要。</p>
+<p>最后一个相机的功能也可以从上面的原理图中找到。至少要有两个相机拍摄眼睛。这是用来追踪视线和眼动以便获取焦点和视线方向。同时也会有红外 LED 为这两个相机提供照明。眼跟踪对于用户交互很重要。我想“你在看什么”个问题对于你如何与 Magic Leap 交互应该是非常重要的。这将是其主要的交互工具，就像是电脑的鼠标。</p>
+<p><img src="http://static1.squarespace.com/static/5769341bf7e0ab978ac733a5/t/57969d5bd1758ee6066b891a/1469488498303/?format=750w" alt=""></p>
+<p>当然，现在，我没法验证这些信息是真是假，但这些加总在一起，确实感觉上就像 Magic Leap 正在做的东西。不管最后这个产品会不会在消费市场上获得成功，这确实是好一阵子没有见到的一个技术产业的真正意义上的创新。我真的无比激动想要看看他们会有什么奇遇，同时也期待该产品在业界会造成什么样的影响。</p>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
