@@ -11,14 +11,33 @@ hidedate: true
 ## Projects ##
 
 + Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and [Zhenhua Guo][cszhguo]
+
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
+
 + Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with [Dongmin Guo][csdmguo]
+
 + High Resolution Fingerprints Capturing Device, with [Feng Liu](csfliu)
+
 + [Hand Back Project](http://www.handback.ml), with Jin Xie
+
+[![](http://www.handback.ml/images/compact-in-paper.jpg)](http://www.handback.ml)
+
++ [Door Handle Project](http://www.doorhandle.ml/cn)
+
+[![](http://doorhandle.ml/images/fig_handle_scheme.png)](http://www.doorhandle.ml/cn)
+
 + **Line Scan Palmprint System ([newly published][SMCA-LPS])** (LPS website: [linescanpalmprint.ml](http://www.linescanpalmprint.ml))
+
+[![](http://www.linescanpalmprint.ml/images/line-scan-palmprint-device-model.png)](http://www.linescanpalmprint.ml)
+
 + **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS])** (DKHRS website: [doorknob.ml](http://www.doorknob.ml))
-+ CBS: Cancellable ([Def](http://www.scholarpedia.org/article/Cancelable_biometrics), [App](http://perso.telecom-paristech.fr/~chollet/Biblio/Articles/Domaines/BIOMET/ratha.pdf), [Study 1](http://www.comp.hkbu.edu.hk/~ycfeng/project/Cancelable%20biometrics%20and%20annotations%20on%20biohash.pdf), [Study 2](http://www.sciencedirect.com/science/article/pii/S1877050912000737)), disposable, and short-time Biometric System (Prepared)
+
+[![](http://www.doorknob.ml/images/fig_device.png)](http://www.doorknob.ml)
+
++ CBS: Cancellable ([Def](http://www.scholarpedia.org/article/Cancelable_biometrics), [App](http://perso.telecom-paristech.fr/~chollet/Biblio/Articles/Domaines/BIOMET/ratha.pdf), [Study 1](http://www.comp.hkbu.edu.hk/~ycfeng/project/Cancelable%20biometrics%20and%20annotations%20on%20biohash.pdf), [Study 2](http://www.sciencedirect.com/science/article/pii/S1877050912000737)), disposable, and short-time Biometric System (Preparing)
+
 + RING (Brain storming)
+
 + Stick (Brain storming)
 
 ## Academic Publications ##
