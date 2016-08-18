@@ -22,7 +22,7 @@ hidedate: true
 
 + Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with [Dongmin Guo][csdmguo]
 
-![](http://www.quxiaofeng.me/images/fig_odor_sensors.png)
+![](http://www.quxiaofeng.me/images/fig_odor_sensors.jpg)
 
 + High Resolution Fingerprints Capturing Device, with [Feng Liu](csfliu)
 
