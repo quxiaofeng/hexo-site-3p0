@@ -34,11 +34,11 @@ hidedate: true
 
 [![](http://www.quxiaofeng.me/images/fig_doorhandle.png)](http://www.doorhandle.ml/cn)
 
-+ **Line Scan Palmprint System ([newly published][SMCA-LPS])** (LPS website: [linescanpalmprint.ml](http://www.linescanpalmprint.ml))
++ **Line Scan Palmprint System ([newly published][SMCA-LPS])** (Site: [linescanpalmprint.ml](http://www.linescanpalmprint.ml); [HTML version](http://www.linescanpalmprint.ml/lps/))
 
 [![](http://www.quxiaofeng.me/images/fig_linescan.png)](http://www.linescanpalmprint.ml)
 
-+ **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS])** (DKHRS website: [doorknob.ml](http://www.doorknob.ml))
++ **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS])** (Site: [doorknob.ml](http://www.doorknob.ml); [HTML version](http://www.doorknob.ml/dkhrs/))
 
 [![](http://www.quxiaofeng.me/images/fig_doorknob.png)](http://www.doorknob.ml)
 
