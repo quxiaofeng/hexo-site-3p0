@@ -12,9 +12,17 @@ hidedate: true
 
 + Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and [Zhenhua Guo][cszhguo]
 
+![](http://www.quxiaofeng.me/images/fig_dsp_palmprint.png)
+
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
 
+![](http://www.quxiaofeng.me/images/fig_3d_palmprint.png)
+
+![](http://www.quxiaofeng.me/images/fig_dsp_3d_palmprint.png)
+
 + Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with [Dongmin Guo][csdmguo]
+
+![](http://www.quxiaofeng.me/images/fig_odor_sensors.png)
 
 + High Resolution Fingerprints Capturing Device, with [Feng Liu](csfliu)
 
