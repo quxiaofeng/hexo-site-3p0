@@ -12,9 +12,17 @@ hidedate: true
 
 + Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and [Zhenhua Guo][cszhguo]
 
+![](http://www.quxiaofeng.me/images/fig_dsp_palmprint.png)
+
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
 
+![](http://www.quxiaofeng.me/images/fig_3d_palmprint.png)
+
+![](http://www.quxiaofeng.me/images/fig_dsp_3d_palmprint.png)
+
 + Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with [Dongmin Guo][csdmguo]
+
+![](http://www.quxiaofeng.me/images/fig_odor_sensors.jpg)
 
 + High Resolution Fingerprints Capturing Device, with [Feng Liu](csfliu)
 
@@ -26,11 +34,11 @@ hidedate: true
 
 [![](http://www.quxiaofeng.me/images/fig_doorhandle.png)](http://www.doorhandle.ml/cn)
 
-+ **Line Scan Palmprint System ([newly published][SMCA-LPS])** (LPS website: [linescanpalmprint.ml](http://www.linescanpalmprint.ml))
++ **Line Scan Palmprint System ([newly published][SMCA-LPS]; [HTML version](http://www.linescanpalmprint.ml/lps/))** (Site: [linescanpalmprint.ml](http://www.linescanpalmprint.ml))
 
 [![](http://www.quxiaofeng.me/images/fig_linescan.png)](http://www.linescanpalmprint.ml)
 
-+ **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS])** (DKHRS website: [doorknob.ml](http://www.doorknob.ml))
++ **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS]; [HTML version](http://www.doorknob.ml/dkhrs/))** (Site: [doorknob.ml](http://www.doorknob.ml))
 
 [![](http://www.quxiaofeng.me/images/fig_doorknob.png)](http://www.doorknob.ml)
 
