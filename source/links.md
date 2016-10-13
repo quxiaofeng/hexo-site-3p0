@@ -51,7 +51,7 @@ Work
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
-+ [CVPR 2017](http://pamitc.org/cvpr16/) - Nov. 15, 2016
++ [CVPR 2017](http://cvpr2017.thecvf.com/submission/timeline) - Nov. 15, 2016
 + [NIPS](https://nips.cc)
 + [ICCV](http://pamitc.org)
 + [ICIP](http://www.ieeeicip2016.org)
