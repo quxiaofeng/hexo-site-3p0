@@ -11,40 +11,28 @@ hidedate: true
 [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
 ----------------------------------------------------
 
-+ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php) - 理大校园地图
-+ [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout) - 校邮箱
-+ [Research Portal](https://www40.polyu.edu.hk/rostudportal/tologin.do)
-+ [Sports Facilities Booking System](https://www40.polyu.edu.hk/saosport/) - 预定运动设施
-+ [Library](http://www.lib.polyu.edu.hk/) - 图书馆
-+ [University Health Service Online Booking](https://uhsappt.polyu.edu.hk/) - 校医院
-+ [Financial Office](http://www.polyu.edu.hk/fo/FO_Web/index.php?page=5&subpage=stud04)
-+ [EEPRS](http://www.engl.polyu.edu.hk/eeprs/)
 + [Corpus of Research Articles](http://rcpce.engl.polyu.edu.hk/RACorpus/default.htm) - 学术英语词汇搭配
 + [FAQs about Academic Writing for Engineering](https://osawec.elc.cityu.edu.hk/)
-+ [ELC Booking System for WAP](http://booking.elc.polyu.edu.hk/) - 论文审校
-+ [ELC e-Learning](http://elearn.elc.polyu.edu.hk/)
-+ [Blackboard](https://learn.polyu.edu.hk/)
 + [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_beamer_theme) - 理大 Beamer 模板
 + [PolyU Thesis Template](https://github.com/quxiaofeng/PolyU_thesis_template) - 理大毕业论文 LaTeX 模板
 
 ### [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
 
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/) - 学系邮箱
-+ [Intranet](https://intranet.comp.polyu.edu.hk/) - 学系内网
 + [Printer Driver](\\sfprint.msds.comp.polyu.edu.hk) - 学系内打印机
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
 Life
 ------------------------------
 
-+ [Weather - Observatory](http://www.hko.gov.hk/wxinfo/currwx/fndc.htm)
++ [Bank - 农业银行](http://www.abchina.com/cn/wydl/grwydl/)
++ [Bank - 招商银行](https://www.cmbchina.com/)
++ [Bank - 中国银行外汇牌价](http://www.boc.cn/sourcedb/whpj/)
++ [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
 + [Bank - HangSeng](https://e-banking.hangseng.com)
 + [Bank - BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
 + [Bank - Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
 + [Bank - PPS](https://www.ppshk.com/hkt/revamp2/Chinese/InternetPPSLogon.html)
-+ [Bank - 招商银行](https://www.cmbchina.com/)
-+ [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
-+ [Bank - 中国银行外汇牌价](http://www.boc.cn/sourcedb/whpj/)
 + [Mobile - Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
 + [VPN  - VpnCloud](https://www.ttincloud.com/)
 
@@ -56,17 +44,15 @@ Work
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp) 
-  - [Special Issue on Ubiquitous Biometrics](http://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-ubiquitous-biometrics/)
-  - July 15, 2016
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
-+ [NIPS](https://nips.cc/)
-+ [ICCV](http://pamitc.org/iccv15/)
-+ [CVPR](http://www.pamitc.org/cvpr16/)
-+ [ICIP](http://www.ieeeicip2016.org/CallForPapers.asp)
-+ [ICML](http://icml.cc/2017)
++ [NIPS](https://nips.cc)
++ [ICCV](http://pamitc.org)
++ [CVPR](http://pamitc.org/cvpr16/)
++ [ICIP](http://www.ieeeicip2016.org)
++ [ICML](http://icml.cc)
 
 ### Cloud Work Flow 
 
