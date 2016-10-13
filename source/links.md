@@ -42,15 +42,18 @@ Work
 ### Academy
 
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
-+ [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
-+ [Pattern Recognition](http://ees.elsevier.com/pr/default.asp) 
++ [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/) - SI on RE-IMAGINING PARTICIPATORY DESIGN - Jan 5, 2017
++ [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
+  + SI on Distance Metric Learning for Pattern Recognition - Nov. 15, 2016 
+  + SI on Articulated Motion and Deformable Objects - Dec. 15, 2016
+  + SI on Pattern Recognition for High Performance Imaging - Jan. 5, 2017
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
++ [CVPR 2017](http://pamitc.org/cvpr16/) - Nov. 15, 2016
 + [NIPS](https://nips.cc)
 + [ICCV](http://pamitc.org)
-+ [CVPR](http://pamitc.org/cvpr16/)
 + [ICIP](http://www.ieeeicip2016.org)
 + [ICML](http://icml.cc)
 
