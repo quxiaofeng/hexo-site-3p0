@@ -52,6 +52,7 @@ Work
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
 + [CVPR 2017](http://cvpr2017.thecvf.com/submission/timeline) - Nov. 15, 2016
++ [ICME 2017](http://www.icme2017.org/call-for-papers/) - Dec. 2, 2016
 + [NIPS](https://nips.cc)
 + [ICCV](http://pamitc.org)
 + [ICIP](http://www.ieeeicip2016.org)
