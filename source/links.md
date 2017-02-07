@@ -10,6 +10,9 @@ hidedate: true
 
 ## [LUMI](http://lumiunited.com)
 
++ [Aqara](http://www.aqara.com)
++ [XiaoMi](http://www.mi.com)
+
 
 [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
 ----------------------------------------------------
@@ -25,6 +28,7 @@ hidedate: true
 + [Printer Driver](\\sfprint.msds.comp.polyu.edu.hk) - 学系内打印机
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
+
 Life
 ------------------------------
 
@@ -39,23 +43,21 @@ Life
 + [Mobile - Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
 + [VPN  - VpnCloud](https://www.ttincloud.com/)
 
+
 Work
 --------------------------------------
 
 ### Academy
 
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
-+ [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/) - SI on RE-IMAGINING PARTICIPATORY DESIGN - Jan 5, 2017
++ [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
-  + SI on Distance Metric Learning for Pattern Recognition - Nov. 15, 2016 
-  + SI on Articulated Motion and Deformable Objects - Dec. 15, 2016
-  + SI on Pattern Recognition for High Performance Imaging - Jan. 5, 2017
 + [International Journal of Computer Vision](http://www.springer.com/computer/image+processing/journal/11263)
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
-+ [CVPR 2017](http://cvpr2017.thecvf.com/submission/timeline) - Nov. 15, 2016
-+ [ICME 2017](http://www.icme2017.org/call-for-papers/) - Dec. 2, 2016
++ [CVPR 2017](http://cvpr2017.thecvf.com/submission/timeline)
++ [ICME 2017](http://www.icme2017.org/call-for-papers/)
 + [NIPS](https://nips.cc)
 + [ICCV](http://pamitc.org)
 + [ICIP](http://www.ieeeicip2016.org)
@@ -80,11 +82,11 @@ Work
 #### Data Analysis
 
 + [青云 QINGCLOUD](http://www.qingcloud.com/)
-+ [DataJoy](http://www.getdatajoy.com/)
++ [DataJoy](http://www.getdatajoy.com/) (Closed)
 + [Beaker](http://beakernotebook.com/)
 + [Coding.net](http://coding.net/)
 + [Algorithmia](https://algorithmia.com/)
- 
+
 #### References
 
 + [Mendeley](http://www.mendeley.com/)
@@ -98,6 +100,7 @@ Work
 + [IEEE](http://ieeexplore.ieee.org/)
 + [ScienceDirect](http://www.sciencedirect.com/)
 + [Derivative Calculator](http://www.derivative-calculator.net/)
++ [漢字古今中外讀音查詢](http://www.phonicavi.com/dictionary/MCPDict/)
 
 #### Version Control
 
@@ -155,7 +158,7 @@ Work
 + [DaoCloud.io](https://www.daocloud.io/)
 + [docker中文](http://www.docker.org.cn/)
 + [DockOne](http://dockerone.com/)
- 
+
 ### Language
 
 + [Duolingo](https://www.duolingo.com/) - European Languages
