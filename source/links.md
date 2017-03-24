@@ -49,6 +49,7 @@ Work
 
 ### Academy
 
++ [中国计算机学会·计算机视觉专委会](http://ccfcv.ccf.org.cn) - [CCCV 2017](http://www.ccf-cccv.org/2017) - May 2017
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
@@ -63,7 +64,7 @@ Work
 + [ICIP](http://www.ieeeicip2016.org)
 + [ICML](http://icml.cc)
 
-### Cloud Work Flow 
+### Cloud Work Flow
 
 #### Writing
 
@@ -82,7 +83,7 @@ Work
 #### Data Analysis
 
 + [青云 QINGCLOUD](http://www.qingcloud.com/)
-+ [DataJoy](http://www.getdatajoy.com/) (Closed)
++ [UCloud](http://www.ucloud.cn)
 + [Beaker](http://beakernotebook.com/)
 + [Coding.net](http://coding.net/)
 + [Algorithmia](https://algorithmia.com/)
@@ -106,13 +107,6 @@ Work
 
 + [GitHub](https://github.com/quxiaofeng) - EDU
 + [BitBucket](http://bitbucket.org/quxiaofeng)
-+ [GitCafe](http://www.gitcafe.com)
-
-#### Management
-
-+ [RescueTime](https://www.rescuetime.com/dashboard) - Pro (Paid)
-+ [Fengche](https://fengche.co/)
-+ [滴答清单](https://dida365.com/)
 
 ### Deep Learning
 
