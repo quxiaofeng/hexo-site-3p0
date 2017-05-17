@@ -50,6 +50,7 @@ Work
 ### Academy
 
 + [中国计算机学会·计算机视觉专委会](http://ccfcv.ccf.org.cn) - [CCCV 2017](http://www.ccf-cccv.org/2017) - May 2017
++ [CCBR](http://cv.szu.edu.cn/ccbr2017/cfp.jsp) - June 2017
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
