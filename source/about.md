@@ -12,7 +12,7 @@ hidedate: true
 > # 曲晓峰
 > ##### (qǔ xiǎo fēng)
 >
-> PostDoc in Tsinghua University Graduate School in Shenzhen
+> PostDoc in Graduate School in Shenzhen, Tsinghua University
 
 ---
 
