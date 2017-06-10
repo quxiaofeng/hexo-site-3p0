@@ -55,7 +55,7 @@ after_success:
 deploy:
   provider: pages
   skip_cleanup: true
-  local_dir: .deploy
+  local_dir: .
   repo: $DEPLOY_REPO
   target_branch: master
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
