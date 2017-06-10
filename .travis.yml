@@ -45,12 +45,13 @@ script:
 after_success:
 - mkdir .deploy
 - cd .deploy
-- git clone --depth 1 --branch master --single-branch $DEPLOY_REPO . || (git init && git remote add --track master origin $DEPLOY_REPO)
+- git clone --depth 1 --branch master --single-branch https://$USER:$GITHUB_TOKEN@github.com/$DEPLOY_REPO.git . || (git init && git remote add --track master origin https://$USER:$GITHUB_TOKEN@github.com/$DEPLOY_REPO.git)
 - rm -rf ./*
 - cp -r ../public/* .
 - git add -A .
 - git commit -m 'Site updated'
 - git branch -m master
+- git push -u origin master --force
 
 deploy:
   provider: pages
