@@ -12,24 +12,13 @@ hidedate: true
 > # 曲晓峰
 > ##### (qǔ xiǎo fēng)
 >
-> Ph.D. Candidate
->
-> [Biometrics Research Centre (BRC)](http://www4.comp.polyu.edu.hk/~biometrics)
-> [Department of Computing](http://www.comp.polyu.edu.hk)
-> [The Hong Kong Polytechnic University](http://www.polyu.edu.hk)
+> PostDoc in Tsinghua University Graduate School in Shenzhen
 
 ---
 
 # Contact
 
->    Mailbox 64, PQ702,
->    Department of Computing,
->    The Hong Kong Polytechnic University,
->    Hung Hom, Kowloon, Hong Kong
-
-+ Office: PQ702
 + E-mail: xiaofeng.qu.hk@ieee.org
-+ Tel: 852 2766 7902
 
 # Teaching
 
