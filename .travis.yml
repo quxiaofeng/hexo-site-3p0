@@ -51,4 +51,13 @@ after_success:
 - git add -A .
 - git commit -m 'Site updated'
 - git branch -m master
-- git push -q -u origin master
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: .deploy
+  repo: $DEPLOY_REPO
+  target_branch: master
+  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+  on:
+    branch: master
