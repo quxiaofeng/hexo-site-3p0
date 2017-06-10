@@ -8,10 +8,6 @@ mathjax: false
 hidedate: true
 ---
 
-## [LUMI](http://lumiunited.com)
-
-+ [Aqara](http://www.aqara.com)
-+ [XiaoMi](http://www.mi.com)
 
 
 [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
@@ -174,6 +170,11 @@ Work
 + [讀賣新聞（よみうりしんぶん）](http://www.yomiuri.co.jp/) - 读卖新闻
 + [日本防卫省统合幕僚监部](http://www.mod.go.jp/js/update.htm) - 日本周边舰艇
 + [AMTI](http://amti.csis.org/) - 南沙群岛
+
+## [LUMI](http://lumiunited.com)
+
++ [Aqara](http://www.aqara.com)
++ [XiaoMi](http://www.mi.com)
 
 ### Smart Hardware
 
