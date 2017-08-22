@@ -30,8 +30,6 @@ before_install:
 
 install:
 - npm install
-- npm install hexo-cli -g
-- npm install hexo --save
 
 # Notice: Replace 'YOUR NAME' and 'YOUR EMAIL'
 before_script:
