@@ -48,8 +48,7 @@ Work
 
 ### Academy
 
-+ [中国计算机学会·计算机视觉专委会](http://ccfcv.ccf.org.cn) - [CCCV 2017](http://www.ccf-cccv.org/2017) - May 2017
-+ [CCBR](http://cv.szu.edu.cn/ccbr2017/cfp.jsp) - June 2017
++ [中国计算机学会·计算机视觉专委会](http://ccfcv.ccf.org.cn)
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
 + [ACM Transactions on Computer-Human Interaction (TOCHI)](http://tochi.acm.org/)
 + [Pattern Recognition](http://ees.elsevier.com/pr/default.asp)
@@ -57,12 +56,12 @@ Work
 + [IEEE Sensors Journal](http://mc.manuscriptcentral.com/sensors)
 + [International Journal of Image and Graphics](http://www.editorialmanager.com/ijig/default.aspx)
 + [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showtl?lownerid=28858)
-+ [CVPR 2017](http://cvpr2017.thecvf.com/submission/timeline)
-+ [ICME 2017](http://www.icme2017.org/call-for-papers/)
 + [NIPS](https://nips.cc)
 + [ICCV](http://pamitc.org)
 + [ICIP](http://www.ieeeicip2016.org)
 + [ICML](http://icml.cc)
++ [CVPR](http://cvpr2017.thecvf.com/submission/timeline)
++ [ICME](http://www.icme2017.org/call-for-papers/)
 
 ### Cloud Work Flow
 
@@ -209,13 +208,15 @@ Work
 
 ### Websites
 
-+ [Optimizations - 优化方法 - optimizations.ml](http://www.optimizations.ml)
++ Optimizations - 优化方法
 + [Machine Learning with Julia - 用 Julia 搞机器学习 - zhuyingtai.ml](http://www.zhuyingtai.ml)
++ [Julia Data Science Language - Julia 数据分析语言 - juliabook.ml](http://www.juliabook.ml)
++ [学术写作神网站 - AcademicWritingOnline.ml](http://www.academicwritingonline.ml)
 + [How to Design a Biometrics - 如何设计生物特征识别系统](http://www.quxiaofeng.me/how-to-design-a-biometric-system)
 + [Security Biometrics - 人体生物特征识别](http://www.quxiaofeng.me/securitybiometrics)
 + [Machine Learning Methods - 机器学习的领域与问题](http://www.quxiaofeng.me/methods.ml)
 + [Functions of Machine Learning - 机器学习工具](http://www.quxiaofeng.me/functions.ml)
-+ [Hand Back Project (handback.ml)](http://www.handback.ml) - 手背采集系统
-+ [Door Handle Recognition System (doorhandle.ml)](http://www.doorhandle.ml/cn) - 把手识别系统
-+ [Line Scan Palmprint System (linescanpalmprint.ml)](http://www.linescanpalmprint.ml) - 线扫掌纹识别系统
-+ [Door Knob Hand Recognition System (doorknob.ml)](http://www.doorknob.ml) - 门把手识别系统
++ Hand Back Project - 手背采集系统
++ door Handle Recognition System - 把手识别系统
++ Line Scan Palmprint System - 线扫掌纹识别系统
++ Door Knob Hand Recognition System - 门把手识别系统
