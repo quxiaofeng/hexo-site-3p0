@@ -24,12 +24,16 @@ branches:
   - master
 
 before_install:
+- npm install
 - npm install -g hexo
-- npm install hexo-cli -g
-- npm install hexo --save
+- npm install -g hexo-cli --save
+- npm install -g hexo --save
 
 install:
 - npm install
+- npm install -g hexo
+- npm install -g hexo-cli --save
+- npm install -g hexo --save
 
 # Notice: Replace 'YOUR NAME' and 'YOUR EMAIL'
 before_script:
