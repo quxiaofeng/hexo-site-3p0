@@ -7,7 +7,7 @@ title: Xiaofeng QU
 subtitle:
 description: '多少恨，昨夜梦魂中。还似旧时游上苑，车如流水马如龙。花月正春风。'
 author: 'Xiaofeng QU'
-author_title: 'PostDoc in Biometrics & Machine Vision Scientist'
+author_title: 'PostDoc in Biometrics & Algorithm Engineer'
 avatar: /images/avatar.png
 location: 'Hong Kong & Shenzhen, China'
 follow: https://github.com/quxiaofeng/
@@ -66,9 +66,9 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-# disqus_shortname: quxiaofenggithub
+disqus_shortname: quxiaofenggithub
 # Duoshuo
-duoshuo_shortname: quxiaofeng
+# duoshuo_shortname: quxiaofeng
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
@@ -101,7 +101,6 @@ social:
   GitHub: http://www.github.com/quxiaofeng
   Twitter: http://www.twitter.com/quxiaofeng
   Facebook: http://www.facebook.com/quxiaofeng
-  Weibo: http://www.weibo.com/quxiaofeng
   DouBan: http://www.douban.com/people/gBlueBird
   ZhiHu: http://www.zhihu.com/people/quxiaofeng
   # 等等
