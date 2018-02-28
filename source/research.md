@@ -100,18 +100,19 @@ hidedate: true
 + [Prof. Lei Zhang](http://www4.comp.polyu.edu.hk/~cslzhang)
 + [Prof. Guangming Lu][csgmlu]
 + [Dr. Zhenhua Guo][cszhguo]
-+ Dr. Jin Xie
++ [Dr. Jin Xie](https://csjin.github.io/)
 
 ## Friends ##
 
 + [Dr. Ajay Kumar](http://www4.comp.polyu.edu.hk/~csajaykr)
-+ [Dr. Wangmeng Zuo](http://homepage.hit.edu.cn/pages/wangmengzuo)
++ [Prof. Wangmeng Zuo](http://homepage.hit.edu.cn/pages/wangmengzuo)
 + [Dr. Lin Zhang](http://sse.tongji.edu.cn/linzhang)
 + [Dr. Meng Yang](http://csse.szu.edu.cn/staff/yangm/)
-+ [Dr. Pengfei Zhu](http://www4.comp.polyu.edu.hk/~cspzhu)
++ [Dr. Pengfei Zhu](http://cs.tju.edu.cn/faculty/zhupengfei/faculty-standard/)
++ [Prof. Kaihua Zhang](http://kaihuazhang.net/)
 + [Dr. Lei Zhang (CQU)](http://www.leizhang.tk)
-+ [Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
-+ [Ke Yan](http://yanke23.com/)
++ [Dr. Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
++ [Dr. Ke Yan](http://yanke23.com/)
 + [Jun Xu](http://www4.comp.polyu.edu.hk/~csjunxu/)
 
 
