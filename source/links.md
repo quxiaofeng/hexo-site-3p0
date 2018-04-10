@@ -13,6 +13,10 @@ hidedate: true
 
 + [Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
 
+## 绿米 LUMI
+
++ [小米生态云](https://cnbj6.cloud.mi.com/)
+
 [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
 ----------------------------------------------------
 
