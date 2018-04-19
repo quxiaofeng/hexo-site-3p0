@@ -17,18 +17,14 @@ notifications:
 language: node_js
 
 node_js:
-- 0.1
+- 8.11.1
 
 branches:
   only:
   - master
 
-before_install:
-- npm install
-
 install:
-- npm install -g hexo
-- npm install -g hexo-cli --save
+- npm install
 
 # Notice: Replace 'YOUR NAME' and 'YOUR EMAIL'
 before_script:
@@ -37,9 +33,8 @@ before_script:
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-icarus.git themes/icarus
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-next.git themes/next
 
-
 script:
-- hexo generate
+- npm run build
 
 after_success:
 - mkdir .deploy
