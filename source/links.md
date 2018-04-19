@@ -15,6 +15,7 @@ hidedate: true
 - [QQ Mail](http://mail.qq.com/)
 - [Live Mail](http://mail.live.com/)
 - [Gmail](http://mail.google.com/)
+- [Zhihu](http://zhihu.com/)
 
 
 ## [清华 Tsinghua](http://www.tsinghua.edu.cn/)
