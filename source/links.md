@@ -18,14 +18,14 @@ hidedate: true
 ## [清华 Tsinghua](http://www.tsinghua.edu.cn/)
 
 - [清华邮件 Tsinghua Mail](http://mail.sz.tsinghua.edu.cn/)
-+ [清华深圳研究生院 Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
+- [清华深圳研究生院 Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
 
 ## 绿米 LUMI
 
 - [绿米邮件 LUMI Mail](http://mail.lumiunited.com/)
-+ [小米生态云 MI Cloud](http://cnbj6.cloud.mi.com/)
-+ [绿米系统服务链接 LUMI Links](http://192.168.0.4/)
-+ [绿米大数据](http://ba.aqara.cn/)
+- [小米生态云 MI Cloud](http://cnbj6.cloud.mi.com/)
+- [绿米系统服务链接 LUMI Links](http://192.168.0.4/)
+- [绿米大数据](http://ba.aqara.cn/)
 - [ALab Blog](http://alab.aqara.com/blog/)
 
 [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
