@@ -80,10 +80,9 @@ theme: next  # Keep compatibility between icarus, landscape, and next
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type:
   repo:
-    gitcafe: git@gitcafe.com:quxiaofeng/quxiaofeng.git,gitcafe-pages
-    github: git@github.com:quxiaofeng/quxiaofeng.github.io.git,master
+    github:
 
 # =============================================================================
 # NexT Theme configuration
