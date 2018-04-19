@@ -29,7 +29,7 @@ install:
 # Notice: Replace 'YOUR NAME' and 'YOUR EMAIL'
 before_script:
 - git config --global user.name 'QU Xiaofeng'
-- git config --global user.email 'xiaofeng.qu.hk@ieee.org'
+- git config --global user.email 'quxiaofeng@live.com'
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-icarus.git themes/icarus
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-next.git themes/next
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-cactus.git themes/cactus
@@ -44,7 +44,7 @@ after_success:
 - rm -rf ./*
 - cp -r ../public/* .
 - git add -A .
-- git commit -m 'Site updated'
+- git commit -m 'Site updated automatically with travis-ci'
 - git branch -m master
 - git push -u origin master --force
 
