@@ -129,7 +129,7 @@ google_analytics: UA-50831338-1
 
 # dark, light, white and classic
 theme_config:
-  colorscheme: dark
+  colorscheme: light
 
 # =============================================================================
 # End NexT Theme configuration
