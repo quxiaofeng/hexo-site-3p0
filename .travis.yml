@@ -41,7 +41,9 @@ after_success:
 - cd .deploy
 - git clone --depth 1 --branch master --single-branch https://$USER:$GITHUB_TOKEN@github.com/$DEPLOY_REPO.git . || (git init && git remote add --track master origin https://$USER:$GITHUB_TOKEN@github.com/$DEPLOY_REPO.git)
 - rm -rf ./*
+- ls -la
 - cp -r ../public/* .
+- ls -la
 - git add -A .
 - git commit -m 'Site updated'
 - git branch -m master
