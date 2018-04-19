@@ -49,12 +49,12 @@ after_success:
 - git branch -m master
 - git push -u origin master --force
 
-deploy:
-  provider: pages
-  skip_cleanup: true
-  local_dir: .
-  repo: $DEPLOY_REPO
-  target_branch: master
-  github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
-  on:
-    branch: master
+# deploy:
+#   provider: pages
+#   skip_cleanup: true
+#   local_dir: .
+#   repo: $DEPLOY_REPO
+#   target_branch: master
+#   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
+#   on:
+#     branch: master
