@@ -131,33 +131,6 @@ google_analytics: UA-50831338-1
 theme_config:
   colorscheme: dark
 
-nav:
-  Home: /
-  Blog: /archives/
-  Research: /research/
-  Links: /links/
-  Search: /Search/
-  About: /about/
-
-posts_overview:
-  show_all_posts: false
-  post_count: 5
-
-social_links:
-  github-square: http://www.github.com/quxiaofeng
-  twitter-square: http://www.twitter.com/quxiaofeng
-  facebook-square: http://www.facebook.com/quxiaofeng
-  book: http://www.zhihu.com/people/quxiaofeng # zhihu
-  bookmark: http://www.douban.com/people/gBlueBird # douban
-
-rss:
-
-disqus:
-  enabled: true
-  shortname: quxiaofenggithub
-
-search: true
-
 # =============================================================================
 # End NexT Theme configuration
 # =============================================================================
