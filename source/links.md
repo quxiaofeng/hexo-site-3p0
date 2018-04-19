@@ -10,41 +10,51 @@ hidedate: true
 
 ## 日常 Everyday
 
+
 - [Wunderlist](http://www.wunderlist.com/)
 - [QQ Mail](http://mail.qq.com/)
 - [Live Mail](http://mail.live.com/)
 - [Gmail](http://mail.google.com/)
 
+
 ## [清华 Tsinghua](http://www.tsinghua.edu.cn/)
+
 
 - [清华邮件 Tsinghua Mail](http://mail.sz.tsinghua.edu.cn/)
 - [清华深圳研究生院 Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
 
-## 绿米 LUMI
+
+## [绿米 LUMI](http://www.lumiunited.com/)
+
 
 - [绿米邮件 LUMI Mail](http://mail.lumiunited.com/)
 - [小米生态云 MI Cloud](http://cnbj6.cloud.mi.com/)
 - [绿米系统服务链接 LUMI Links](http://192.168.0.4/)
 - [绿米大数据](http://ba.aqara.cn/)
 - [ALab Blog](http://alab.aqara.com/blog/)
+- [Aqara](http://www.aqara.com)
+- [XiaoMi](http://www.mi.com)
 
-[PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
-----------------------------------------------------
+
+## [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
+
 
 + [Corpus of Research Articles](http://rcpce.engl.polyu.edu.hk/RACorpus/default.htm) - 学术英语词汇搭配
 + [FAQs about Academic Writing for Engineering](https://osawec.elc.cityu.edu.hk/)
 + [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_beamer_theme) - 理大 Beamer 模板
 + [PolyU Thesis Template](https://github.com/quxiaofeng/PolyU_thesis_template) - 理大毕业论文 LaTeX 模板
 
+
 ### [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
+
 
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/) - 学系邮箱
 + [Printer Driver](\\sfprint.msds.comp.polyu.edu.hk) - 学系内打印机
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
 
-Life
-------------------------------
+## Life
+
 
 + [Bank - 农业银行](http://www.abchina.com/cn/wydl/grwydl/)
 + [Bank - 招商银行](https://www.cmbchina.com/)
@@ -58,10 +68,11 @@ Life
 + [VPN  - VpnCloud](https://www.ttincloud.com/)
 
 
-Work
---------------------------------------
+## Work
+
 
 ### Academy
+
 
 + [中国计算机学会·计算机视觉专委会](http://ccfcv.ccf.org.cn)
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
@@ -78,16 +89,21 @@ Work
 + [CVPR](http://cvpr2017.thecvf.com/submission/timeline)
 + [ICME](http://www.icme2017.org/call-for-papers/)
 
+
 ### Cloud Work Flow
 
+
 #### Writing
+
 
 + [Overleaf](http://www.overleaf.com/) - Pro (IEEE Member)
 + [ShareLaTeX](http://www.sharelatex.com/)
 + [Linggle](http://linggle.com/)
 + [Acronymify](http://acronymify.com/)
 
+
 #### Drawing - 画图
+
 
 + [Lucid Chart](http://www.lucidchart.com/) - PDF/PNG, Pro (EDU)
 + [ProcessOn](https://www.processon.com/) - SVG, then Inkscape
@@ -95,7 +111,9 @@ Work
 + [Gliffy](http://www.gliffy.com)
 + [JPG/PNG to EPS](http://www.tlhiv.org/rast2vec/)
 
-#### Data Analysis
+
+#### Data Science
+
 
 + [青云 QINGCLOUD](http://www.qingcloud.com/)
 + [UCloud](http://www.ucloud.cn)
@@ -103,7 +121,9 @@ Work
 + [Coding.net](http://coding.net/)
 + [Algorithmia](https://algorithmia.com/)
 
+
 #### References
+
 
 + [Mendeley](http://www.mendeley.com/)
 + [SciRate](https://scirate.com/)
@@ -118,12 +138,17 @@ Work
 + [Derivative Calculator](http://www.derivative-calculator.net/)
 + [漢字古今中外讀音查詢](http://www.phonicavi.com/dictionary/MCPDict/)
 
+
 #### Version Control
+
 
 + [GitHub](https://github.com/quxiaofeng) - EDU
 + [BitBucket](http://bitbucket.org/quxiaofeng)
++ [Coding.net](https://coding.net/u/quxiaofeng)
+
 
 ### Deep Learning
+
 
 + [TensorFlow](http://www.tensorflow.org/)
 + [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
@@ -141,7 +166,9 @@ Work
 + [Learning and Optimization Group Courses](http://bcmi.sjtu.edu.cn/log/courses.html)
 + [徐亦达博士的机器学习课程](http://www-staff.it.uts.edu.au/~ydxu/statistics.htm)
 
+
 ### Julia
+
 
 + [Julia Documentation](http://docs.julialang.org/en/latest/) - A Language to Rule Them All
 + [Julia 中文](http://julia-cn.readthedocs.org/zh_CN/latest/)
@@ -149,7 +176,9 @@ Work
 + [Julia.org.cn](http://julia.org.cn/)
 + [Int8](http://int8.io)
 
+
 ### Other Resources on Coding and Pattern Recognition
+
 
 + [EDX](https://courses.edx.org/) - MOOC
 + [计蒜客](http://nanti.jisuanke.com/) - Online Judge
@@ -162,13 +191,17 @@ Work
 + [Toptal Engineering Blog](http://www.toptal.com/blog)
 + [1945 年后的美国小说](http://open.163.com/special/theamericannovelsince1945/)
 
+
 ### Docker
+
 
 + [DaoCloud.io](https://www.daocloud.io/)
 + [docker中文](http://www.docker.org.cn/)
 + [DockOne](http://dockerone.com/)
 
+
 ### Language
+
 
 + [Duolingo](https://www.duolingo.com/) - European Languages
 + [Lingua.ly](https://webapp.lingua.ly/)
@@ -189,12 +222,8 @@ Work
 + [日本防卫省统合幕僚监部](http://www.mod.go.jp/js/update.htm) - 日本周边舰艇
 + [AMTI](http://amti.csis.org/) - 南沙群岛
 
-## [LUMI](http://lumiunited.com)
-
-+ [Aqara](http://www.aqara.com)
-+ [XiaoMi](http://www.mi.com)
-
 ### Smart Hardware
+
 
 + [雷锋网](http://www.leiphone.com)
 + [MIT Technology Review](http://www.technologyreview.com/)
@@ -222,7 +251,9 @@ Work
 + [Body Visualizer](http://bodyvisualizer.com/male.html)
 + [Lens calculator 镜头计算器](http://www.vision-doctor.co.uk/optical-calculations/calulation-working-distance.html)
 
+
 ### Websites
+
 
 + Optimizations - 优化方法
 + [Machine Learning with Julia - 用 Julia 搞机器学习 - zhuyingtai.ml](http://www.zhuyingtai.ml)
