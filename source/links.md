@@ -8,14 +8,25 @@ mathjax: false
 hidedate: true
 ---
 
-[Tsinghua](http://www.tsinghua.edu.cn)
---------------------------------------
+## 日常 Everyday
 
-+ [Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
+- [Wunderlist](http://www.wunderlist.com/)
+- [QQ Mail](http://mail.qq.com/)
+- [Live Mail](http://mail.live.com/)
+- [Gmail](http://mail.google.com/)
+
+## [清华 Tsinghua](http://www.tsinghua.edu.cn/)
+
+- [清华邮件 Tsinghua Mail](http://mail.sz.tsinghua.edu.cn/)
++ [清华深圳研究生院 Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
 
 ## 绿米 LUMI
 
-+ [小米生态云](https://cnbj6.cloud.mi.com/)
+- [绿米邮件 LUMI Mail](http://mail.lumiunited.com/)
++ [小米生态云 MI Cloud](http://cnbj6.cloud.mi.com/)
++ [绿米系统服务链接 LUMI Links](http://192.168.0.4/)
++ [绿米大数据](http://ba.aqara.cn/)
+- [ALab Blog](http://alab.aqara.com/blog/)
 
 [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
 ----------------------------------------------------
@@ -80,6 +91,7 @@ Work
 
 + [Lucid Chart](http://www.lucidchart.com/) - PDF/PNG, Pro (EDU)
 + [ProcessOn](https://www.processon.com/) - SVG, then Inkscape
++ [Pixabay 图库](http://pixabay.com)
 + [Gliffy](http://www.gliffy.com)
 + [JPG/PNG to EPS](http://www.tlhiv.org/rast2vec/)
 
