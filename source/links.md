@@ -16,6 +16,9 @@ hidedate: true
 - [Live Mail](http://mail.live.com/)
 - [Gmail](http://mail.google.com/)
 - [Zhihu](http://zhihu.com/)
+- [mooc.ai](http://www.mooc.ai/my/opencourses)
+- [bilibili](http://t.bilibili.com/)
+- [Douyu 斗鱼](http://www.douyu.com/directory/myFollow)
 
 
 ## [清华 Tsinghua](http://www.tsinghua.edu.cn/)
@@ -153,10 +156,12 @@ hidedate: true
 + [Coding.net](https://coding.net/u/quxiaofeng)
 
 
-### Deep Learning
+## Deep Learning
 
 
 + [TensorFlow](http://www.tensorflow.org/)
++ [mooc.ai](http://www.mooc.ai/my/opencourses)
++ [imooc](http://imooc.com)
 + [ELEG5040](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
 + [Keras](http://keras.io/)
 + [Theano Installation](http://deeplearning.net/software/theano/install.html#install)
@@ -173,7 +178,7 @@ hidedate: true
 + [徐亦达博士的机器学习课程](http://www-staff.it.uts.edu.au/~ydxu/statistics.htm)
 
 
-### Julia
+## Julia
 
 
 + [Julia Documentation](http://docs.julialang.org/en/latest/) - A Language to Rule Them All
@@ -183,7 +188,7 @@ hidedate: true
 + [Int8](http://int8.io)
 
 
-### Other Resources on Coding and Pattern Recognition
+## Other Resources on Coding and Pattern Recognition
 
 
 + [EDX](https://courses.edx.org/) - MOOC
@@ -198,7 +203,7 @@ hidedate: true
 + [1945 年后的美国小说](http://open.163.com/special/theamericannovelsince1945/)
 
 
-### Docker
+## Docker
 
 
 + [DaoCloud.io](https://www.daocloud.io/)
@@ -206,7 +211,7 @@ hidedate: true
 + [DockOne](http://dockerone.com/)
 
 
-### Languages
+## Languages
 
 
 + [Duolingo](https://www.duolingo.com/) - European Languages
@@ -259,7 +264,7 @@ hidedate: true
 + [Lens calculator 镜头计算器](http://www.vision-doctor.co.uk/optical-calculations/calulation-working-distance.html)
 
 
-### Websites
+## Websites
 
 
 + [Optimizations - 优化方法](/optimization)
