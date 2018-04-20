@@ -8,7 +8,7 @@ mathjax: false
 hidedate: true
 ---
 
-## 日常 Everyday
+## Everyday 日常
 
 
 - [Wunderlist](http://www.wunderlist.com/)
@@ -50,23 +50,19 @@ hidedate: true
 
 
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/) - 学系邮箱
-+ [Printer Driver](\\sfprint.msds.comp.polyu.edu.hk) - 学系内打印机
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
 
 ## Life
 
 
-+ [Bank - 农业银行](http://www.abchina.com/cn/wydl/grwydl/)
++ [Bank - BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
++ [Bank - HangSeng](https://e-banking.hangseng.com)
++ [Bank - Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
++ [Bank - PPS](https://www.ppshk.com/hkt/revamp2/Chinese/InternetPPSLogon.html)
 + [Bank - 招商银行](https://www.cmbchina.com/)
 + [Bank - 中国银行外汇牌价](http://www.boc.cn/sourcedb/whpj/)
 + [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
-+ [Bank - HangSeng](https://e-banking.hangseng.com)
-+ [Bank - BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
-+ [Bank - Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
-+ [Bank - PPS](https://www.ppshk.com/hkt/revamp2/Chinese/InternetPPSLogon.html)
-+ [Mobile - Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
-+ [VPN  - VpnCloud](https://www.ttincloud.com/)
 
 
 ## Work
@@ -91,29 +87,38 @@ hidedate: true
 + [ICME](http://www.icme2017.org/call-for-papers/)
 
 
-### Cloud Work Flow
+### Cloud Work Flow 云端工作环境
 
 
-#### Writing
+#### Writing 文档写作
 
-
++ [作业部落](http://zybuluo.com/)
++ [腾讯文档](http://docs.qq.com/desktop/)
++ [有道云笔记](http://note.youdao.com/web/)
++ [印象笔记](http://app.yinxiang.com/Home.action)
 + [Overleaf](http://www.overleaf.com/) - Pro (IEEE Member)
 + [ShareLaTeX](http://www.sharelatex.com/)
+
+
+##### Tools for Writing 写作工具
+
+
 + [Linggle](http://linggle.com/)
 + [Acronymify](http://acronymify.com/)
 
 
-#### Drawing - 画图
+#### Drawing 绘图
 
 
-+ [Lucid Chart](http://www.lucidchart.com/) - PDF/PNG, Pro (EDU)
 + [ProcessOn](https://www.processon.com/) - SVG, then Inkscape
++ [Egpic 易图](http://www.egpic.cn/user/products)
++ [Lucid Chart](http://www.lucidchart.com/) - PDF/PNG, Pro (EDU)
 + [Pixabay 图库](http://pixabay.com)
 + [Gliffy](http://www.gliffy.com)
 + [JPG/PNG to EPS](http://www.tlhiv.org/rast2vec/)
 
 
-#### Data Science
+#### Data Science 数据分析
 
 
 + [青云 QINGCLOUD](http://www.qingcloud.com/)
@@ -123,7 +128,7 @@ hidedate: true
 + [Algorithmia](https://algorithmia.com/)
 
 
-#### References
+#### References 参考文献
 
 
 + [Mendeley](http://www.mendeley.com/)
@@ -140,7 +145,7 @@ hidedate: true
 + [漢字古今中外讀音查詢](http://www.phonicavi.com/dictionary/MCPDict/)
 
 
-#### Version Control
+#### Version Control 版本管理
 
 
 + [GitHub](https://github.com/quxiaofeng) - EDU
@@ -201,7 +206,7 @@ hidedate: true
 + [DockOne](http://dockerone.com/)
 
 
-### Language
+### Languages
 
 
 + [Duolingo](https://www.duolingo.com/) - European Languages
@@ -222,6 +227,7 @@ hidedate: true
 + [讀賣新聞（よみうりしんぶん）](http://www.yomiuri.co.jp/) - 读卖新闻
 + [日本防卫省统合幕僚监部](http://www.mod.go.jp/js/update.htm) - 日本周边舰艇
 + [AMTI](http://amti.csis.org/) - 南沙群岛
+
 
 ### Smart Hardware
 
@@ -256,14 +262,14 @@ hidedate: true
 ### Websites
 
 
-+ Optimizations - 优化方法
++ [Optimizations - 优化方法](/optimization)
 + [Machine Learning with Julia - 用 Julia 搞机器学习 - zhuyingtai.ml](http://www.zhuyingtai.ml)
 + [Julia Data Science Language - Julia 数据分析语言 - juliabook.ml](http://www.juliabook.ml)
 + [学术写作神网站 - AcademicWritingOnline.ml](http://www.academicwritingonline.ml)
-+ [How to Design a Biometrics - 如何设计生物特征识别系统](http://www.quxiaofeng.me/how-to-design-a-biometric-system)
-+ [Security Biometrics - 人体生物特征识别](http://www.quxiaofeng.me/securitybiometrics)
-+ [Machine Learning Methods - 机器学习的领域与问题](http://www.quxiaofeng.me/methods.ml)
-+ [Functions of Machine Learning - 机器学习工具](http://www.quxiaofeng.me/functions.ml)
++ [How to Design a Biometrics - 如何设计生物特征识别系统](/how-to-design-a-biometric-system)
++ [Security Biometrics - 人体生物特征识别](/securitybiometrics)
++ [Machine Learning Methods - 机器学习的领域与问题](/methods.ml)
++ [Functions of Machine Learning - 机器学习工具](/functions.ml)
 + Hand Back Project - 手背采集系统
 + door Handle Recognition System - 把手识别系统
 + Line Scan Palmprint System - 线扫掌纹识别系统
