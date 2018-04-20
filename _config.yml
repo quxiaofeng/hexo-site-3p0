@@ -76,7 +76,7 @@ plugins:
   hexo-generator-feed
   hexo-generator-search
 ## Themes: http://hexo.io/themes/
-theme: cactus  # Keep compatibility between icarus, landscape, cactus, and next
+theme: typography  # Keep compatibility between icarus, landscape, cactus, typography and next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

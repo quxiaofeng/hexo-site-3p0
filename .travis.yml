@@ -33,6 +33,7 @@ before_script:
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-icarus.git themes/icarus
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-next.git themes/next
 - git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-cactus.git themes/cactus
+- git clone --depth 1 --branch quxiaofeng --single-branch https://github.com/quxiaofeng/hexo-theme-typography.git themes/typography
 
 script:
 - npm run build
