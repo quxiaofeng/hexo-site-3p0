@@ -273,9 +273,10 @@ hidedate: true
 + [学术写作神网站 - AcademicWritingOnline.ml](http://www.academicwritingonline.ml)
 + [How to Design a Biometrics - 如何设计生物特征识别系统](/how-to-design-a-biometric-system)
 + [Security Biometrics - 人体生物特征识别](/securitybiometrics)
-+ [Machine Learning Methods - 机器学习的领域与问题](/methods.ml)
++ Machine Learning Methods - 机器学习的领域与问题
 + [Functions of Machine Learning - 机器学习工具](/functions.ml)
-+ Hand Back Project - 手背采集系统
-+ door Handle Recognition System - 把手识别系统
-+ Line Scan Palmprint System - 线扫掌纹识别系统
-+ Door Knob Hand Recognition System - 门把手识别系统
++ [Hand Back Project - 手背采集系统](/handback)
++ [Door Handle Recognition System - 把手识别系统](/doorhandle/cn)
++ [Line Scan Palmprint System - 线扫掌纹识别系统](/lps), [Web 版论文](/lps/lps)
++ [Door Knob Hand Recognition System - 门把手识别系统](/doorknob), [Web 版论文](/doorknob/dkhrs), [Web 版 DPL 论文](/doorknob/dpl/)
++ [HK PolyU COMP435p Biometrics Authentication 2012 Spring Tutorials](/COMP435p)
