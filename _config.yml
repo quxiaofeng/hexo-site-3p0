@@ -94,8 +94,9 @@ plugins:
   hexo-generator-archive
   hexo-generator-category-enhance
   hexo-generator-tag
+  hexo-helper-qrcode
 ## Themes: http://hexo.io/themes/
-theme: typography  # Keep compatibility between icarus, landscape, cactus, typography and next
+theme: light  # Keep compatibility between icarus, landscape, cactus, typography, light and next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
