@@ -15,9 +15,9 @@ hidedate: true
 - [QQ Mail](http://mail.qq.com/)
 - [Live Mail](http://mail.live.com/)
 - [Gmail](http://mail.google.com/)
-- [Zhihu](http://zhihu.com/)
-- [mooc.ai](http://www.mooc.ai/my/opencourses)
-- [bilibili](http://t.bilibili.com/)
+- [Zhihu 知乎](http://zhihu.com/)
+- [mooc.ai 慕课学院](http://www.mooc.ai/my/opencourses)
+- [bilibili 哔哩哔哩](http://t.bilibili.com/)
 - [Douyu 斗鱼](http://www.douyu.com/directory/myFollow)
 
 
@@ -38,6 +38,7 @@ hidedate: true
 - [ALab Blog](http://alab.aqara.com/blog/)
 - [Aqara](http://www.aqara.com)
 - [XiaoMi](http://www.mi.com)
+- [YouPin 有品](http://youpin.mi.com)
 
 
 ## [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
@@ -68,10 +69,7 @@ hidedate: true
 + [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
 
 
-## Work
-
-
-### Academy
+## Academy
 
 
 + [中国计算机学会·计算机视觉专委会](http://ccfcv.ccf.org.cn)
@@ -90,10 +88,11 @@ hidedate: true
 + [ICME](http://www.icme2017.org/call-for-papers/)
 
 
-### Cloud Work Flow 云端工作环境
+## Cloud Work Flow 云端工作环境
 
 
-#### Writing 文档写作
+### Writing 文档写作
+
 
 + [作业部落](http://zybuluo.com/)
 + [腾讯文档](http://docs.qq.com/desktop/)
@@ -103,14 +102,14 @@ hidedate: true
 + [ShareLaTeX](http://www.sharelatex.com/)
 
 
-##### Tools for Writing 写作工具
+#### Tools for Writing 写作工具
 
 
 + [Linggle](http://linggle.com/)
 + [Acronymify](http://acronymify.com/)
 
 
-#### Drawing 绘图
+### Drawing 绘图
 
 
 + [ProcessOn](https://www.processon.com/) - SVG, then Inkscape
@@ -121,7 +120,7 @@ hidedate: true
 + [JPG/PNG to EPS](http://www.tlhiv.org/rast2vec/)
 
 
-#### Data Science 数据分析
+### Data Science 数据分析
 
 
 + [青云 QINGCLOUD](http://www.qingcloud.com/)
@@ -131,7 +130,7 @@ hidedate: true
 + [Algorithmia](https://algorithmia.com/)
 
 
-#### References 参考文献
+### References 参考文献
 
 
 + [Mendeley](http://www.mendeley.com/)
@@ -148,7 +147,7 @@ hidedate: true
 + [漢字古今中外讀音查詢](http://www.phonicavi.com/dictionary/MCPDict/)
 
 
-#### Version Control 版本管理
+### Version Control 版本管理
 
 
 + [GitHub](https://github.com/quxiaofeng) - EDU
@@ -234,7 +233,7 @@ hidedate: true
 + [AMTI](http://amti.csis.org/) - 南沙群岛
 
 
-### Smart Hardware
+## Smart Hardware
 
 
 + [雷锋网](http://www.leiphone.com)
