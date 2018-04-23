@@ -26,6 +26,8 @@ hidedate: true
 
 - [清华邮件 Tsinghua Mail](http://mail.sz.tsinghua.edu.cn/)
 - [清华深圳研究生院 Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
+- [深圳市博士后业务网上办公系统](https://sz12333.gov.cn/tpmisunit/loginSystem.do?method=loginSystem)
+- [中国博士后网上办公系统](http://bg.chinapostdoctor.org.cn/V3/Manage/Login.aspx)
 
 
 ## [绿米 LUMI](http://www.lumiunited.com/)
