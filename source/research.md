@@ -12,35 +12,35 @@ hidedate: true
 
 + Palmprint Recognition Device Based on Ti DM642 DSP, with Luo Nan and [Zhenhua Guo][cszhguo]
 
-![](http://www.quxiaofeng.me/images/fig_dsp_palmprint.png)
+![](/images/fig_dsp_palmprint.png)
 
 + 3D Palmprint Device Based on Structured Light with Ti DSP, Altera FPGA, and Samsung ARM, with Luo Nan
 
-![](http://www.quxiaofeng.me/images/fig_3d_palmprint.png)
+![](/images/fig_3d_palmprint.png)
 
-![](http://www.quxiaofeng.me/images/fig_dsp_3d_palmprint.png)
+![](/images/fig_dsp_3d_palmprint.png)
 
 + Multi-channel Odor Sensing Board with USB Interface Based on CY7C68013A, with [Dongmin Guo][csdmguo]
 
-![](http://www.quxiaofeng.me/images/fig_odor_sensors.jpg)
+![](/images/fig_odor_sensors.jpg)
 
 + High Resolution Fingerprints Capturing Device, with [Feng Liu](csfliu)
 
-+ [Hand Back Project](http://www.handback.ml), with Jin Xie
++ [Hand Back Project](/handback), with Jin Xie
 
-[![](http://www.quxiaofeng.me/images/fig_handback.jpg)](http://www.handback.ml)
+[![](/images/fig_handback.jpg)](/handback)
 
-+ [Door Handle Project](http://www.doorhandle.ml/cn)
++ [Door Handle Project](/doorhandle)
 
-[![](http://www.quxiaofeng.me/images/fig_doorhandle.png)](http://www.doorhandle.ml/cn)
+[![](/images/fig_doorhandle.png)](/doorhandle)
 
-+ **Line Scan Palmprint System ([newly published][SMCA-LPS]; [HTML version](http://www.linescanpalmprint.ml/lps/))** (Site: [linescanpalmprint.ml](http://www.linescanpalmprint.ml))
++ **Line Scan Palmprint System ([newly published][SMCA-LPS]; [HTML version](/lps/lps/))** ([Site](/lps))
 
-[![](http://www.quxiaofeng.me/images/fig_linescan.png)](http://www.linescanpalmprint.ml)
+[![](/images/fig_linescan.png)](/lps)
 
-+ **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS]; [HTML version](http://www.doorknob.ml/dkhrs/))** (Site: [doorknob.ml](http://www.doorknob.ml))
++ **Door Knob Hand Recognition System ([newly published][SMCA-DKHRS]; [HTML version](/doorknob/dkhrs))** ([Site](/doorknob))
 
-[![](http://www.quxiaofeng.me/images/fig_doorknob.png)](http://www.doorknob.ml)
+[![](/images/fig_doorknob.png)](/doorknob)
 
 + CBS: Cancellable ([Def](http://www.scholarpedia.org/article/Cancelable_biometrics), [App](http://perso.telecom-paristech.fr/~chollet/Biblio/Articles/Domaines/BIOMET/ratha.pdf), [Study 1](http://www.comp.hkbu.edu.hk/~ycfeng/project/Cancelable%20biometrics%20and%20annotations%20on%20biohash.pdf), [Study 2](http://www.sciencedirect.com/science/article/pii/S1877050912000737)), disposable, and short-time Biometric System (Preparing)
 
@@ -62,7 +62,7 @@ hidedate: true
 + 专利号： [ZL 201420166090.7](/docs/ZL201420166090.7.pdf)
 + China Patent CN203786745 (U)
 + Code Name: DKHRS
-+ [http://www.doorknob.ml](http://www.doorknob.ml)
++ [Site](/doorknob)
 
 ##### 2. 一种人体掌纹图像采集装置及处理方法
 ##### <a href="http://www.google.com/patents/CN102521584B?cl=en" target="_blank">A Human Palmprint Image Collection Apparatus and A Processing Method</a>
@@ -71,7 +71,7 @@ hidedate: true
 + 专利号： [ZL 20110362063.8](http://www.linescanpalmprint.ml/docs/CN102521584B.pdf)
 + China Patent CN102521584 (A) / CN102521584 (B)
 + Code Name: LPS
-+ [http://www.linescanpalmprint.ml](http://www.linescanpalmprint.ml)
++ [Site](/lps)
 
 ##### 3. 圆筒内外壁加工精度在线成像检测装置及在线成像检测方法
 ##### <a href="http://www.google.com/patents/CN100498211C?cl=en" target="_blank">On-line Imaging Detection Device and Method for Cylindrical Internal and External Wall Machining</a>
@@ -118,7 +118,7 @@ hidedate: true
 
 
 [SMCA-LPS]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7390297
-[csxfqu]: http://www.quxiaofeng.me/about
+[csxfqu]: /about
 [csdzhang]: http://www4.comp.polyu.edu.hk/~csdzhang/
 [csgmlu]: http://www.hitsz.edu.cn/body/shizi/detailen.php?strID=396
 [cszhguo]: http://www.sz.tsinghua.edu.cn/publish/sz/139/2012/20120420104947649501973/20120420104947649501973_.html
