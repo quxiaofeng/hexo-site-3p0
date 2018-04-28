@@ -113,7 +113,7 @@ hidedate: true
 + [Dr. Lei Zhang (CQU)](http://www.leizhang.tk)
 + [Dr. Shuhang Gu](https://sites.google.com/site/shuhanggu/home)
 + [Dr. Ke Yan](http://yanke23.com/)
-+ [Jun Xu](http://www4.comp.polyu.edu.hk/~csjunxu/)
++ [Dr. Jun Xu](http://www4.comp.polyu.edu.hk/~csjunxu/)
 
 
 
