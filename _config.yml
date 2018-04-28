@@ -96,7 +96,7 @@ plugins:
   hexo-generator-tag
   hexo-helper-qrcode
 ## Themes: http://hexo.io/themes/
-theme: icarus  # Keep compatibility between icarus, landscape, cactus, typography, lite and next
+theme: next  # Keep compatibility between icarus, landscape, cactus, typography, lite and next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
