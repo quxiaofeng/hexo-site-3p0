@@ -27,7 +27,7 @@ hidedate: true
 - [绿米邮件 LUMI Mail](http://mail.lumiunited.com/)
 - [小米生态云 MI Cloud](http://cnbj6.cloud.mi.com/)
 - [绿米系统服务链接 LUMI Links](http://192.168.0.4/)
-- [绿米大数据](http://ba.aqara.cn/)
+- [绿米大数据](http://bd.aqara.cn/)
 - [ALab Blog](http://alab.aqara.com/blog/)
 - [Aqara](http://www.aqara.com)
 - [XiaoMi](http://www.mi.com)
