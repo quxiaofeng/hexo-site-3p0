@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Imgage Upload</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <script type="text/javascript">
+        function imgPreview(fileDom) {
+            //判断是否支持FileReader
+            if (window.FileReader) {
+                var reader = new FileReader();
+            } else {
+                alert("您的设备不支持图片预览功能，如需该功能请升级您的设备！");
+            }
+
+            //获取文件
+            var file = fileDom.files[0];
+            var imageType = /^image\//;
+
+            var f = document.getElementById('imgFile').value;
+            //是否是图片
+            if (!imageType.test(file.type)) {
+                alert("请选择图片")
+                return false;
+            }
+
+            //是否是图片
+            if (!/(jpg|jpeg|JPEG|JPG)$/.test(f)) {
+                alert("图片类型必须是jpeg,jpg中的一种")
+                return false;
+            }
+
+            if (file) {
+                var fileSize = 0;
+                if (file.size > 1024 * 1024)
+                    fileSize = (Math.round(file.size * 100 / (1024 * 1024)) / 100).toString() + 'MB';
+                else
+                    fileSize = (Math.round(file.size * 100 / 1024) / 100).toString() + 'KB';
+                document.getElementById('fileName').innerHTML = '名称: ' + file.name;
+                document.getElementById('fileSize').innerHTML = '大小: ' + fileSize;
+                document.getElementById('fileType').innerHTML = '类型: ' + file.type;
+            }
+            //读取完成
+            reader.onload = function (e) {
+                //获取图片dom
+                var img = document.getElementById("preview");
+                //图片路径设置为读取的图片
+                img.src = e.target.result;
+                var formData = new FormData();
+                formData.append("img", file);
+                var Url = "http://alab-vision.aqara.cn/lock/direction/predict";
+                $.ajax({
+                    url: Url,
+                    type: 'POST',
+                    crossDomain: true,
+                    xhrFields: "'Access-Control-Allow-Origin': '*'",
+                    data: formData,
+                    // 告诉jQuery不要去处理发送的数据
+                    processData: false,
+                    // 告诉jQuery不要去设置Content-Type请求头
+                    contentType: false,
+                    beforeSend: function () {
+                        console.log("正在进行，请稍候");
+                        document.getElementById("tips").innerHTML = '提交中... 请稍候!';  
+                        document.getElementById("relult").innerHTML = '';
+                    },
+                    success: function (res) { 
+                        document.getElementById("relult").innerHTML = 'result: ' + JSON.stringify(res);
+                    },
+                    error: function (res) {
+                        document.getElementById("relult").innerHTML = 'result: ' + JSON.stringify(res);
+                    },
+                    complete: function (res) { 
+                        document.getElementById("tips").innerHTML = '处理完成!';  
+                    }
+                });
+
+            };
+            reader.readAsDataURL(file);
+
+        }
+    </script>
+</head>
+<style>
+    .container {
+        /* padding: 20px; */
+        margin-top: 10px;
+        text-align: center; 
+    }
+
+    .mymargintop {
+        margin-top: 10px;
+    }
+
+    .file {
+        position: relative;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .file label {
+        display: inline-block;
+    }
+
+    .userdefined-file {
+        position: absolute;
+        top: 0;
+        /* left: 60px; */
+        z-index: 2;
+        /* width: 300px; */
+        height: 40px;
+        line-height: 40px;
+        font-size: 0;
+        /*应对子元素为 inline-block 引起的外边距*/
+    }
+
+    .userdefined-file input[type="text"] {
+        display: inline-block;
+        vertical-align: middle;
+        padding-right: 14px;
+        padding-left: 14px;
+        width: 220px;
+        box-sizing: border-box;
+        border: 1px solid #ccc;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    .userdefined-file button {
+        display: inline-block;
+        vertical-align: middle;
+        width: 300px;
+        text-align: center;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+        background-color: #f54;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+    }
+    .tips{
+        background-color: #f54;
+    }
+
+    .file input[type="file"] { 
+        position: absolute;
+        top: 0;
+        left: -2px;
+        z-index: 3;
+        opacity: 0;
+        width: 300px;
+        height: 40px;
+        line-height: 40px;
+        cursor: pointer;
+    }
+    .activityForm {
+        width: 100px; 
+        text-align: center;
+        /* margin-left: 42%; */
+    }
+</style>
+
+<body>
+    <div class="container">
+        <img style="width:300px; height:300px;" id="preview" />
+        <br />
+        <div class="mymargintop">图片格式仅限jpeg,jpg </div>
+
+        <!-- <a href="javascript:;" class="upload">选择文件
+            <input type="file" name="file" id="imgFile" class="mymargintop change" onchange="imgPreview(this)" />
+        </a> -->
+        <center>
+        <div style="width:300px;"> 
+                    　　<div class="file"> 
+                        <div class="userdefined-file"> 
+                        　　<button type="button">上传</button>
+                        </div>
+                        <input type="file" name="file" id="imgFile" onchange="imgPreview(this)">            
+                    　　</div> 
+        </div>
+        </center>
+        <div class="content">
+            <div class="mymargintop" id="fileName"></div>
+            <div class="mymargintop" id="fileSize"></div>
+            <div class="mymargintop" id="fileType"></div>
+            <div class="mymargintop" class="tips" id="tips"></div>
+            <div class="mymargintop" id="relult"></div>
+        </div>
+    </div>
+
+</body>
+<script src="https://cdn.cnbj2.fds.api.mi-img.com/cdn/lumi/pc/js/jquery.min.js"></script>
+
+</html>
