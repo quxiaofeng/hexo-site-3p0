@@ -90,6 +90,7 @@ hidedate: true
 ## Reviewer for ##
 
 + [IEEE Transactions on Systems, Man and Cybernetics: Systems](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
++ [Neural Processing Letters](https://link.springer.com/journal/11063)
 + [IEEE Sensors Journal](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
 + [International Journal of Image and Graphics](http://www.worldscientific.com/worldscinet/ijig)
 
