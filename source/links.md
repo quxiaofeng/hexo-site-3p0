@@ -10,40 +10,26 @@ hidedate: true
 
 
 ## [清华 Tsinghua](http://www.tsinghua.edu.cn/)
-
 - [清华邮件 Tsinghua Mail](http://mail.sz.tsinghua.edu.cn/)
 - [清华深圳研究生院 Tsinghua Shenzhen](http://www.sz.tsinghua.edu.cn/publish/szen/)
 - [深圳市博士后业务网上办公系统](https://hrsspub.sz.gov.cn/tpmisunit/)（[深圳人力资源与社会保障局](http://www.sz.gov.cn/szrbj/wsbs/wssb/rsrc/)）
 - [中国博士后网上办公系统](http://bg.chinapostdoctor.org.cn/V3/Manage/Login.aspx)
 - [博士后基金](http://jj.chinapostdoctor.org.cn/V1/Program3/Default.aspx)
-
 [**绿米 LUMI**](http://www.lumiunited.com/)
-
 - [绿米邮件 LUMI Mail](http://mail.aqara.com/)
 - [小米生态云 MI Cloud](http://cnbj6.cloud.mi.com/)
 - [绿米系统服务链接 LUMI Links](http://192.168.0.4/)
-
-
 ## Everyday 日常
-
-
 - [QQ Mail](http://mail.qq.com/)
 - [Live Mail](http://mail.live.com/)
 - [Gmail](http://mail.google.com/)
-
-
 ## [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php)
-
 + [PolyU Mail](http://www.outook.com/connect.polyu.hk)
 + [Corpus of Research Articles](http://rcpce.engl.polyu.edu.hk/RACorpus/default.htm) - 学术英语词汇搭配
 + [FAQs about Academic Writing for Engineering](https://osawec.elc.cityu.edu.hk/)
 + [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_beamer_theme) - 理大 Beamer 模板
 + [PolyU Thesis Template](https://github.com/quxiaofeng/PolyU_thesis_template) - 理大毕业论文 LaTeX 模板
-
-
 ### [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)
-
-
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/) - 学系邮箱
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin) - 微软软件
 
@@ -62,6 +48,7 @@ hidedate: true
 
 ## Academy
 
++ [arxiv-sanity](http://arxiv-sanity.com)
 + [Publon](https://publons.com/dashboard/records/review/)
 + [中国计算机学会·计算机视觉专委会](http://ccfcv.ccf.org.cn)
 + [IEEE Transactions on Systems, Man, and Cybernetics: Systems (SMC: Systems)](http://mc.manuscriptcentral.com/systems)
