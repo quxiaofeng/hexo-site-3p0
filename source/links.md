@@ -34,7 +34,7 @@ hidedate: true
 + [Bank - XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
 + [Guancha.cn](https://www.guancha.cn)
 + [鳳溪第一小學](https://www.fk1ps.edu.hk)
-+ [雲端校本影片學習平台](https://hk.cherrypickslearning.com/)
++ [雲端校本影片學習平台](https://hk.cherrypickslearning.com/) (FK1PS-358)
 + [快樂閱讀花園](https://readinggarden.chinese.ephhk.com)
 + [Reading i-Learner](https://www.i-learner.com.hk)
 
